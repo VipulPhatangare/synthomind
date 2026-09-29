@@ -1,0 +1,118 @@
+@import "tailwindcss";
+
+@theme {
+  --color-bg: #0b0b0d;
+  --color-surface: #17171a;
+  --color-surface-2: #1f1f23;
+  --color-line: #2a2a2e;
+
+  --color-ink: #f5f3ef;
+  --color-ink-muted: #9c9a96;
+
+  --color-brand: #ff6a1a;
+  --color-brand-hover: #ff8a47;
+  --color-gold: #d9a441;
+
+  --color-improving: #3fb56c;
+  --color-declining: #e0475c;
+  --color-stagnating: #5b8cff;
+  /* Was #6b6b70 — measured ~3.4:1 against --color-surface, below WCAG AA's
+     4.5:1 for normal text. #8a8a90 measures ~5.2:1 while staying visually
+     "muted/gray", distinct from --color-ink-muted (#9c9a96, a warmer/
+     lighter neutral used for body meta text, not a verdict color). */
+  --color-insufficient: #8a8a90;
+
+  --font-sans: "Inter", system-ui, "Segoe UI", Roboto, sans-serif;
+}
+
+/*
+ * Type scale — five steps, used consistently instead of the ad-hoc
+ * text-sm/text-xs the app leaned on everywhere. Numbers stay in rem so
+ * user font-size preferences still scale the app.
+ *   display  28px/1.15  section headers people should notice from across
+ *            the room (Model Quality headline stats, big verdict numbers)
+ *   title    22px/1.2   page titles
+ *   section  15px/1.35  card/section headers
+ *   body     13.5px/1.5 default text (matches the old text-sm baseline)
+ *   meta     12px/1.4   timestamps, captions, secondary labels
+ */
+:root {
+  --text-display: 1.75rem;
+  --text-title: 1.375rem;
+  --text-section: 0.9375rem;
+  --text-body: 0.84375rem;
+  --text-meta: 0.75rem;
+}
+
+.text-display { font-size: var(--text-display); line-height: 1.15; font-weight: 600; letter-spacing: -0.01em; }
+.text-title { font-size: var(--text-title); line-height: 1.2; font-weight: 600; letter-spacing: -0.01em; }
+.text-section { font-size: var(--text-section); line-height: 1.35; font-weight: 500; }
+.text-meta { font-size: var(--text-meta); line-height: 1.4; }
+
+/* Numeric columns (metrics, IDs, percentages) visibly jitter without this —
+   digits get proportional widths by default and don't align between rows. */
+.num {
+  font-variant-numeric: tabular-nums;
+  font-feature-settings: "tnum" 1;
+}
+
+body {
+  margin: 0;
+  background: var(--color-bg);
+  color: var(--color-ink);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+}
+
+::selection {
+  background: color-mix(in srgb, var(--color-brand) 35%, transparent);
+}
+
+/* minimal scrollbar so dark surfaces don't get a jarring default bar */
+::-webkit-scrollbar { width: 10px; height: 10px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: var(--color-line); border-radius: 6px; }
+::-webkit-scrollbar-thumb:hover { background: var(--color-surface-2); }
+
+/* Visible, on-brand focus ring for keyboard nav — browser default outline
+   reads poorly against --color-bg and Tailwind's reset removes it entirely
+   without a replacement. */
+:focus-visible {
+  outline: 2px solid var(--color-brand);
+  outline-offset: 2px;
+  border-radius: 2px;
+}
+
+/* Global reduced-motion guard. Individual components (skeleton shimmer,
+   chart draw-in, chip cross-fade) opt into short transitions; this collapses
+   ALL of them at once for anyone who's asked for it at the OS level, rather
+   than requiring every future animation to remember its own media query. */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+@keyframes shimmer {
+  0% { background-position: -200% 0; }
+  100% { background-position: 200% 0; }
+}
+
+/* Chart mount fade-in — deliberately CSS, not Recharts' own animation prop.
+   Recharts re-plays its line-draw animation whenever the `data` array
+   identity changes, and TrajectoryChart's forecast/regime data arrives
+   async after the base chart's first paint — with Recharts animation on,
+   that second data append would replay the WHOLE line's draw-in a beat
+   after mount, which reads as a glitch, not a polish. A plain fade on the
+   container sidesteps that entirely: it fires once on mount and never
+   again, regardless of how many times the chart's data prop changes after. */
+@keyframes chart-fade-in {
+  from { opacity: 0; transform: translateY(4px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+.chart-mount {
+  animation: chart-fade-in 300ms ease-out;
+}

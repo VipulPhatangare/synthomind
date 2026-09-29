@@ -1,0 +1,197 @@
+{
+  "n_pairs_evaluated": 3000,
+  "raw_accuracy": 0.866,
+  "macro_f1": 0.802,
+  "per_class": {
+    "improving": {
+      "precision": 0.972,
+      "recall": 0.849,
+      "f1": 0.906,
+      "support": 1179
+    },
+    "declining": {
+      "precision": 0.975,
+      "recall": 0.798,
+      "f1": 0.877,
+      "support": 341
+    },
+    "stagnating": {
+      "precision": 0.932,
+      "recall": 0.92,
+      "f1": 0.926,
+      "support": 1257
+    },
+    "insufficient_evidence": {
+      "precision": 0.372,
+      "recall": 0.749,
+      "f1": 0.497,
+      "support": 223
+    }
+  },
+  "confusion_matrix": {
+    "improving": {
+      "improving": 1001,
+      "declining": 0,
+      "stagnating": 44,
+      "insufficient_evidence": 134
+    },
+    "declining": {
+      "improving": 0,
+      "declining": 272,
+      "stagnating": 6,
+      "insufficient_evidence": 63
+    },
+    "stagnating": {
+      "improving": 8,
+      "declining": 7,
+      "stagnating": 1157,
+      "insufficient_evidence": 85
+    },
+    "insufficient_evidence": {
+      "improving": 21,
+      "declining": 0,
+      "stagnating": 35,
+      "insufficient_evidence": 167
+    }
+  },
+  "calibration": {
+    "ece": 0.045,
+    "bins": [
+      {
+        "range": "0.7-0.8",
+        "n": 125,
+        "avgConfidence": 0.762,
+        "accuracy": 0.672
+      },
+      {
+        "range": "0.8-0.9",
+        "n": 702,
+        "avgConfidence": 0.856,
+        "accuracy": 0.915
+      },
+      {
+        "range": "0.9-1.0",
+        "n": 1724,
+        "avgConfidence": 0.952,
+        "accuracy": 0.988
+      }
+    ]
+  },
+  "abstention_quality": {
+    "coverage": 0.85,
+    "risk_given_covered": 0.047,
+    "dangerous_error_rate": 0,
+    "boundary_error_rate": 0.04,
+    "safe_abstentions": 282,
+    "true_abstentions": 167,
+    "n_dangerous": 0,
+    "n_boundary": 121,
+    "n_covered": 2551,
+    "n_total": 3000
+  },
+  "per_archetype": [
+    {
+      "archetype": "true_stagnator",
+      "n": 844,
+      "accuracy": 0.953,
+      "distribution": {
+        "stagnating": 805,
+        "insufficient_evidence": 36,
+        "declining": 1,
+        "improving": 2
+      }
+    },
+    {
+      "archetype": "steady_improver",
+      "n": 770,
+      "accuracy": 0.888,
+      "distribution": {
+        "improving": 684,
+        "insufficient_evidence": 83,
+        "stagnating": 3
+      }
+    },
+    {
+      "archetype": "noisy_flat",
+      "n": 413,
+      "accuracy": 0.852,
+      "distribution": {
+        "stagnating": 352,
+        "insufficient_evidence": 49,
+        "declining": 6,
+        "improving": 6
+      }
+    },
+    {
+      "archetype": "late_bloomer",
+      "n": 407,
+      "accuracy": 0.779,
+      "distribution": {
+        "improving": 317,
+        "stagnating": 40,
+        "insufficient_evidence": 50
+      }
+    },
+    {
+      "archetype": "decliner",
+      "n": 340,
+      "accuracy": 0.797,
+      "distribution": {
+        "declining": 271,
+        "insufficient_evidence": 63,
+        "stagnating": 6
+      }
+    },
+    {
+      "archetype": "unobserved_true",
+      "n": 78,
+      "accuracy": 0.551,
+      "distribution": {
+        "stagnating": 35,
+        "insufficient_evidence": 43
+      }
+    },
+    {
+      "archetype": "stale_true",
+      "n": 73,
+      "accuracy": 0.712,
+      "distribution": {
+        "insufficient_evidence": 52,
+        "improving": 21
+      }
+    },
+    {
+      "archetype": "sparse_true",
+      "n": 72,
+      "accuracy": 1,
+      "distribution": {
+        "insufficient_evidence": 72
+      }
+    },
+    {
+      "archetype": "role_switch_up",
+      "n": 1,
+      "accuracy": 0,
+      "distribution": {
+        "insufficient_evidence": 1
+      }
+    },
+    {
+      "archetype": "role_switch_down",
+      "n": 1,
+      "accuracy": 1,
+      "distribution": {
+        "declining": 1
+      }
+    },
+    {
+      "archetype": "biased_rater_true",
+      "n": 1,
+      "accuracy": 1,
+      "distribution": {
+        "stagnating": 1
+      }
+    }
+  ],
+  "generated_at": "2026-09-29T17:22:30.860Z"
+}

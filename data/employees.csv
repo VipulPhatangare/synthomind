@@ -1,0 +1,501 @@
+employee_id,name,department,level,level_idx,role_id,role_title,team_id,manager_id,joined_at,role_started_at,location,employment_type,status,departure_quarter,demographic_group_synthetic
+E-0001,Siddharth Saxena,Engineering,Associate,0,ENG-ASSOCIATE,Associate Engineering,ENG-T2,E-0425,2022-04-05T00:00:00.000Z,2022-04-05T00:00:00.000Z,Remote,full_time,active,,A
+E-0002,Ashwin Iyer,Sales,Mid,1,SAL-MID,Mid Sales,SAL-T2,E-0194,2023-10-27T00:00:00.000Z,2023-10-27T00:00:00.000Z,Chennai,full_time,active,,B
+E-0003,Vikram Agarwal,Marketing,Senior,2,MAR-SENIOR,Senior Marketing,MAR-T2,E-0475,2026-03-17T00:00:00.000Z,2026-03-17T00:00:00.000Z,Hyderabad,full_time,active,,B
+E-0004,Tarun Chatterjee,Product,Mid,1,PRO-MID,Mid Product,PRO-T3,E-0164,2022-08-06T00:00:00.000Z,2022-08-06T00:00:00.000Z,Chennai,contractor,active,,B
+E-0005,Sanjay Yadav,Design,Associate,0,DES-ASSOCIATE,Associate Design,DES-T1,E-0317,2020-10-15T00:00:00.000Z,2021-06-17T00:00:00.000Z,Chennai,full_time,active,,B
+E-0006,Karan Verma,Finance,Mid,1,FIN-MID,Mid Finance,FIN-T3,E-0134,2022-08-23T00:00:00.000Z,2022-08-23T00:00:00.000Z,Chennai,full_time,active,,A
+E-0007,Tarun Chavan,HR,Associate,0,HR-ASSOCIATE,Associate HR,HR-T2,E-0383,2024-03-11T00:00:00.000Z,2024-03-11T00:00:00.000Z,Chennai,full_time,active,,A
+E-0008,Ishaan Pillai,Support,Mid,1,SUP-MID,Mid Support,SUP-T3,E-0384,2024-11-07T00:00:00.000Z,2024-11-07T00:00:00.000Z,Bengaluru,full_time,active,,B
+E-0009,Neha Pandey,Engineering,Associate,0,ENG-ASSOCIATE,Associate Engineering,ENG-T2,E-0313,2023-05-05T00:00:00.000Z,2023-05-05T00:00:00.000Z,Pune,full_time,active,,B
+E-0010,Kunal Nair,Sales,Mid,1,SAL-MID,Mid Sales,SAL-T2,E-0450,2021-08-29T00:00:00.000Z,2021-08-29T00:00:00.000Z,Remote,full_time,active,,B
+E-0011,Ishaan Bhatt,Marketing,Senior,2,MAR-SENIOR,Senior Marketing,MAR-T2,E-0203,2023-03-31T00:00:00.000Z,2023-03-31T00:00:00.000Z,Pune,full_time,active,,A
+E-0012,Ananya Malhotra,Product,Lead,3,PRO-LEAD,Lead Product,PRO-T1,,2026-01-23T00:00:00.000Z,2026-01-23T00:00:00.000Z,Delhi NCR,full_time,active,,A
+E-0013,Namita Patel,Design,Senior,2,DES-SENIOR,Senior Design,DES-T2,E-0389,2025-02-28T00:00:00.000Z,2025-02-28T00:00:00.000Z,Delhi NCR,full_time,active,,B
+E-0014,Kunal Joshi,Finance,Mid,1,FIN-MID,Mid Finance,FIN-T2,E-0214,2023-01-06T00:00:00.000Z,2023-01-06T00:00:00.000Z,Pune,full_time,active,,B
+E-0015,Kunal Kapoor,HR,Associate,0,HR-ASSOCIATE,Associate HR,HR-T3,E-0103,2021-01-22T00:00:00.000Z,2021-01-22T00:00:00.000Z,Delhi NCR,contractor,active,,B
+E-0016,Nandini Singh,Support,Mid,1,SUP-MID,Mid Support,SUP-T2,E-0304,2021-04-01T00:00:00.000Z,2021-04-01T00:00:00.000Z,Mumbai,full_time,departed,5,B
+E-0017,Anjali Sengupta,Engineering,Mid,1,ENG-MID,Mid Engineering,ENG-T3,E-0321,2026-02-19T00:00:00.000Z,2026-02-19T00:00:00.000Z,Mumbai,contractor,active,,A
+E-0018,Pooja Mehta,Sales,Lead,3,SAL-LEAD,Lead Sales,SAL-T1,,2023-06-07T00:00:00.000Z,2023-06-07T00:00:00.000Z,Remote,full_time,active,,A
+E-0019,Pallavi Ghosh,Marketing,Mid,1,MAR-MID,Mid Marketing,MAR-T2,E-0075,2023-10-19T00:00:00.000Z,2023-10-19T00:00:00.000Z,Delhi NCR,full_time,active,,B
+E-0020,Ritika Pandey,Product,Mid,1,PRO-MID,Mid Product,PRO-T3,E-0116,2023-10-24T00:00:00.000Z,2023-10-24T00:00:00.000Z,Delhi NCR,full_time,active,,A
+E-0021,Meera Sharma,Design,Associate,0,DES-ASSOCIATE,Associate Design,DES-T1,E-0061,2022-05-06T00:00:00.000Z,2022-05-06T00:00:00.000Z,Pune,full_time,active,,A
+E-0022,Pooja Mehta,Finance,Associate,0,FIN-ASSOCIATE,Associate Finance,FIN-T2,E-0262,2022-05-27T00:00:00.000Z,2023-05-16T00:00:00.000Z,Delhi NCR,full_time,active,,A
+E-0023,Rajesh Ghosh,HR,Mid,1,HR-MID,Mid HR,HR-T2,E-0127,2021-10-06T00:00:00.000Z,2022-01-13T00:00:00.000Z,Remote,contractor,active,,A
+E-0024,Kritika Chavan,Support,Associate,0,SUP-ASSOCIATE,Associate Support,SUP-T2,E-0256,2022-11-19T00:00:00.000Z,2022-11-19T00:00:00.000Z,Bengaluru,full_time,active,,B
+E-0025,Isha Bansal,Engineering,Mid,1,ENG-MID,Mid Engineering,ENG-T1,E-0425,2026-01-23T00:00:00.000Z,2026-01-23T00:00:00.000Z,Hyderabad,full_time,active,,B
+E-0026,Ishaan Kumar,Sales,Mid,1,SAL-MID,Mid Sales,SAL-T3,E-0226,2023-05-14T00:00:00.000Z,2023-05-14T00:00:00.000Z,Mumbai,contractor,active,,A
+E-0027,Tanvi Kapoor,Marketing,Senior,2,MAR-SENIOR,Senior Marketing,MAR-T2,E-0475,2023-10-30T00:00:00.000Z,2023-10-30T00:00:00.000Z,Delhi NCR,full_time,active,,B
+E-0028,Deepika Mishra,Product,Associate,0,PRO-ASSOCIATE,Associate Product,PRO-T2,E-0396,2023-07-18T00:00:00.000Z,2023-07-18T00:00:00.000Z,Bengaluru,contractor,active,,A
+E-0029,Meera Bhatt,Design,Mid,1,DES-MID,Mid Design,DES-T1,E-0333,2025-05-27T00:00:00.000Z,2025-07-25T00:00:00.000Z,Hyderabad,full_time,active,,A
+E-0030,Ashwin Mehta,Finance,Lead,3,FIN-LEAD,Lead Finance,FIN-T3,,2023-11-03T00:00:00.000Z,2023-11-03T00:00:00.000Z,Delhi NCR,full_time,active,,A
+E-0031,Ananya Bhatt,HR,Senior,2,HR-SENIOR,Senior HR,HR-T2,E-0383,2025-08-08T00:00:00.000Z,2025-08-08T00:00:00.000Z,Delhi NCR,full_time,active,,B
+E-0032,Tarun Pillai,Support,Senior,2,SUP-SENIOR,Senior Support,SUP-T1,E-0384,2021-08-13T00:00:00.000Z,2021-08-13T00:00:00.000Z,Bengaluru,full_time,active,,A
+E-0033,Priya Chatterjee,Engineering,Associate,0,ENG-ASSOCIATE,Associate Engineering,ENG-T2,E-0065,2023-08-08T00:00:00.000Z,2023-08-08T00:00:00.000Z,Chennai,full_time,active,,A
+E-0034,Radhika Ghosh,Sales,Associate,0,SAL-ASSOCIATE,Associate Sales,SAL-T3,E-0098,2021-11-21T00:00:00.000Z,2021-11-21T00:00:00.000Z,Mumbai,full_time,active,,B
+E-0035,Nandini Mukherjee,Marketing,Senior,2,MAR-SENIOR,Senior Marketing,MAR-T1,E-0283,2026-03-30T00:00:00.000Z,2026-03-30T00:00:00.000Z,Mumbai,full_time,active,,A
+E-0036,Swati Thakur,Product,Lead,3,PRO-LEAD,Lead Product,PRO-T3,,2022-10-08T00:00:00.000Z,2023-08-21T00:00:00.000Z,Pune,full_time,active,,A
+E-0037,Nandini Sengupta,Design,Mid,1,DES-MID,Mid Design,DES-T2,E-0421,2025-10-28T00:00:00.000Z,2025-10-28T00:00:00.000Z,Hyderabad,full_time,active,,A
+E-0038,Kritika Mukherjee,Finance,Senior,2,FIN-SENIOR,Senior Finance,FIN-T1,E-0246,2021-02-26T00:00:00.000Z,2021-02-26T00:00:00.000Z,Chennai,full_time,active,,A
+E-0039,Anjali Trivedi,HR,Associate,0,HR-ASSOCIATE,Associate HR,HR-T1,E-0111,2022-09-28T00:00:00.000Z,2022-09-28T00:00:00.000Z,Delhi NCR,full_time,active,,B
+E-0040,Rahul Kulkarni,Support,Mid,1,SUP-MID,Mid Support,SUP-T2,E-0312,2023-12-15T00:00:00.000Z,2023-12-15T00:00:00.000Z,Pune,contractor,active,,A
+E-0041,Varun Chavan,Engineering,Associate,0,ENG-ASSOCIATE,Associate Engineering,ENG-T2,E-0353,2022-11-26T00:00:00.000Z,2022-11-26T00:00:00.000Z,Bengaluru,full_time,active,,B
+E-0042,Sanjay Dixit,Sales,Associate,0,SAL-ASSOCIATE,Associate Sales,SAL-T2,E-0482,2022-09-05T00:00:00.000Z,2022-09-05T00:00:00.000Z,Hyderabad,full_time,active,,A
+E-0043,Tarun Banerjee,Marketing,Mid,1,MAR-MID,Mid Marketing,MAR-T2,E-0387,2024-01-19T00:00:00.000Z,2024-01-19T00:00:00.000Z,Hyderabad,contractor,active,,B
+E-0044,Simran Thakur,Product,Associate,0,PRO-ASSOCIATE,Associate Product,PRO-T2,E-0052,2021-06-28T00:00:00.000Z,2021-06-28T00:00:00.000Z,Bengaluru,full_time,active,,A
+E-0045,Ritika Mehta,Design,Lead,3,DES-LEAD,Lead Design,DES-T1,,2021-01-11T00:00:00.000Z,2021-01-11T00:00:00.000Z,Mumbai,full_time,active,,A
+E-0046,Divya Patel,Finance,Associate,0,FIN-ASSOCIATE,Associate Finance,FIN-T1,E-0374,2022-05-08T00:00:00.000Z,2022-05-08T00:00:00.000Z,Chennai,full_time,active,,B
+E-0047,Kunal Chawla,HR,Mid,1,HR-MID,Mid HR,HR-T2,E-0471,2024-05-29T00:00:00.000Z,2024-05-29T00:00:00.000Z,Chennai,full_time,active,,B
+E-0048,Bhavna Mehta,Support,Mid,1,SUP-MID,Mid Support,SUP-T2,E-0304,2024-03-25T00:00:00.000Z,2024-03-25T00:00:00.000Z,Bengaluru,full_time,active,,A
+E-0049,Gaurav Mishra,Engineering,Mid,1,ENG-MID,Mid Engineering,ENG-T2,E-0217,2025-03-17T00:00:00.000Z,2025-03-17T00:00:00.000Z,Remote,full_time,active,,B
+E-0050,Divya Deshmukh,Sales,Mid,1,SAL-MID,Mid Sales,SAL-T2,E-0226,2024-02-11T00:00:00.000Z,2024-02-11T00:00:00.000Z,Delhi NCR,full_time,active,,A
+E-0051,Nikhil Chatterjee,Marketing,Senior,2,MAR-SENIOR,Senior Marketing,MAR-T1,E-0475,2024-12-10T00:00:00.000Z,2024-12-10T00:00:00.000Z,Hyderabad,full_time,active,,B
+E-0052,Divya Deshmukh,Product,Senior,2,PRO-SENIOR,Senior Product,PRO-T1,E-0116,2021-09-18T00:00:00.000Z,2021-09-18T00:00:00.000Z,Chennai,full_time,active,,B
+E-0053,Siddharth Ghosh,Design,Mid,1,DES-MID,Mid Design,DES-T1,E-0269,2022-11-11T00:00:00.000Z,2022-11-11T00:00:00.000Z,Chennai,full_time,active,,B
+E-0054,Lakshmi Kumar,Finance,Mid,1,FIN-MID,Mid Finance,FIN-T3,E-0342,2024-01-05T00:00:00.000Z,2024-01-05T00:00:00.000Z,Remote,full_time,active,,B
+E-0055,Pallavi Dixit,HR,Associate,0,HR-ASSOCIATE,Associate HR,HR-T1,E-0071,2021-08-20T00:00:00.000Z,2021-08-20T00:00:00.000Z,Bengaluru,full_time,active,,B
+E-0056,Pallavi Bansal,Support,Associate,0,SUP-ASSOCIATE,Associate Support,SUP-T1,E-0432,2020-12-07T00:00:00.000Z,2020-12-07T00:00:00.000Z,Mumbai,full_time,departed,5,B
+E-0057,Divya Chawla,Engineering,Associate,0,ENG-ASSOCIATE,Associate Engineering,ENG-T1,E-0249,2020-10-08T00:00:00.000Z,2020-10-08T00:00:00.000Z,Mumbai,full_time,active,,B
+E-0058,Neha Pandey,Sales,Lead,3,SAL-LEAD,Lead Sales,SAL-T2,,2024-02-16T00:00:00.000Z,2024-02-16T00:00:00.000Z,Hyderabad,full_time,active,,A
+E-0059,Pooja Yadav,Marketing,Mid,1,MAR-MID,Mid Marketing,MAR-T2,E-0051,2023-07-23T00:00:00.000Z,2023-07-23T00:00:00.000Z,Chennai,full_time,active,,A
+E-0060,Ashwin Mehta,Product,Associate,0,PRO-ASSOCIATE,Associate Product,PRO-T1,E-0316,2021-06-12T00:00:00.000Z,2022-03-04T00:00:00.000Z,Pune,full_time,active,,A
+E-0061,Pallavi Bansal,Design,Senior,2,DES-SENIOR,Senior Design,DES-T2,E-0181,2024-12-15T00:00:00.000Z,2024-12-15T00:00:00.000Z,Chennai,contractor,active,,A
+E-0062,Isha Rao,Finance,Associate,0,FIN-ASSOCIATE,Associate Finance,FIN-T3,E-0038,2021-11-30T00:00:00.000Z,2021-11-30T00:00:00.000Z,Mumbai,full_time,active,,A
+E-0063,Deepika Chatterjee,HR,Associate,0,HR-ASSOCIATE,Associate HR,HR-T1,E-0119,2022-10-28T00:00:00.000Z,2022-10-28T00:00:00.000Z,Hyderabad,full_time,active,,B
+E-0064,Ananya Agarwal,Support,Senior,2,SUP-SENIOR,Senior Support,SUP-T3,E-0496,2024-04-03T00:00:00.000Z,2024-04-03T00:00:00.000Z,Delhi NCR,full_time,active,,B
+E-0065,Gaurav Deshmukh,Engineering,Lead,3,ENG-LEAD,Lead Engineering,ENG-T3,,2020-11-14T00:00:00.000Z,2020-11-14T00:00:00.000Z,Bengaluru,full_time,active,,B
+E-0066,Bhavna Naidu,Sales,Lead,3,SAL-LEAD,Lead Sales,SAL-T3,,2022-02-18T00:00:00.000Z,2022-02-18T00:00:00.000Z,Remote,full_time,active,,B
+E-0067,Pooja Malhotra,Marketing,Mid,1,MAR-MID,Mid Marketing,MAR-T2,E-0275,2026-01-08T00:00:00.000Z,2026-01-08T00:00:00.000Z,Mumbai,full_time,active,,A
+E-0068,Kritika Chatterjee,Product,Senior,2,PRO-SENIOR,Senior Product,PRO-T1,E-0356,2026-02-20T00:00:00.000Z,2026-04-02T00:00:00.000Z,Bengaluru,full_time,active,,B
+E-0069,Kunal Ghosh,Design,Senior,2,DES-SENIOR,Senior Design,DES-T1,E-0213,2024-06-04T00:00:00.000Z,2024-06-04T00:00:00.000Z,Delhi NCR,full_time,active,,B
+E-0070,Shreya Singh,Finance,Mid,1,FIN-MID,Mid Finance,FIN-T3,E-0214,2024-11-26T00:00:00.000Z,2024-11-26T00:00:00.000Z,Remote,full_time,active,,B
+E-0071,Manish Joshi,HR,Senior,2,HR-SENIOR,Senior HR,HR-T2,E-0415,2021-04-04T00:00:00.000Z,2021-04-04T00:00:00.000Z,Mumbai,full_time,active,,B
+E-0072,Nikhil Reddy,Support,Mid,1,SUP-MID,Mid Support,SUP-T3,E-0256,2025-11-25T00:00:00.000Z,2026-06-02T00:00:00.000Z,Delhi NCR,full_time,active,,A
+E-0073,Abhishek Ghosh,Engineering,Associate,0,ENG-ASSOCIATE,Associate Engineering,ENG-T1,E-0065,2025-03-08T00:00:00.000Z,2025-03-08T00:00:00.000Z,Bengaluru,full_time,active,,A
+E-0074,Aman Menon,Sales,Mid,1,SAL-MID,Mid Sales,SAL-T1,E-0194,2024-10-21T00:00:00.000Z,2024-10-21T00:00:00.000Z,Remote,full_time,active,,A
+E-0075,Harsh Sengupta,Marketing,Senior,2,MAR-SENIOR,Senior Marketing,MAR-T2,E-0475,2022-09-01T00:00:00.000Z,2022-11-12T00:00:00.000Z,Bengaluru,full_time,active,,A
+E-0076,Ritika Deshmukh,Product,Mid,1,PRO-MID,Mid Product,PRO-T2,E-0340,2024-05-20T00:00:00.000Z,2024-05-20T00:00:00.000Z,Hyderabad,full_time,active,,A
+E-0077,Abhishek Ghosh,Design,Associate,0,DES-ASSOCIATE,Associate Design,DES-T1,E-0181,2025-01-04T00:00:00.000Z,2025-01-04T00:00:00.000Z,Delhi NCR,full_time,active,,B
+E-0078,Om Agarwal,Finance,Associate,0,FIN-ASSOCIATE,Associate Finance,FIN-T3,E-0038,2025-02-27T00:00:00.000Z,2025-02-27T00:00:00.000Z,Delhi NCR,full_time,active,,B
+E-0079,Tanvi Pillai,HR,Mid,1,HR-MID,Mid HR,HR-T1,E-0487,2023-07-22T00:00:00.000Z,2023-07-22T00:00:00.000Z,Pune,full_time,active,,A
+E-0080,Gaurav Patel,Support,Associate,0,SUP-ASSOCIATE,Associate Support,SUP-T2,E-0432,2024-06-28T00:00:00.000Z,2024-06-28T00:00:00.000Z,Hyderabad,full_time,active,,B
+E-0081,Om Gupta,Engineering,Mid,1,ENG-MID,Mid Engineering,ENG-T1,E-0313,2023-02-26T00:00:00.000Z,2023-05-29T00:00:00.000Z,Hyderabad,full_time,active,,B
+E-0082,Nikhil Singh,Sales,Mid,1,SAL-MID,Mid Sales,SAL-T2,E-0282,2021-09-18T00:00:00.000Z,2021-09-18T00:00:00.000Z,Delhi NCR,contractor,active,,B
+E-0083,Aditya Iyer,Marketing,Senior,2,MAR-SENIOR,Senior Marketing,MAR-T3,E-0203,2022-09-21T00:00:00.000Z,2022-09-21T00:00:00.000Z,Remote,full_time,active,,A
+E-0084,Aarav Chavan,Product,Mid,1,PRO-MID,Mid Product,PRO-T1,E-0396,2022-12-03T00:00:00.000Z,2022-12-03T00:00:00.000Z,Remote,full_time,active,,B
+E-0085,Arjun Deshmukh,Design,Associate,0,DES-ASSOCIATE,Associate Design,DES-T2,E-0045,2021-03-12T00:00:00.000Z,2021-03-12T00:00:00.000Z,Bengaluru,full_time,active,,B
+E-0086,Meera Saxena,Finance,Senior,2,FIN-SENIOR,Senior Finance,FIN-T2,E-0374,2025-12-11T00:00:00.000Z,2025-12-11T00:00:00.000Z,Bengaluru,full_time,active,,B
+E-0087,Arjun Menon,HR,Senior,2,HR-SENIOR,Senior HR,HR-T3,E-0271,2024-07-06T00:00:00.000Z,2024-07-06T00:00:00.000Z,Mumbai,full_time,active,,B
+E-0088,Kavya Nair,Support,Mid,1,SUP-MID,Mid Support,SUP-T3,E-0064,2022-10-07T00:00:00.000Z,2022-10-07T00:00:00.000Z,Pune,full_time,active,,B
+E-0089,Simran Pillai,Engineering,Associate,0,ENG-ASSOCIATE,Associate Engineering,ENG-T1,E-0121,2025-10-29T00:00:00.000Z,2025-10-29T00:00:00.000Z,Pune,full_time,active,,B
+E-0090,Pallavi Kumar,Sales,Mid,1,SAL-MID,Mid Sales,SAL-T2,E-0434,2024-03-08T00:00:00.000Z,2025-07-15T00:00:00.000Z,Mumbai,full_time,active,,A
+E-0091,Pooja Chavan,Marketing,Associate,0,MAR-ASSOCIATE,Associate Marketing,MAR-T3,E-0275,2022-04-23T00:00:00.000Z,2022-04-23T00:00:00.000Z,Chennai,full_time,active,,A
+E-0092,Tarun Pandey,Product,Mid,1,PRO-MID,Mid Product,PRO-T3,E-0036,2024-01-11T00:00:00.000Z,2024-03-01T00:00:00.000Z,Remote,full_time,active,,A
+E-0093,Neha Banerjee,Design,Mid,1,DES-MID,Mid Design,DES-T1,E-0341,2021-11-13T00:00:00.000Z,2021-11-13T00:00:00.000Z,Remote,full_time,active,,A
+E-0094,Vivek Mukherjee,Finance,Associate,0,FIN-ASSOCIATE,Associate Finance,FIN-T3,E-0110,2025-01-30T00:00:00.000Z,2025-01-30T00:00:00.000Z,Bengaluru,contractor,active,,A
+E-0095,Tanvi Agarwal,HR,Lead,3,HR-LEAD,Lead HR,HR-T2,,2024-01-22T00:00:00.000Z,2024-01-22T00:00:00.000Z,Remote,full_time,active,,A
+E-0096,Yash Patel,Support,Associate,0,SUP-ASSOCIATE,Associate Support,SUP-T1,E-0064,2025-09-25T00:00:00.000Z,2025-09-25T00:00:00.000Z,Chennai,full_time,departed,6,B
+E-0097,Neha Thakur,Engineering,Mid,1,ENG-MID,Mid Engineering,ENG-T2,E-0305,2022-03-25T00:00:00.000Z,2022-03-25T00:00:00.000Z,Hyderabad,full_time,active,,B
+E-0098,Karan Ghosh,Sales,Senior,2,SAL-SENIOR,Senior Sales,SAL-T2,E-0450,2025-03-17T00:00:00.000Z,2025-03-17T00:00:00.000Z,Remote,full_time,active,,B
+E-0099,Isha Nair,Marketing,Associate,0,MAR-ASSOCIATE,Associate Marketing,MAR-T1,E-0203,2022-04-11T00:00:00.000Z,2022-04-11T00:00:00.000Z,Hyderabad,full_time,active,,B
+E-0100,Ritika Rao,Product,Lead,3,PRO-LEAD,Lead Product,PRO-T2,,2024-08-02T00:00:00.000Z,2024-08-02T00:00:00.000Z,Mumbai,full_time,active,,A
+E-0101,Abhishek Kulkarni,Design,Lead,3,DES-LEAD,Lead Design,DES-T1,,2023-08-31T00:00:00.000Z,2023-11-22T00:00:00.000Z,Hyderabad,full_time,active,,B
+E-0102,Ananya Mehta,Finance,Mid,1,FIN-MID,Mid Finance,FIN-T3,E-0334,2023-03-26T00:00:00.000Z,2023-03-26T00:00:00.000Z,Pune,contractor,active,,B
+E-0103,Pallavi Malhotra,HR,Senior,2,HR-SENIOR,Senior HR,HR-T2,E-0383,2024-10-14T00:00:00.000Z,2024-10-14T00:00:00.000Z,Mumbai,contractor,active,,B
+E-0104,Rahul Patel,Support,Associate,0,SUP-ASSOCIATE,Associate Support,SUP-T2,E-0408,2021-06-09T00:00:00.000Z,2021-06-09T00:00:00.000Z,Chennai,contractor,active,,B
+E-0105,Siddharth Sengupta,Engineering,Associate,0,ENG-ASSOCIATE,Associate Engineering,ENG-T1,E-0241,2024-06-26T00:00:00.000Z,2024-06-26T00:00:00.000Z,Pune,full_time,active,,A
+E-0106,Divya Chawla,Sales,Associate,0,SAL-ASSOCIATE,Associate Sales,SAL-T1,E-0098,2024-12-10T00:00:00.000Z,2024-12-10T00:00:00.000Z,Chennai,full_time,active,,B
+E-0107,Yash Nair,Marketing,Mid,1,MAR-MID,Mid Marketing,MAR-T3,E-0051,2025-07-12T00:00:00.000Z,2025-07-12T00:00:00.000Z,Chennai,full_time,active,,A
+E-0108,Tanvi Malhotra,Product,Associate,0,PRO-ASSOCIATE,Associate Product,PRO-T1,E-0292,2020-10-12T00:00:00.000Z,2020-10-12T00:00:00.000Z,Mumbai,full_time,active,,A
+E-0109,Ritika Kapoor,Design,Senior,2,DES-SENIOR,Senior Design,DES-T1,E-0181,2024-07-30T00:00:00.000Z,2024-07-30T00:00:00.000Z,Pune,full_time,active,,B
+E-0110,Aman Yadav,Finance,Senior,2,FIN-SENIOR,Senior Finance,FIN-T3,E-0262,2026-02-17T00:00:00.000Z,2026-02-17T00:00:00.000Z,Pune,full_time,active,,B
+E-0111,Aditya Sharma,HR,Senior,2,HR-SENIOR,Senior HR,HR-T2,E-0383,2023-04-15T00:00:00.000Z,2023-04-15T00:00:00.000Z,Chennai,full_time,active,,B
+E-0112,Radhika Gupta,Support,Senior,2,SUP-SENIOR,Senior Support,SUP-T2,E-0336,2026-03-27T00:00:00.000Z,2026-03-27T00:00:00.000Z,Pune,contractor,active,,A
+E-0113,Aditya Banerjee,Engineering,Associate,0,ENG-ASSOCIATE,Associate Engineering,ENG-T2,E-0385,2024-02-07T00:00:00.000Z,2024-02-07T00:00:00.000Z,Remote,full_time,active,,B
+E-0114,Yash Banerjee,Sales,Associate,0,SAL-ASSOCIATE,Associate Sales,SAL-T1,E-0058,2022-02-01T00:00:00.000Z,2022-02-01T00:00:00.000Z,Mumbai,full_time,active,,B
+E-0115,Yash Mishra,Marketing,Senior,2,MAR-SENIOR,Senior Marketing,MAR-T1,E-0203,2021-10-14T00:00:00.000Z,2021-10-14T00:00:00.000Z,Bengaluru,full_time,active,,B
+E-0116,Yash Yadav,Product,Lead,3,PRO-LEAD,Lead Product,PRO-T1,,2022-03-17T00:00:00.000Z,2022-03-17T00:00:00.000Z,Pune,full_time,active,,A
+E-0117,Karan Kapoor,Design,Mid,1,DES-MID,Mid Design,DES-T1,E-0389,2025-09-03T00:00:00.000Z,2026-02-27T00:00:00.000Z,Chennai,full_time,active,,B
+E-0118,Divya Rao,Finance,Associate,0,FIN-ASSOCIATE,Associate Finance,FIN-T1,E-0310,2021-02-24T00:00:00.000Z,2022-03-23T00:00:00.000Z,Mumbai,full_time,active,,B
+E-0119,Suresh Pillai,HR,Lead,3,HR-LEAD,Lead HR,HR-T3,,2022-06-22T00:00:00.000Z,2022-06-22T00:00:00.000Z,Pune,full_time,active,,B
+E-0120,Rahul Deshmukh,Support,Associate,0,SUP-ASSOCIATE,Associate Support,SUP-T1,E-0264,2021-03-11T00:00:00.000Z,2021-03-11T00:00:00.000Z,Hyderabad,full_time,active,,A
+E-0121,Sneha Mukherjee,Engineering,Senior,2,ENG-SENIOR,Senior Engineering,ENG-T1,E-0305,2021-09-03T00:00:00.000Z,2021-09-03T00:00:00.000Z,Remote,full_time,active,,B
+E-0122,Lakshmi Singh,Sales,Mid,1,SAL-MID,Mid Sales,SAL-T2,E-0282,2026-02-09T00:00:00.000Z,2026-02-09T00:00:00.000Z,Delhi NCR,full_time,active,,B
+E-0123,Ashwin Singh,Marketing,Associate,0,MAR-ASSOCIATE,Associate Marketing,MAR-T3,E-0003,2023-06-26T00:00:00.000Z,2023-06-26T00:00:00.000Z,Remote,full_time,active,,A
+E-0124,Harsh Chawla,Product,Associate,0,PRO-ASSOCIATE,Associate Product,PRO-T2,E-0012,2021-04-21T00:00:00.000Z,2021-04-21T00:00:00.000Z,Delhi NCR,full_time,active,,A
+E-0125,Om Nair,Design,Mid,1,DES-MID,Mid Design,DES-T1,E-0301,2025-07-22T00:00:00.000Z,2025-07-22T00:00:00.000Z,Mumbai,full_time,active,,A
+E-0126,Deepika Reddy,Finance,Associate,0,FIN-ASSOCIATE,Associate Finance,FIN-T1,E-0310,2022-12-09T00:00:00.000Z,2022-12-09T00:00:00.000Z,Delhi NCR,full_time,active,,A
+E-0127,Anjali Chawla,HR,Senior,2,HR-SENIOR,Senior HR,HR-T1,E-0183,2023-12-14T00:00:00.000Z,2023-12-14T00:00:00.000Z,Pune,full_time,active,,A
+E-0128,Gaurav Bansal,Support,Senior,2,SUP-SENIOR,Senior Support,SUP-T2,E-0352,2020-10-28T00:00:00.000Z,2020-10-28T00:00:00.000Z,Remote,full_time,active,,A
+E-0129,Kritika Kulkarni,Engineering,Senior,2,ENG-SENIOR,Senior Engineering,ENG-T3,E-0425,2026-01-18T00:00:00.000Z,2026-01-18T00:00:00.000Z,Hyderabad,full_time,active,,A
+E-0130,Siddharth Naidu,Sales,Mid,1,SAL-MID,Mid Sales,SAL-T2,E-0354,2021-04-21T00:00:00.000Z,2021-04-21T00:00:00.000Z,Hyderabad,full_time,active,,B
+E-0131,Shreya Gupta,Marketing,Associate,0,MAR-ASSOCIATE,Associate Marketing,MAR-T3,E-0203,2022-11-08T00:00:00.000Z,2022-11-08T00:00:00.000Z,Bengaluru,full_time,active,,B
+E-0132,Ananya Mishra,Product,Senior,2,PRO-SENIOR,Senior Product,PRO-T2,E-0164,2021-06-04T00:00:00.000Z,2021-06-04T00:00:00.000Z,Remote,full_time,active,,B
+E-0133,Nikhil Rao,Design,Senior,2,DES-SENIOR,Senior Design,DES-T2,E-0301,2022-06-12T00:00:00.000Z,2022-06-12T00:00:00.000Z,Remote,full_time,active,,A
+E-0134,Shreya Menon,Finance,Senior,2,FIN-SENIOR,Senior Finance,FIN-T1,E-0262,2022-02-09T00:00:00.000Z,2022-02-09T00:00:00.000Z,Pune,full_time,active,,A
+E-0135,Ananya Ghosh,HR,Lead,3,HR-LEAD,Lead HR,HR-T3,,2024-10-22T00:00:00.000Z,2024-10-22T00:00:00.000Z,Chennai,full_time,active,,A
+E-0136,Pooja Chatterjee,Support,Lead,3,SUP-LEAD,Lead Support,SUP-T1,,2025-12-03T00:00:00.000Z,2025-12-03T00:00:00.000Z,Chennai,full_time,departed,5,A
+E-0137,Kritika Bhosale,Engineering,Associate,0,ENG-ASSOCIATE,Associate Engineering,ENG-T3,E-0241,2022-03-07T00:00:00.000Z,2022-03-07T00:00:00.000Z,Remote,contractor,active,,B
+E-0138,Harsh Chawla,Sales,Associate,0,SAL-ASSOCIATE,Associate Sales,SAL-T3,E-0282,2025-11-16T00:00:00.000Z,2025-11-16T00:00:00.000Z,Hyderabad,full_time,active,,A
+E-0139,Swati Bansal,Marketing,Associate,0,MAR-ASSOCIATE,Associate Marketing,MAR-T3,E-0283,2021-09-20T00:00:00.000Z,2021-09-20T00:00:00.000Z,Delhi NCR,full_time,active,,B
+E-0140,Neha Singh,Product,Associate,0,PRO-ASSOCIATE,Associate Product,PRO-T1,E-0052,2025-07-27T00:00:00.000Z,2025-07-27T00:00:00.000Z,Pune,full_time,active,,A
+E-0141,Sanjay Iyer,Design,Mid,1,DES-MID,Mid Design,DES-T3,E-0213,2023-09-03T00:00:00.000Z,2023-09-03T00:00:00.000Z,Remote,contractor,active,,B
+E-0142,Vivek Agarwal,Finance,Associate,0,FIN-ASSOCIATE,Associate Finance,FIN-T2,E-0134,2024-06-03T00:00:00.000Z,2024-06-03T00:00:00.000Z,Mumbai,full_time,active,,A
+E-0143,Ritika Iyer,HR,Mid,1,HR-MID,Mid HR,HR-T1,E-0431,2025-12-07T00:00:00.000Z,2025-12-07T00:00:00.000Z,Remote,full_time,active,,A
+E-0144,Divya Chopra,Support,Mid,1,SUP-MID,Mid Support,SUP-T1,E-0408,2022-07-31T00:00:00.000Z,2022-10-04T00:00:00.000Z,Delhi NCR,contractor,active,,A
+E-0145,Rahul Iyer,Engineering,Mid,1,ENG-MID,Mid Engineering,ENG-T2,E-0065,2025-07-05T00:00:00.000Z,2025-07-05T00:00:00.000Z,Pune,full_time,active,,A
+E-0146,Meera Rao,Sales,Mid,1,SAL-MID,Mid Sales,SAL-T3,E-0434,2025-01-08T00:00:00.000Z,2025-01-08T00:00:00.000Z,Remote,full_time,active,,A
+E-0147,Bhavna Joshi,Marketing,Associate,0,MAR-ASSOCIATE,Associate Marketing,MAR-T1,E-0443,2022-02-07T00:00:00.000Z,2022-02-07T00:00:00.000Z,Hyderabad,full_time,active,,B
+E-0148,Anjali Yadav,Product,Mid,1,PRO-MID,Mid Product,PRO-T2,E-0116,2021-04-19T00:00:00.000Z,2022-03-07T00:00:00.000Z,Remote,contractor,active,,B
+E-0149,Rahul Kumar,Design,Associate,0,DES-ASSOCIATE,Associate Design,DES-T3,E-0389,2024-05-22T00:00:00.000Z,2024-05-22T00:00:00.000Z,Remote,full_time,active,,A
+E-0150,Anjali Joshi,Finance,Mid,1,FIN-MID,Mid Finance,FIN-T2,E-0262,2025-02-18T00:00:00.000Z,2025-02-18T00:00:00.000Z,Chennai,full_time,active,,A
+E-0151,Ritika Kumar,HR,Mid,1,HR-MID,Mid HR,HR-T2,E-0119,2025-05-24T00:00:00.000Z,2025-05-24T00:00:00.000Z,Delhi NCR,full_time,active,,A
+E-0152,Sneha Singh,Support,Mid,1,SUP-MID,Mid Support,SUP-T1,E-0064,2025-07-25T00:00:00.000Z,2025-07-25T00:00:00.000Z,Pune,full_time,active,,B
+E-0153,Pallavi Gupta,Engineering,Associate,0,ENG-ASSOCIATE,Associate Engineering,ENG-T2,E-0433,2021-02-12T00:00:00.000Z,2021-02-12T00:00:00.000Z,Delhi NCR,full_time,active,,B
+E-0154,Kritika Patel,Sales,Associate,0,SAL-ASSOCIATE,Associate Sales,SAL-T1,E-0226,2024-01-15T00:00:00.000Z,2024-01-15T00:00:00.000Z,Delhi NCR,full_time,active,,A
+E-0155,Aman Menon,Marketing,Mid,1,MAR-MID,Mid Marketing,MAR-T1,E-0363,2023-03-17T00:00:00.000Z,2024-03-03T00:00:00.000Z,Remote,contractor,active,,B
+E-0156,Nikhil Yadav,Product,Mid,1,PRO-MID,Mid Product,PRO-T1,E-0356,2021-06-01T00:00:00.000Z,2021-06-01T00:00:00.000Z,Hyderabad,full_time,active,,A
+E-0157,Riya Malhotra,Design,Mid,1,DES-MID,Mid Design,DES-T3,E-0069,2020-11-06T00:00:00.000Z,2020-11-06T00:00:00.000Z,Pune,full_time,active,,A
+E-0158,Nikhil Singh,Finance,Associate,0,FIN-ASSOCIATE,Associate Finance,FIN-T3,E-0110,2023-05-13T00:00:00.000Z,2023-05-13T00:00:00.000Z,Chennai,full_time,active,,A
+E-0159,Aman Rao,HR,Associate,0,HR-ASSOCIATE,Associate HR,HR-T3,E-0095,2023-08-18T00:00:00.000Z,2024-06-28T00:00:00.000Z,Pune,full_time,active,,B
+E-0160,Priya Malhotra,Support,Mid,1,SUP-MID,Mid Support,SUP-T3,E-0392,2024-04-24T00:00:00.000Z,2024-04-24T00:00:00.000Z,Pune,contractor,active,,A
+E-0161,Ishaan Mukherjee,Engineering,Associate,0,ENG-ASSOCIATE,Associate Engineering,ENG-T3,E-0385,2023-03-14T00:00:00.000Z,2023-03-14T00:00:00.000Z,Delhi NCR,full_time,active,,B
+E-0162,Aarav Kumar,Sales,Mid,1,SAL-MID,Mid Sales,SAL-T2,E-0018,2025-04-25T00:00:00.000Z,2025-04-25T00:00:00.000Z,Delhi NCR,contractor,active,,A
+E-0163,Om Bhosale,Marketing,Associate,0,MAR-ASSOCIATE,Associate Marketing,MAR-T3,E-0387,2025-06-27T00:00:00.000Z,2025-06-27T00:00:00.000Z,Mumbai,contractor,active,,A
+E-0164,Anjali Patel,Product,Lead,3,PRO-LEAD,Lead Product,PRO-T1,,2024-06-05T00:00:00.000Z,2024-06-05T00:00:00.000Z,Remote,full_time,active,,B
+E-0165,Swati Shah,Design,Associate,0,DES-ASSOCIATE,Associate Design,DES-T2,E-0373,2023-04-14T00:00:00.000Z,2023-04-14T00:00:00.000Z,Hyderabad,full_time,active,,A
+E-0166,Radhika Bansal,Finance,Mid,1,FIN-MID,Mid Finance,FIN-T3,E-0030,2023-03-29T00:00:00.000Z,2023-03-29T00:00:00.000Z,Remote,full_time,active,,B
+E-0167,Swati Pillai,HR,Associate,0,HR-ASSOCIATE,Associate HR,HR-T1,E-0487,2022-08-26T00:00:00.000Z,2022-08-26T00:00:00.000Z,Chennai,full_time,active,,A
+E-0168,Swati Yadav,Support,Mid,1,SUP-MID,Mid Support,SUP-T1,E-0264,2020-11-11T00:00:00.000Z,2021-09-24T00:00:00.000Z,Remote,full_time,active,,A
+E-0169,Ananya Dixit,Engineering,Associate,0,ENG-ASSOCIATE,Associate Engineering,ENG-T1,E-0129,2023-04-12T00:00:00.000Z,2023-04-12T00:00:00.000Z,Delhi NCR,full_time,active,,A
+E-0170,Rohan Iyer,Sales,Associate,0,SAL-ASSOCIATE,Associate Sales,SAL-T1,E-0354,2022-10-10T00:00:00.000Z,2022-12-25T00:00:00.000Z,Mumbai,full_time,active,,B
+E-0171,Isha Sharma,Marketing,Associate,0,MAR-ASSOCIATE,Associate Marketing,MAR-T3,E-0251,2024-02-24T00:00:00.000Z,2024-02-24T00:00:00.000Z,Hyderabad,full_time,active,,B
+E-0172,Ananya Menon,Product,Associate,0,PRO-ASSOCIATE,Associate Product,PRO-T3,E-0292,2021-05-10T00:00:00.000Z,2021-05-10T00:00:00.000Z,Pune,contractor,active,,A
+E-0173,Bhavna Chawla,Design,Associate,0,DES-ASSOCIATE,Associate Design,DES-T2,E-0277,2023-04-21T00:00:00.000Z,2023-04-21T00:00:00.000Z,Hyderabad,full_time,active,,B
+E-0174,Kritika Mishra,Finance,Associate,0,FIN-ASSOCIATE,Associate Finance,FIN-T3,E-0374,2021-11-21T00:00:00.000Z,2021-11-21T00:00:00.000Z,Mumbai,full_time,active,,B
+E-0175,Nikhil Menon,HR,Associate,0,HR-ASSOCIATE,Associate HR,HR-T1,E-0135,2024-04-10T00:00:00.000Z,2024-04-10T00:00:00.000Z,Delhi NCR,full_time,active,,A
+E-0176,Ashwin Thakur,Support,Associate,0,SUP-ASSOCIATE,Associate Support,SUP-T1,E-0496,2021-07-02T00:00:00.000Z,2021-07-02T00:00:00.000Z,Remote,full_time,departed,4,B
+E-0177,Om Verma,Engineering,Associate,0,ENG-ASSOCIATE,Associate Engineering,ENG-T2,E-0385,2025-01-19T00:00:00.000Z,2025-01-19T00:00:00.000Z,Delhi NCR,full_time,active,,B
+E-0178,Pallavi Naidu,Sales,Mid,1,SAL-MID,Mid Sales,SAL-T1,E-0354,2021-02-14T00:00:00.000Z,2021-02-14T00:00:00.000Z,Hyderabad,full_time,active,,B
+E-0179,Ishaan Thakur,Marketing,Associate,0,MAR-ASSOCIATE,Associate Marketing,MAR-T3,E-0227,2024-02-01T00:00:00.000Z,2024-02-01T00:00:00.000Z,Remote,full_time,active,,A
+E-0180,Om Mehta,Product,Associate,0,PRO-ASSOCIATE,Associate Product,PRO-T3,E-0132,2021-11-22T00:00:00.000Z,2021-11-22T00:00:00.000Z,Delhi NCR,full_time,active,,B
+E-0181,Vivek Gupta,Design,Lead,3,DES-LEAD,Lead Design,DES-T3,,2022-09-25T00:00:00.000Z,2022-09-25T00:00:00.000Z,Delhi NCR,full_time,active,,B
+E-0182,Nikhil Yadav,Finance,Associate,0,FIN-ASSOCIATE,Associate Finance,FIN-T1,E-0134,2022-06-08T00:00:00.000Z,2022-06-08T00:00:00.000Z,Chennai,full_time,active,,A
+E-0183,Nandini Bansal,HR,Lead,3,HR-LEAD,Lead HR,HR-T1,,2025-08-19T00:00:00.000Z,2026-05-29T00:00:00.000Z,Bengaluru,full_time,active,,A
+E-0184,Ishaan Trivedi,Support,Mid,1,SUP-MID,Mid Support,SUP-T3,E-0392,2021-07-01T00:00:00.000Z,2021-07-01T00:00:00.000Z,Pune,full_time,active,,B
+E-0185,Simran Rao,Engineering,Mid,1,ENG-MID,Mid Engineering,ENG-T1,E-0241,2021-09-19T00:00:00.000Z,2021-09-19T00:00:00.000Z,Delhi NCR,full_time,active,,A
+E-0186,Deepika Trivedi,Sales,Mid,1,SAL-MID,Mid Sales,SAL-T2,E-0226,2024-01-25T00:00:00.000Z,2025-03-01T00:00:00.000Z,Delhi NCR,full_time,active,,A
+E-0187,Sneha Sengupta,Marketing,Associate,0,MAR-ASSOCIATE,Associate Marketing,MAR-T1,E-0075,2021-08-27T00:00:00.000Z,2021-08-27T00:00:00.000Z,Bengaluru,full_time,active,,A
+E-0188,Gaurav Kumar,Product,Associate,0,PRO-ASSOCIATE,Associate Product,PRO-T2,E-0356,2025-05-31T00:00:00.000Z,2025-12-19T00:00:00.000Z,Remote,full_time,active,,B
+E-0189,Ashwin Pandey,Design,Associate,0,DES-ASSOCIATE,Associate Design,DES-T1,E-0285,2024-08-21T00:00:00.000Z,2024-08-21T00:00:00.000Z,Bengaluru,full_time,active,,B
+E-0190,Aarav Sengupta,Finance,Mid,1,FIN-MID,Mid Finance,FIN-T3,E-0038,2024-03-19T00:00:00.000Z,2024-03-19T00:00:00.000Z,Delhi NCR,contractor,active,,B
+E-0191,Tarun Deshmukh,HR,Lead,3,HR-LEAD,Lead HR,HR-T1,,2026-02-03T00:00:00.000Z,2026-02-03T00:00:00.000Z,Delhi NCR,full_time,active,,B
+E-0192,Sanjay Menon,Support,Mid,1,SUP-MID,Mid Support,SUP-T2,E-0312,2024-08-13T00:00:00.000Z,2024-08-13T00:00:00.000Z,Remote,full_time,active,,A
+E-0193,Vivek Iyer,Engineering,Associate,0,ENG-ASSOCIATE,Associate Engineering,ENG-T3,E-0065,2023-06-25T00:00:00.000Z,2023-06-25T00:00:00.000Z,Chennai,full_time,active,,B
+E-0194,Namita Nair,Sales,Lead,3,SAL-LEAD,Lead Sales,SAL-T1,,2025-06-16T00:00:00.000Z,2025-06-16T00:00:00.000Z,Hyderabad,full_time,active,,B
+E-0195,Riya Gupta,Marketing,Mid,1,MAR-MID,Mid Marketing,MAR-T3,E-0035,2024-09-12T00:00:00.000Z,2025-11-18T00:00:00.000Z,Pune,full_time,active,,B
+E-0196,Shreya Pandey,Product,Mid,1,PRO-MID,Mid Product,PRO-T2,E-0036,2023-11-27T00:00:00.000Z,2023-11-27T00:00:00.000Z,Mumbai,full_time,active,,A
+E-0197,Nikhil Bhatt,Design,Associate,0,DES-ASSOCIATE,Associate Design,DES-T1,E-0277,2024-08-18T00:00:00.000Z,2024-08-18T00:00:00.000Z,Mumbai,full_time,active,,A
+E-0198,Aditya Menon,Finance,Associate,0,FIN-ASSOCIATE,Associate Finance,FIN-T3,E-0350,2025-09-16T00:00:00.000Z,2025-09-16T00:00:00.000Z,Mumbai,full_time,active,,B
+E-0199,Vikram Singh,HR,Mid,1,HR-MID,Mid HR,HR-T3,E-0415,2023-01-05T00:00:00.000Z,2023-01-05T00:00:00.000Z,Chennai,full_time,active,,B
+E-0200,Sanjay Mehta,Support,Associate,0,SUP-ASSOCIATE,Associate Support,SUP-T3,E-0064,2021-05-07T00:00:00.000Z,2021-05-07T00:00:00.000Z,Mumbai,full_time,active,,B
+E-0201,Pooja Pandey,Engineering,Associate,0,ENG-ASSOCIATE,Associate Engineering,ENG-T1,E-0217,2021-07-05T00:00:00.000Z,2021-07-05T00:00:00.000Z,Remote,full_time,active,,A
+E-0202,Lakshmi Kumar,Sales,Mid,1,SAL-MID,Mid Sales,SAL-T2,E-0066,2021-08-21T00:00:00.000Z,2021-08-21T00:00:00.000Z,Pune,full_time,active,,B
+E-0203,Lakshmi Verma,Marketing,Lead,3,MAR-LEAD,Lead Marketing,MAR-T2,,2025-05-13T00:00:00.000Z,2025-05-13T00:00:00.000Z,Delhi NCR,full_time,active,,A
+E-0204,Shreya Trivedi,Product,Mid,1,PRO-MID,Mid Product,PRO-T1,E-0340,2025-12-18T00:00:00.000Z,2025-12-18T00:00:00.000Z,Pune,full_time,active,,A
+E-0205,Nandini Mishra,Design,Mid,1,DES-MID,Mid Design,DES-T1,E-0301,2023-06-17T00:00:00.000Z,2023-06-17T00:00:00.000Z,Pune,full_time,active,,A
+E-0206,Namita Deshmukh,Finance,Mid,1,FIN-MID,Mid Finance,FIN-T3,E-0342,2026-01-04T00:00:00.000Z,2026-01-04T00:00:00.000Z,Remote,full_time,active,,A
+E-0207,Aarav Deshmukh,HR,Associate,0,HR-ASSOCIATE,Associate HR,HR-T3,E-0135,2025-07-17T00:00:00.000Z,2025-07-17T00:00:00.000Z,Delhi NCR,full_time,active,,B
+E-0208,Manish Dixit,Support,Mid,1,SUP-MID,Mid Support,SUP-T2,E-0336,2025-04-16T00:00:00.000Z,2025-04-16T00:00:00.000Z,Remote,full_time,active,,A
+E-0209,Isha Pillai,Engineering,Associate,0,ENG-ASSOCIATE,Associate Engineering,ENG-T2,E-0425,2023-05-24T00:00:00.000Z,2023-05-24T00:00:00.000Z,Chennai,full_time,active,,B
+E-0210,Nikhil Chawla,Sales,Associate,0,SAL-ASSOCIATE,Associate Sales,SAL-T3,E-0370,2022-12-19T00:00:00.000Z,2022-12-19T00:00:00.000Z,Bengaluru,full_time,active,,B
+E-0211,Priya Yadav,Marketing,Associate,0,MAR-ASSOCIATE,Associate Marketing,MAR-T3,E-0275,2024-05-15T00:00:00.000Z,2024-05-15T00:00:00.000Z,Remote,full_time,active,,A
+E-0212,Nikhil Kumar,Product,Senior,2,PRO-SENIOR,Senior Product,PRO-T1,E-0012,2021-03-31T00:00:00.000Z,2021-03-31T00:00:00.000Z,Hyderabad,full_time,active,,A
+E-0213,Manish Mehta,Design,Lead,3,DES-LEAD,Lead Design,DES-T1,,2023-03-21T00:00:00.000Z,2023-03-21T00:00:00.000Z,Chennai,full_time,active,,B
+E-0214,Sanjay Verma,Finance,Senior,2,FIN-SENIOR,Senior Finance,FIN-T3,E-0262,2024-11-25T00:00:00.000Z,2024-11-25T00:00:00.000Z,Bengaluru,full_time,active,,B
+E-0215,Kavya Trivedi,HR,Associate,0,HR-ASSOCIATE,Associate HR,HR-T2,E-0399,2025-03-07T00:00:00.000Z,2025-03-07T00:00:00.000Z,Delhi NCR,full_time,active,,B
+E-0216,Priya Rathi,Support,Mid,1,SUP-MID,Mid Support,SUP-T3,E-0032,2022-07-07T00:00:00.000Z,2022-07-07T00:00:00.000Z,Hyderabad,full_time,active,,B
+E-0217,Swati Verma,Engineering,Senior,2,ENG-SENIOR,Senior Engineering,ENG-T2,E-0425,2026-02-02T00:00:00.000Z,2026-02-02T00:00:00.000Z,Delhi NCR,contractor,active,,A
+E-0218,Yash Mehta,Sales,Mid,1,SAL-MID,Mid Sales,SAL-T3,E-0434,2023-12-26T00:00:00.000Z,2023-12-26T00:00:00.000Z,Chennai,full_time,active,,A
+E-0219,Lakshmi Kumar,Marketing,Mid,1,MAR-MID,Mid Marketing,MAR-T3,E-0075,2024-12-11T00:00:00.000Z,2024-12-11T00:00:00.000Z,Hyderabad,contractor,active,,A
+E-0220,Nandini Rathi,Product,Associate,0,PRO-ASSOCIATE,Associate Product,PRO-T1,E-0396,2024-12-24T00:00:00.000Z,2024-12-24T00:00:00.000Z,Hyderabad,full_time,active,,A
+E-0221,Manish Sharma,Design,Associate,0,DES-ASSOCIATE,Associate Design,DES-T2,E-0301,2025-02-19T00:00:00.000Z,2025-02-19T00:00:00.000Z,Hyderabad,full_time,active,,A
+E-0222,Nikhil Sengupta,Finance,Associate,0,FIN-ASSOCIATE,Associate Finance,FIN-T1,E-0134,2022-01-10T00:00:00.000Z,2022-01-10T00:00:00.000Z,Pune,full_time,active,,B
+E-0223,Priya Deshmukh,HR,Associate,0,HR-ASSOCIATE,Associate HR,HR-T3,E-0415,2021-06-06T00:00:00.000Z,2021-06-06T00:00:00.000Z,Delhi NCR,full_time,active,,B
+E-0224,Varun Kumar,Support,Associate,0,SUP-ASSOCIATE,Associate Support,SUP-T1,E-0344,2022-02-11T00:00:00.000Z,2022-02-11T00:00:00.000Z,Hyderabad,full_time,active,,B
+E-0225,Tarun Bansal,Engineering,Associate,0,ENG-ASSOCIATE,Associate Engineering,ENG-T3,E-0417,2025-08-23T00:00:00.000Z,2025-08-23T00:00:00.000Z,Hyderabad,full_time,active,,B
+E-0226,Meera Thakur,Sales,Senior,2,SAL-SENIOR,Senior Sales,SAL-T1,E-0450,2025-05-17T00:00:00.000Z,2025-05-17T00:00:00.000Z,Chennai,full_time,departed,3,A
+E-0227,Divya Sengupta,Marketing,Senior,2,MAR-SENIOR,Senior Marketing,MAR-T1,E-0203,2020-11-13T00:00:00.000Z,2020-11-13T00:00:00.000Z,Chennai,full_time,active,,A
+E-0228,Sneha Kapoor,Product,Associate,0,PRO-ASSOCIATE,Associate Product,PRO-T1,E-0212,2025-12-29T00:00:00.000Z,2026-09-19T00:00:00.000Z,Chennai,full_time,active,,B
+E-0229,Ishaan Mishra,Design,Mid,1,DES-MID,Mid Design,DES-T1,E-0133,2022-09-01T00:00:00.000Z,2022-09-01T00:00:00.000Z,Bengaluru,full_time,active,,A
+E-0230,Nikhil Nair,Finance,Mid,1,FIN-MID,Mid Finance,FIN-T1,E-0030,2024-06-13T00:00:00.000Z,2024-06-13T00:00:00.000Z,Remote,full_time,active,,B
+E-0231,Lakshmi Chawla,HR,Associate,0,HR-ASSOCIATE,Associate HR,HR-T2,E-0111,2025-10-05T00:00:00.000Z,2025-10-23T00:00:00.000Z,Pune,contractor,active,,B
+E-0232,Ananya Singh,Support,Mid,1,SUP-MID,Mid Support,SUP-T2,E-0496,2021-12-18T00:00:00.000Z,2021-12-18T00:00:00.000Z,Delhi NCR,full_time,active,,B
+E-0233,Yash Chopra,Engineering,Lead,3,ENG-LEAD,Lead Engineering,ENG-T2,,2025-01-24T00:00:00.000Z,2025-01-24T00:00:00.000Z,Hyderabad,full_time,active,,B
+E-0234,Nikhil Iyer,Sales,Associate,0,SAL-ASSOCIATE,Associate Sales,SAL-T1,E-0018,2022-11-10T00:00:00.000Z,2022-11-10T00:00:00.000Z,Chennai,full_time,active,,A
+E-0235,Meera Agarwal,Marketing,Associate,0,MAR-ASSOCIATE,Associate Marketing,MAR-T1,E-0251,2022-09-20T00:00:00.000Z,2022-09-20T00:00:00.000Z,Chennai,full_time,active,,B
+E-0236,Priyanka Mishra,Product,Mid,1,PRO-MID,Mid Product,PRO-T3,E-0068,2020-11-15T00:00:00.000Z,2020-11-15T00:00:00.000Z,Bengaluru,full_time,active,,B
+E-0237,Abhishek Pillai,Design,Associate,0,DES-ASSOCIATE,Associate Design,DES-T3,E-0133,2024-08-12T00:00:00.000Z,2024-08-12T00:00:00.000Z,Hyderabad,full_time,active,,B
+E-0238,Nikhil Rathi,Finance,Associate,0,FIN-ASSOCIATE,Associate Finance,FIN-T1,E-0310,2022-07-14T00:00:00.000Z,2022-07-14T00:00:00.000Z,Chennai,full_time,active,,B
+E-0239,Priya Verma,HR,Mid,1,HR-MID,Mid HR,HR-T3,E-0255,2022-12-07T00:00:00.000Z,2022-12-07T00:00:00.000Z,Mumbai,full_time,active,,B
+E-0240,Ashwin Dixit,Support,Associate,0,SUP-ASSOCIATE,Associate Support,SUP-T3,E-0408,2023-11-08T00:00:00.000Z,2023-11-08T00:00:00.000Z,Remote,full_time,active,,A
+E-0241,Tarun Sengupta,Engineering,Senior,2,ENG-SENIOR,Senior Engineering,ENG-T2,E-0449,2022-06-27T00:00:00.000Z,2022-06-27T00:00:00.000Z,Hyderabad,full_time,active,,B
+E-0242,Priya Deshmukh,Sales,Associate,0,SAL-ASSOCIATE,Associate Sales,SAL-T2,E-0194,2023-01-06T00:00:00.000Z,2023-01-06T00:00:00.000Z,Delhi NCR,full_time,active,,B
+E-0243,Rajesh Menon,Marketing,Associate,0,MAR-ASSOCIATE,Associate Marketing,MAR-T1,E-0083,2022-02-08T00:00:00.000Z,2022-05-19T00:00:00.000Z,Remote,full_time,active,,B
+E-0244,Pallavi Naidu,Product,Associate,0,PRO-ASSOCIATE,Associate Product,PRO-T1,E-0316,2023-10-28T00:00:00.000Z,2023-10-28T00:00:00.000Z,Pune,full_time,active,,A
+E-0245,Lakshmi Singh,Design,Associate,0,DES-ASSOCIATE,Associate Design,DES-T1,E-0181,2022-01-02T00:00:00.000Z,2022-01-02T00:00:00.000Z,Hyderabad,full_time,active,,B
+E-0246,Anjali Mukherjee,Finance,Lead,3,FIN-LEAD,Lead Finance,FIN-T2,,2023-09-01T00:00:00.000Z,2023-09-01T00:00:00.000Z,Pune,full_time,active,,A
+E-0247,Sanjay Patel,HR,Mid,1,HR-MID,Mid HR,HR-T3,E-0487,2024-03-20T00:00:00.000Z,2024-03-20T00:00:00.000Z,Delhi NCR,full_time,active,,A
+E-0248,Radhika Saxena,Support,Mid,1,SUP-MID,Mid Support,SUP-T1,E-0336,2023-05-13T00:00:00.000Z,2023-05-13T00:00:00.000Z,Bengaluru,full_time,active,,B
+E-0249,Vivek Agarwal,Engineering,Senior,2,ENG-SENIOR,Senior Engineering,ENG-T3,E-0233,2021-11-15T00:00:00.000Z,2021-11-15T00:00:00.000Z,Mumbai,full_time,active,,B
+E-0250,Gaurav Shah,Sales,Mid,1,SAL-MID,Mid Sales,SAL-T3,E-0018,2022-01-12T00:00:00.000Z,2022-01-12T00:00:00.000Z,Hyderabad,full_time,active,,A
+E-0251,Deepika Kapoor,Marketing,Senior,2,MAR-SENIOR,Senior Marketing,MAR-T2,E-0283,2022-11-15T00:00:00.000Z,2022-11-15T00:00:00.000Z,Bengaluru,full_time,active,,A
+E-0252,Riya Menon,Product,Mid,1,PRO-MID,Mid Product,PRO-T2,E-0036,2025-08-11T00:00:00.000Z,2026-09-09T00:00:00.000Z,Delhi NCR,full_time,active,,B
+E-0253,Suresh Dixit,Design,Associate,0,DES-ASSOCIATE,Associate Design,DES-T3,E-0277,2022-06-20T00:00:00.000Z,2022-06-20T00:00:00.000Z,Delhi NCR,full_time,active,,B
+E-0254,Radhika Chatterjee,Finance,Associate,0,FIN-ASSOCIATE,Associate Finance,FIN-T1,E-0030,2023-09-08T00:00:00.000Z,2023-09-08T00:00:00.000Z,Pune,full_time,active,,A
+E-0255,Riya Yadav,HR,Senior,2,HR-SENIOR,Senior HR,HR-T3,E-0271,2026-03-07T00:00:00.000Z,2026-03-07T00:00:00.000Z,Hyderabad,contractor,active,,A
+E-0256,Simran Chavan,Support,Lead,3,SUP-LEAD,Lead Support,SUP-T1,,2022-08-15T00:00:00.000Z,2022-08-15T00:00:00.000Z,Hyderabad,full_time,active,,B
+E-0257,Suresh Joshi,Engineering,Associate,0,ENG-ASSOCIATE,Associate Engineering,ENG-T1,E-0433,2021-11-18T00:00:00.000Z,2022-02-17T00:00:00.000Z,Hyderabad,full_time,active,,A
+E-0258,Tarun Reddy,Sales,Associate,0,SAL-ASSOCIATE,Associate Sales,SAL-T1,E-0450,2022-03-13T00:00:00.000Z,2022-03-13T00:00:00.000Z,Delhi NCR,contractor,active,,B
+E-0259,Aman Ghosh,Marketing,Mid,1,MAR-MID,Mid Marketing,MAR-T3,E-0035,2021-07-18T00:00:00.000Z,2021-07-18T00:00:00.000Z,Mumbai,full_time,active,,B
+E-0260,Suresh Banerjee,Product,Associate,0,PRO-ASSOCIATE,Associate Product,PRO-T3,E-0052,2022-05-23T00:00:00.000Z,2022-10-12T00:00:00.000Z,Chennai,full_time,active,,A
+E-0261,Simran Deshmukh,Design,Lead,3,DES-LEAD,Lead Design,DES-T1,,2022-03-04T00:00:00.000Z,2022-03-04T00:00:00.000Z,Chennai,full_time,active,,B
+E-0262,Tanvi Iyer,Finance,Lead,3,FIN-LEAD,Lead Finance,FIN-T3,,2024-02-22T00:00:00.000Z,2024-02-22T00:00:00.000Z,Delhi NCR,full_time,active,,B
+E-0263,Riya Mukherjee,HR,Mid,1,HR-MID,Mid HR,HR-T1,E-0127,2025-01-22T00:00:00.000Z,2025-01-22T00:00:00.000Z,Bengaluru,full_time,active,,B
+E-0264,Gaurav Menon,Support,Lead,3,SUP-LEAD,Lead Support,SUP-T1,,2024-11-27T00:00:00.000Z,2024-11-27T00:00:00.000Z,Hyderabad,full_time,active,,A
+E-0265,Sneha Bhatt,Engineering,Mid,1,ENG-MID,Mid Engineering,ENG-T1,E-0425,2021-11-09T00:00:00.000Z,2021-11-09T00:00:00.000Z,Hyderabad,full_time,active,,B
+E-0266,Pallavi Banerjee,Sales,Mid,1,SAL-MID,Mid Sales,SAL-T1,E-0194,2024-10-07T00:00:00.000Z,2024-10-07T00:00:00.000Z,Chennai,full_time,departed,3,A
+E-0267,Rajesh Chavan,Marketing,Senior,2,MAR-SENIOR,Senior Marketing,MAR-T3,E-0283,2022-09-22T00:00:00.000Z,2022-09-22T00:00:00.000Z,Bengaluru,full_time,active,,B
+E-0268,Arjun Chawla,Product,Mid,1,PRO-MID,Mid Product,PRO-T2,E-0116,2024-09-05T00:00:00.000Z,2024-09-05T00:00:00.000Z,Mumbai,full_time,active,,A
+E-0269,Deepika Mukherjee,Design,Senior,2,DES-SENIOR,Senior Design,DES-T1,E-0261,2020-12-08T00:00:00.000Z,2020-12-08T00:00:00.000Z,Bengaluru,full_time,active,,A
+E-0270,Ananya Nair,Finance,Associate,0,FIN-ASSOCIATE,Associate Finance,FIN-T3,E-0134,2024-01-18T00:00:00.000Z,2024-01-18T00:00:00.000Z,Hyderabad,full_time,active,,B
+E-0271,Aarav Chatterjee,HR,Lead,3,HR-LEAD,Lead HR,HR-T2,,2023-07-09T00:00:00.000Z,2023-07-09T00:00:00.000Z,Mumbai,full_time,active,,A
+E-0272,Tarun Gupta,Support,Associate,0,SUP-ASSOCIATE,Associate Support,SUP-T3,E-0032,2021-06-27T00:00:00.000Z,2021-06-27T00:00:00.000Z,Chennai,full_time,active,,A
+E-0273,Gaurav Bansal,Engineering,Mid,1,ENG-MID,Mid Engineering,ENG-T3,E-0385,2025-10-25T00:00:00.000Z,2025-10-25T00:00:00.000Z,Remote,full_time,active,,A
+E-0274,Rohan Banerjee,Sales,Mid,1,SAL-MID,Mid Sales,SAL-T2,E-0354,2024-10-17T00:00:00.000Z,2024-10-17T00:00:00.000Z,Bengaluru,full_time,active,,A
+E-0275,Shreya Menon,Marketing,Senior,2,MAR-SENIOR,Senior Marketing,MAR-T1,E-0203,2022-01-06T00:00:00.000Z,2022-01-06T00:00:00.000Z,Hyderabad,full_time,active,,A
+E-0276,Deepika Naidu,Product,Associate,0,PRO-ASSOCIATE,Associate Product,PRO-T1,E-0468,2025-07-21T00:00:00.000Z,2025-09-05T00:00:00.000Z,Delhi NCR,full_time,active,,B
+E-0277,Sneha Kulkarni,Design,Senior,2,DES-SENIOR,Senior Design,DES-T1,E-0261,2023-04-13T00:00:00.000Z,2023-04-13T00:00:00.000Z,Delhi NCR,full_time,active,,B
+E-0278,Radhika Singh,Finance,Associate,0,FIN-ASSOCIATE,Associate Finance,FIN-T2,E-0030,2024-11-19T00:00:00.000Z,2026-02-15T00:00:00.000Z,Chennai,full_time,active,,A
+E-0279,Gaurav Verma,HR,Senior,2,HR-SENIOR,Senior HR,HR-T1,E-0095,2023-12-16T00:00:00.000Z,2023-12-16T00:00:00.000Z,Hyderabad,full_time,active,,A
+E-0280,Tanvi Shah,Support,Associate,0,SUP-ASSOCIATE,Associate Support,SUP-T2,E-0312,2021-11-08T00:00:00.000Z,2021-11-08T00:00:00.000Z,Delhi NCR,full_time,active,,A
+E-0281,Vikram Chopra,Engineering,Mid,1,ENG-MID,Mid Engineering,ENG-T3,E-0289,2023-06-05T00:00:00.000Z,2023-06-05T00:00:00.000Z,Bengaluru,full_time,active,,B
+E-0282,Vikram Kumar,Sales,Senior,2,SAL-SENIOR,Senior Sales,SAL-T1,E-0066,2026-02-26T00:00:00.000Z,2026-02-26T00:00:00.000Z,Remote,contractor,active,,A
+E-0283,Neha Bhosale,Marketing,Lead,3,MAR-LEAD,Lead Marketing,MAR-T1,,2025-11-27T00:00:00.000Z,2025-11-27T00:00:00.000Z,Hyderabad,full_time,active,,B
+E-0284,Rohan Chatterjee,Product,Associate,0,PRO-ASSOCIATE,Associate Product,PRO-T1,E-0132,2021-01-15T00:00:00.000Z,2021-01-15T00:00:00.000Z,Bengaluru,full_time,active,,B
+E-0285,Suresh Shah,Design,Senior,2,DES-SENIOR,Senior Design,DES-T2,E-0213,2021-01-26T00:00:00.000Z,2021-01-26T00:00:00.000Z,Bengaluru,full_time,active,,B
+E-0286,Siddharth Nair,Finance,Mid,1,FIN-MID,Mid Finance,FIN-T3,E-0350,2025-09-14T00:00:00.000Z,2025-09-14T00:00:00.000Z,Delhi NCR,full_time,active,,B
+E-0287,Deepika Malhotra,HR,Senior,2,HR-SENIOR,Senior HR,HR-T2,E-0383,2025-07-08T00:00:00.000Z,2025-07-08T00:00:00.000Z,Delhi NCR,full_time,active,,A
+E-0288,Om Trivedi,Support,Mid,1,SUP-MID,Mid Support,SUP-T3,E-0304,2021-05-20T00:00:00.000Z,2022-01-14T00:00:00.000Z,Chennai,full_time,active,,B
+E-0289,Pooja Chatterjee,Engineering,Senior,2,ENG-SENIOR,Senior Engineering,ENG-T1,E-0449,2023-09-29T00:00:00.000Z,2023-09-29T00:00:00.000Z,Mumbai,full_time,active,,B
+E-0290,Isha Chawla,Sales,Associate,0,SAL-ASSOCIATE,Associate Sales,SAL-T2,E-0066,2022-08-16T00:00:00.000Z,2022-08-16T00:00:00.000Z,Remote,full_time,active,,A
+E-0291,Riya Shah,Marketing,Mid,1,MAR-MID,Mid Marketing,MAR-T2,E-0275,2025-10-01T00:00:00.000Z,2025-10-01T00:00:00.000Z,Delhi NCR,full_time,active,,A
+E-0292,Ritika Kapoor,Product,Senior,2,PRO-SENIOR,Senior Product,PRO-T1,E-0340,2022-08-08T00:00:00.000Z,2022-08-08T00:00:00.000Z,Bengaluru,full_time,active,,B
+E-0293,Neha Chatterjee,Design,Mid,1,DES-MID,Mid Design,DES-T2,E-0133,2023-04-09T00:00:00.000Z,2023-04-09T00:00:00.000Z,Mumbai,full_time,active,,A
+E-0294,Kavya Shah,Finance,Lead,3,FIN-LEAD,Lead Finance,FIN-T3,,2023-01-05T00:00:00.000Z,2023-01-05T00:00:00.000Z,Bengaluru,full_time,active,,B
+E-0295,Manish Kulkarni,HR,Associate,0,HR-ASSOCIATE,Associate HR,HR-T1,E-0111,2025-04-02T00:00:00.000Z,2025-04-02T00:00:00.000Z,Hyderabad,full_time,active,,B
+E-0296,Rajesh Kulkarni,Support,Associate,0,SUP-ASSOCIATE,Associate Support,SUP-T2,E-0344,2023-01-15T00:00:00.000Z,2023-06-15T00:00:00.000Z,Pune,full_time,active,,B
+E-0297,Rohan Banerjee,Engineering,Mid,1,ENG-MID,Mid Engineering,ENG-T3,E-0385,2025-10-24T00:00:00.000Z,2025-10-24T00:00:00.000Z,Hyderabad,contractor,active,,B
+E-0298,Rahul Mukherjee,Sales,Mid,1,SAL-MID,Mid Sales,SAL-T3,E-0434,2021-05-20T00:00:00.000Z,2021-05-20T00:00:00.000Z,Delhi NCR,full_time,active,,B
+E-0299,Manish Sharma,Marketing,Mid,1,MAR-MID,Mid Marketing,MAR-T3,E-0267,2025-11-28T00:00:00.000Z,2025-11-28T00:00:00.000Z,Bengaluru,full_time,active,,B
+E-0300,Ishaan Ghosh,Product,Associate,0,PRO-ASSOCIATE,Associate Product,PRO-T2,E-0396,2026-03-15T00:00:00.000Z,2026-03-15T00:00:00.000Z,Mumbai,full_time,active,,B
+E-0301,Pallavi Mehta,Design,Lead,3,DES-LEAD,Lead Design,DES-T3,,2024-08-21T00:00:00.000Z,2024-08-21T00:00:00.000Z,Pune,full_time,active,,A
+E-0302,Gaurav Kapoor,Finance,Mid,1,FIN-MID,Mid Finance,FIN-T3,E-0310,2021-01-07T00:00:00.000Z,2021-01-07T00:00:00.000Z,Bengaluru,full_time,active,,B
+E-0303,Vivek Kumar,HR,Associate,0,HR-ASSOCIATE,Associate HR,HR-T2,E-0287,2024-03-06T00:00:00.000Z,2024-03-06T00:00:00.000Z,Delhi NCR,full_time,active,,A
+E-0304,Swati Trivedi,Support,Lead,3,SUP-LEAD,Lead Support,SUP-T2,,2024-12-14T00:00:00.000Z,2024-12-14T00:00:00.000Z,Pune,full_time,active,,A
+E-0305,Aarav Bhosale,Engineering,Lead,3,ENG-LEAD,Lead Engineering,ENG-T1,,2021-08-10T00:00:00.000Z,2021-08-10T00:00:00.000Z,Mumbai,full_time,active,,B
+E-0306,Lakshmi Singh,Sales,Associate,0,SAL-ASSOCIATE,Associate Sales,SAL-T1,E-0194,2023-04-22T00:00:00.000Z,2023-04-22T00:00:00.000Z,Pune,full_time,departed,4,A
+E-0307,Anjali Naidu,Marketing,Mid,1,MAR-MID,Mid Marketing,MAR-T2,E-0483,2022-08-20T00:00:00.000Z,2022-08-20T00:00:00.000Z,Delhi NCR,full_time,active,,B
+E-0308,Aman Nair,Product,Associate,0,PRO-ASSOCIATE,Associate Product,PRO-T2,E-0012,2021-06-02T00:00:00.000Z,2021-06-02T00:00:00.000Z,Delhi NCR,full_time,active,,A
+E-0309,Vivek Iyer,Design,Mid,1,DES-MID,Mid Design,DES-T1,E-0061,2025-01-13T00:00:00.000Z,2025-01-13T00:00:00.000Z,Remote,full_time,active,,B
+E-0310,Pallavi Reddy,Finance,Senior,2,FIN-SENIOR,Senior Finance,FIN-T2,E-0374,2021-03-25T00:00:00.000Z,2021-03-25T00:00:00.000Z,Bengaluru,full_time,active,,B
+E-0311,Vikram Iyer,HR,Mid,1,HR-MID,Mid HR,HR-T1,E-0399,2021-08-14T00:00:00.000Z,2021-08-14T00:00:00.000Z,Bengaluru,full_time,active,,A
+E-0312,Pooja Reddy,Support,Lead,3,SUP-LEAD,Lead Support,SUP-T3,,2022-10-20T00:00:00.000Z,2022-10-20T00:00:00.000Z,Pune,full_time,active,,B
+E-0313,Priya Chawla,Engineering,Senior,2,ENG-SENIOR,Senior Engineering,ENG-T1,E-0305,2022-02-12T00:00:00.000Z,2022-02-12T00:00:00.000Z,Hyderabad,full_time,active,,A
+E-0314,Sneha Kapoor,Sales,Mid,1,SAL-MID,Mid Sales,SAL-T3,E-0282,2023-07-09T00:00:00.000Z,2023-07-09T00:00:00.000Z,Bengaluru,full_time,active,,A
+E-0315,Vivek Mukherjee,Marketing,Mid,1,MAR-MID,Mid Marketing,MAR-T1,E-0027,2025-02-18T00:00:00.000Z,2025-02-18T00:00:00.000Z,Remote,full_time,active,,A
+E-0316,Kunal Menon,Product,Senior,2,PRO-SENIOR,Senior Product,PRO-T1,E-0012,2020-12-20T00:00:00.000Z,2020-12-20T00:00:00.000Z,Hyderabad,full_time,active,,A
+E-0317,Ananya Deshmukh,Design,Senior,2,DES-SENIOR,Senior Design,DES-T2,E-0389,2022-01-07T00:00:00.000Z,2022-01-07T00:00:00.000Z,Remote,full_time,active,,B
+E-0318,Anjali Menon,Finance,Mid,1,FIN-MID,Mid Finance,FIN-T3,E-0422,2026-03-08T00:00:00.000Z,2026-07-15T00:00:00.000Z,Mumbai,full_time,active,,A
+E-0319,Deepika Ghosh,HR,Mid,1,HR-MID,Mid HR,HR-T3,E-0287,2025-06-12T00:00:00.000Z,2025-06-12T00:00:00.000Z,Chennai,full_time,active,,A
+E-0320,Siddharth Bansal,Support,Associate,0,SUP-ASSOCIATE,Associate Support,SUP-T1,E-0032,2025-09-02T00:00:00.000Z,2025-09-02T00:00:00.000Z,Bengaluru,contractor,active,,B
+E-0321,Abhishek Reddy,Engineering,Senior,2,ENG-SENIOR,Senior Engineering,ENG-T3,E-0065,2023-08-14T00:00:00.000Z,2023-08-14T00:00:00.000Z,Hyderabad,full_time,active,,B
+E-0322,Karan Thakur,Sales,Senior,2,SAL-SENIOR,Senior Sales,SAL-T2,E-0066,2023-08-14T00:00:00.000Z,2023-08-14T00:00:00.000Z,Bengaluru,full_time,active,,A
+E-0323,Namita Menon,Marketing,Mid,1,MAR-MID,Mid Marketing,MAR-T3,E-0203,2025-10-03T00:00:00.000Z,2025-10-03T00:00:00.000Z,Delhi NCR,full_time,active,,A
+E-0324,Kritika Iyer,Product,Lead,3,PRO-LEAD,Lead Product,PRO-T2,,2024-03-26T00:00:00.000Z,2024-03-26T00:00:00.000Z,Bengaluru,full_time,active,,B
+E-0325,Aarav Mukherjee,Design,Associate,0,DES-ASSOCIATE,Associate Design,DES-T3,E-0101,2024-05-26T00:00:00.000Z,2024-05-26T00:00:00.000Z,Bengaluru,full_time,active,,A
+E-0326,Ananya Reddy,Finance,Mid,1,FIN-MID,Mid Finance,FIN-T3,E-0422,2025-10-08T00:00:00.000Z,2025-10-08T00:00:00.000Z,Chennai,full_time,active,,B
+E-0327,Meera Rathi,HR,Associate,0,HR-ASSOCIATE,Associate HR,HR-T2,E-0255,2023-08-03T00:00:00.000Z,2023-08-03T00:00:00.000Z,Mumbai,full_time,active,,B
+E-0328,Isha Chopra,Support,Mid,1,SUP-MID,Mid Support,SUP-T3,E-0256,2021-05-19T00:00:00.000Z,2021-10-05T00:00:00.000Z,Remote,full_time,active,,A
+E-0329,Rahul Bhosale,Engineering,Mid,1,ENG-MID,Mid Engineering,ENG-T3,E-0313,2022-09-02T00:00:00.000Z,2022-09-02T00:00:00.000Z,Bengaluru,full_time,active,,B
+E-0330,Tanvi Mishra,Sales,Mid,1,SAL-MID,Mid Sales,SAL-T1,E-0434,2026-02-25T00:00:00.000Z,2026-08-10T00:00:00.000Z,Bengaluru,full_time,active,,A
+E-0331,Kritika Thakur,Marketing,Mid,1,MAR-MID,Mid Marketing,MAR-T1,E-0475,2022-04-16T00:00:00.000Z,2022-04-16T00:00:00.000Z,Mumbai,full_time,active,,A
+E-0332,Meera Bhatt,Product,Associate,0,PRO-ASSOCIATE,Associate Product,PRO-T3,E-0356,2023-02-19T00:00:00.000Z,2023-02-19T00:00:00.000Z,Delhi NCR,full_time,active,,B
+E-0333,Gaurav Mehta,Design,Senior,2,DES-SENIOR,Senior Design,DES-T3,E-0101,2025-06-15T00:00:00.000Z,2025-06-15T00:00:00.000Z,Mumbai,full_time,active,,B
+E-0334,Kavya Saxena,Finance,Senior,2,FIN-SENIOR,Senior Finance,FIN-T3,E-0374,2021-05-17T00:00:00.000Z,2021-05-17T00:00:00.000Z,Hyderabad,full_time,active,,B
+E-0335,Kavya Dixit,HR,Associate,0,HR-ASSOCIATE,Associate HR,HR-T3,E-0127,2023-10-07T00:00:00.000Z,2023-10-07T00:00:00.000Z,Mumbai,full_time,active,,A
+E-0336,Ishaan Chawla,Support,Lead,3,SUP-LEAD,Lead Support,SUP-T2,,2025-11-11T00:00:00.000Z,2025-11-11T00:00:00.000Z,Pune,full_time,active,,B
+E-0337,Siddharth Chatterjee,Engineering,Mid,1,ENG-MID,Mid Engineering,ENG-T1,E-0385,2024-04-10T00:00:00.000Z,2024-04-10T00:00:00.000Z,Chennai,full_time,active,,A
+E-0338,Yash Mishra,Sales,Associate,0,SAL-ASSOCIATE,Associate Sales,SAL-T2,E-0354,2022-11-18T00:00:00.000Z,2022-11-18T00:00:00.000Z,Hyderabad,full_time,active,,A
+E-0339,Nandini Bhosale,Marketing,Mid,1,MAR-MID,Mid Marketing,MAR-T2,E-0227,2022-11-15T00:00:00.000Z,2022-11-15T00:00:00.000Z,Chennai,full_time,active,,A
+E-0340,Karan Pillai,Product,Lead,3,PRO-LEAD,Lead Product,PRO-T2,,2023-01-13T00:00:00.000Z,2024-04-20T00:00:00.000Z,Remote,full_time,active,,B
+E-0341,Aditya Pillai,Design,Lead,3,DES-LEAD,Lead Design,DES-T3,,2025-02-01T00:00:00.000Z,2025-02-01T00:00:00.000Z,Hyderabad,full_time,active,,B
+E-0342,Varun Shah,Finance,Senior,2,FIN-SENIOR,Senior Finance,FIN-T2,E-0262,2022-03-27T00:00:00.000Z,2022-03-27T00:00:00.000Z,Pune,full_time,active,,B
+E-0343,Ashwin Yadav,HR,Associate,0,HR-ASSOCIATE,Associate HR,HR-T3,E-0399,2020-10-26T00:00:00.000Z,2020-10-26T00:00:00.000Z,Pune,full_time,active,,A
+E-0344,Aman Chatterjee,Support,Senior,2,SUP-SENIOR,Senior Support,SUP-T3,E-0432,2023-01-25T00:00:00.000Z,2023-01-25T00:00:00.000Z,Bengaluru,full_time,active,,B
+E-0345,Siddharth Verma,Engineering,Mid,1,ENG-MID,Mid Engineering,ENG-T2,E-0233,2025-03-24T00:00:00.000Z,2025-03-24T00:00:00.000Z,Bengaluru,contractor,active,,B
+E-0346,Vivek Sengupta,Sales,Associate,0,SAL-ASSOCIATE,Associate Sales,SAL-T2,E-0066,2024-12-26T00:00:00.000Z,2024-12-26T00:00:00.000Z,Remote,full_time,departed,4,A
+E-0347,Pooja Pandey,Marketing,Associate,0,MAR-ASSOCIATE,Associate Marketing,MAR-T2,E-0483,2023-01-06T00:00:00.000Z,2023-01-06T00:00:00.000Z,Bengaluru,full_time,active,,B
+E-0348,Aditya Trivedi,Product,Associate,0,PRO-ASSOCIATE,Associate Product,PRO-T2,E-0468,2026-03-13T00:00:00.000Z,2026-03-13T00:00:00.000Z,Mumbai,contractor,active,,A
+E-0349,Arjun Pandey,Design,Associate,0,DES-ASSOCIATE,Associate Design,DES-T3,E-0045,2023-09-18T00:00:00.000Z,2023-09-18T00:00:00.000Z,Hyderabad,full_time,active,,B
+E-0350,Tarun Rao,Finance,Lead,3,FIN-LEAD,Lead Finance,FIN-T3,,2025-10-17T00:00:00.000Z,2025-10-17T00:00:00.000Z,Remote,full_time,active,,A
+E-0351,Suresh Singh,HR,Lead,3,HR-LEAD,Lead HR,HR-T1,,2024-08-17T00:00:00.000Z,2025-02-09T00:00:00.000Z,Remote,full_time,active,,A
+E-0352,Simran Kulkarni,Support,Lead,3,SUP-LEAD,Lead Support,SUP-T2,,2023-07-30T00:00:00.000Z,2023-07-30T00:00:00.000Z,Chennai,full_time,active,,B
+E-0353,Ashwin Chopra,Engineering,Lead,3,ENG-LEAD,Lead Engineering,ENG-T3,,2023-08-24T00:00:00.000Z,2023-08-24T00:00:00.000Z,Chennai,full_time,active,,B
+E-0354,Gaurav Bhosale,Sales,Senior,2,SAL-SENIOR,Senior Sales,SAL-T2,E-0194,2021-04-08T00:00:00.000Z,2021-04-08T00:00:00.000Z,Mumbai,full_time,active,,A
+E-0355,Rajesh Yadav,Marketing,Associate,0,MAR-ASSOCIATE,Associate Marketing,MAR-T3,E-0267,2022-10-18T00:00:00.000Z,2022-10-18T00:00:00.000Z,Hyderabad,full_time,active,,A
+E-0356,Siddharth Nair,Product,Lead,3,PRO-LEAD,Lead Product,PRO-T3,,2025-04-30T00:00:00.000Z,2025-04-30T00:00:00.000Z,Mumbai,full_time,active,,A
+E-0357,Kunal Chatterjee,Design,Associate,0,DES-ASSOCIATE,Associate Design,DES-T2,E-0069,2023-06-29T00:00:00.000Z,2023-06-29T00:00:00.000Z,Mumbai,full_time,active,,A
+E-0358,Suresh Mishra,Finance,Mid,1,FIN-MID,Mid Finance,FIN-T2,E-0334,2024-01-05T00:00:00.000Z,2024-01-05T00:00:00.000Z,Bengaluru,full_time,active,,A
+E-0359,Suresh Deshmukh,HR,Associate,0,HR-ASSOCIATE,Associate HR,HR-T1,E-0095,2021-12-10T00:00:00.000Z,2021-12-10T00:00:00.000Z,Remote,full_time,active,,B
+E-0360,Aarav Kulkarni,Support,Associate,0,SUP-ASSOCIATE,Associate Support,SUP-T2,E-0112,2021-03-13T00:00:00.000Z,2021-03-13T00:00:00.000Z,Pune,full_time,active,,B
+E-0361,Isha Kulkarni,Engineering,Senior,2,ENG-SENIOR,Senior Engineering,ENG-T1,E-0353,2024-07-20T00:00:00.000Z,2024-07-20T00:00:00.000Z,Mumbai,full_time,active,,A
+E-0362,Arjun Bhosale,Sales,Mid,1,SAL-MID,Mid Sales,SAL-T2,E-0450,2024-03-14T00:00:00.000Z,2024-03-14T00:00:00.000Z,Bengaluru,full_time,active,,B
+E-0363,Meera Menon,Marketing,Senior,2,MAR-SENIOR,Senior Marketing,MAR-T2,E-0475,2020-11-20T00:00:00.000Z,2020-11-20T00:00:00.000Z,Mumbai,full_time,active,,A
+E-0364,Shreya Rao,Product,Associate,0,PRO-ASSOCIATE,Associate Product,PRO-T3,E-0116,2024-10-11T00:00:00.000Z,2024-11-20T00:00:00.000Z,Remote,full_time,active,,A
+E-0365,Karan Chawla,Design,Associate,0,DES-ASSOCIATE,Associate Design,DES-T1,E-0045,2022-08-26T00:00:00.000Z,2022-08-26T00:00:00.000Z,Chennai,contractor,active,,A
+E-0366,Divya Reddy,Finance,Associate,0,FIN-ASSOCIATE,Associate Finance,FIN-T3,E-0454,2022-12-13T00:00:00.000Z,2022-12-13T00:00:00.000Z,Delhi NCR,full_time,active,,B
+E-0367,Rajesh Deshmukh,HR,Mid,1,HR-MID,Mid HR,HR-T2,E-0135,2024-03-31T00:00:00.000Z,2024-03-31T00:00:00.000Z,Hyderabad,full_time,active,,A
+E-0368,Om Banerjee,Support,Mid,1,SUP-MID,Mid Support,SUP-T2,E-0392,2025-05-20T00:00:00.000Z,2025-05-20T00:00:00.000Z,Chennai,full_time,active,,A
+E-0369,Abhishek Joshi,Engineering,Mid,1,ENG-MID,Mid Engineering,ENG-T3,E-0433,2024-10-26T00:00:00.000Z,2024-11-10T00:00:00.000Z,Pune,full_time,active,,A
+E-0370,Nikhil Chopra,Sales,Senior,2,SAL-SENIOR,Senior Sales,SAL-T3,E-0194,2024-12-30T00:00:00.000Z,2025-04-06T00:00:00.000Z,Remote,contractor,active,,B
+E-0371,Simran Agarwal,Marketing,Associate,0,MAR-ASSOCIATE,Associate Marketing,MAR-T3,E-0051,2024-07-21T00:00:00.000Z,2024-07-21T00:00:00.000Z,Delhi NCR,full_time,active,,A
+E-0372,Shreya Sharma,Product,Mid,1,PRO-MID,Mid Product,PRO-T3,E-0164,2022-10-19T00:00:00.000Z,2022-10-19T00:00:00.000Z,Pune,full_time,active,,A
+E-0373,Riya Banerjee,Design,Senior,2,DES-SENIOR,Senior Design,DES-T3,E-0261,2023-03-10T00:00:00.000Z,2023-03-10T00:00:00.000Z,Hyderabad,full_time,active,,A
+E-0374,Kunal Gupta,Finance,Lead,3,FIN-LEAD,Lead Finance,FIN-T2,,2020-11-01T00:00:00.000Z,2020-11-01T00:00:00.000Z,Mumbai,contractor,active,,B
+E-0375,Suresh Rao,HR,Associate,0,HR-ASSOCIATE,Associate HR,HR-T2,E-0271,2023-04-25T00:00:00.000Z,2023-04-25T00:00:00.000Z,Mumbai,full_time,active,,A
+E-0376,Ishaan Pandey,Support,Associate,0,SUP-ASSOCIATE,Associate Support,SUP-T2,E-0344,2024-11-11T00:00:00.000Z,2024-11-11T00:00:00.000Z,Hyderabad,full_time,active,,A
+E-0377,Gaurav Agarwal,Engineering,Associate,0,ENG-ASSOCIATE,Associate Engineering,ENG-T2,E-0321,2025-05-27T00:00:00.000Z,2025-05-27T00:00:00.000Z,Hyderabad,full_time,active,,A
+E-0378,Swati Sharma,Sales,Associate,0,SAL-ASSOCIATE,Associate Sales,SAL-T1,E-0354,2024-07-11T00:00:00.000Z,2024-07-11T00:00:00.000Z,Pune,full_time,active,,A
+E-0379,Om Kulkarni,Marketing,Mid,1,MAR-MID,Mid Marketing,MAR-T1,E-0003,2025-11-30T00:00:00.000Z,2025-11-30T00:00:00.000Z,Hyderabad,full_time,active,,A
+E-0380,Manish Trivedi,Product,Mid,1,PRO-MID,Mid Product,PRO-T1,E-0132,2022-03-03T00:00:00.000Z,2022-03-03T00:00:00.000Z,Remote,full_time,active,,A
+E-0381,Ritika Patel,Design,Senior,2,DES-SENIOR,Senior Design,DES-T2,E-0101,2023-07-25T00:00:00.000Z,2023-07-25T00:00:00.000Z,Remote,full_time,active,,B
+E-0382,Tarun Mehta,Finance,Mid,1,FIN-MID,Mid Finance,FIN-T3,E-0038,2020-11-22T00:00:00.000Z,2021-04-03T00:00:00.000Z,Delhi NCR,contractor,active,,B
+E-0383,Simran Agarwal,HR,Lead,3,HR-LEAD,Lead HR,HR-T2,,2024-07-17T00:00:00.000Z,2024-07-17T00:00:00.000Z,Delhi NCR,full_time,active,,A
+E-0384,Arjun Singh,Support,Lead,3,SUP-LEAD,Lead Support,SUP-T1,,2022-02-11T00:00:00.000Z,2022-02-11T00:00:00.000Z,Mumbai,full_time,active,,A
+E-0385,Harsh Trivedi,Engineering,Senior,2,ENG-SENIOR,Senior Engineering,ENG-T3,E-0417,2024-01-18T00:00:00.000Z,2024-01-18T00:00:00.000Z,Delhi NCR,full_time,active,,B
+E-0386,Rajesh Banerjee,Sales,Mid,1,SAL-MID,Mid Sales,SAL-T3,E-0370,2025-08-21T00:00:00.000Z,2025-08-21T00:00:00.000Z,Chennai,full_time,active,,A
+E-0387,Simran Malhotra,Marketing,Senior,2,MAR-SENIOR,Senior Marketing,MAR-T3,E-0475,2022-02-21T00:00:00.000Z,2022-02-21T00:00:00.000Z,Chennai,full_time,active,,A
+E-0388,Meera Deshmukh,Product,Associate,0,PRO-ASSOCIATE,Associate Product,PRO-T1,E-0052,2023-10-26T00:00:00.000Z,2023-10-26T00:00:00.000Z,Remote,contractor,active,,A
+E-0389,Simran Naidu,Design,Lead,3,DES-LEAD,Lead Design,DES-T1,,2021-04-01T00:00:00.000Z,2021-04-06T00:00:00.000Z,Bengaluru,full_time,active,,B
+E-0390,Arjun Chavan,Finance,Mid,1,FIN-MID,Mid Finance,FIN-T3,E-0374,2022-10-30T00:00:00.000Z,2022-10-30T00:00:00.000Z,Hyderabad,full_time,active,,A
+E-0391,Shreya Singh,HR,Mid,1,HR-MID,Mid HR,HR-T1,E-0103,2021-08-10T00:00:00.000Z,2021-08-10T00:00:00.000Z,Hyderabad,full_time,active,,A
+E-0392,Bhavna Deshmukh,Support,Senior,2,SUP-SENIOR,Senior Support,SUP-T1,E-0384,2022-05-22T00:00:00.000Z,2022-05-22T00:00:00.000Z,Remote,full_time,active,,B
+E-0393,Ashwin Chatterjee,Engineering,Mid,1,ENG-MID,Mid Engineering,ENG-T2,E-0361,2024-10-16T00:00:00.000Z,2025-11-01T00:00:00.000Z,Hyderabad,full_time,active,,B
+E-0394,Kritika Deshmukh,Sales,Associate,0,SAL-ASSOCIATE,Associate Sales,SAL-T1,E-0098,2023-09-17T00:00:00.000Z,2024-04-27T00:00:00.000Z,Mumbai,contractor,active,,A
+E-0395,Radhika Bansal,Marketing,Associate,0,MAR-ASSOCIATE,Associate Marketing,MAR-T2,E-0027,2022-12-22T00:00:00.000Z,2022-12-22T00:00:00.000Z,Pune,full_time,active,,B
+E-0396,Tarun Banerjee,Product,Lead,3,PRO-LEAD,Lead Product,PRO-T2,,2024-12-24T00:00:00.000Z,2024-12-24T00:00:00.000Z,Bengaluru,full_time,active,,B
+E-0397,Isha Thakur,Design,Associate,0,DES-ASSOCIATE,Associate Design,DES-T1,E-0069,2020-11-15T00:00:00.000Z,2020-11-15T00:00:00.000Z,Pune,full_time,active,,A
+E-0398,Radhika Chopra,Finance,Associate,0,FIN-ASSOCIATE,Associate Finance,FIN-T1,E-0406,2021-10-31T00:00:00.000Z,2021-10-31T00:00:00.000Z,Delhi NCR,full_time,active,,B
+E-0399,Aarav Chatterjee,HR,Senior,2,HR-SENIOR,Senior HR,HR-T3,E-0135,2022-09-29T00:00:00.000Z,2022-09-29T00:00:00.000Z,Bengaluru,full_time,active,,B
+E-0400,Sanjay Thakur,Support,Associate,0,SUP-ASSOCIATE,Associate Support,SUP-T2,E-0128,2020-10-20T00:00:00.000Z,2020-10-20T00:00:00.000Z,Chennai,full_time,active,,A
+E-0401,Rohan Rathi,Engineering,Associate,0,ENG-ASSOCIATE,Associate Engineering,ENG-T3,E-0449,2021-06-30T00:00:00.000Z,2021-06-30T00:00:00.000Z,Bengaluru,full_time,active,,B
+E-0402,Gaurav Agarwal,Sales,Mid,1,SAL-MID,Mid Sales,SAL-T1,E-0018,2023-01-07T00:00:00.000Z,2023-01-07T00:00:00.000Z,Mumbai,full_time,active,,A
+E-0403,Ashwin Naidu,Marketing,Associate,0,MAR-ASSOCIATE,Associate Marketing,MAR-T3,E-0483,2024-03-28T00:00:00.000Z,2024-03-28T00:00:00.000Z,Hyderabad,full_time,active,,A
+E-0404,Tarun Singh,Product,Associate,0,PRO-ASSOCIATE,Associate Product,PRO-T1,E-0052,2020-11-20T00:00:00.000Z,2020-12-28T00:00:00.000Z,Mumbai,full_time,active,,B
+E-0405,Tarun Mishra,Design,Associate,0,DES-ASSOCIATE,Associate Design,DES-T2,E-0069,2025-01-16T00:00:00.000Z,2025-01-16T00:00:00.000Z,Remote,full_time,active,,A
+E-0406,Manish Dixit,Finance,Lead,3,FIN-LEAD,Lead Finance,FIN-T3,,2025-03-09T00:00:00.000Z,2025-03-09T00:00:00.000Z,Hyderabad,full_time,departed,4,A
+E-0407,Anjali Kulkarni,HR,Mid,1,HR-MID,Mid HR,HR-T3,E-0471,2022-05-18T00:00:00.000Z,2022-05-18T00:00:00.000Z,Mumbai,full_time,active,,A
+E-0408,Radhika Rathi,Support,Senior,2,SUP-SENIOR,Senior Support,SUP-T1,E-0304,2025-01-02T00:00:00.000Z,2025-01-02T00:00:00.000Z,Delhi NCR,full_time,active,,A
+E-0409,Siddharth Kapoor,Engineering,Mid,1,ENG-MID,Mid Engineering,ENG-T1,E-0305,2024-04-19T00:00:00.000Z,2024-04-19T00:00:00.000Z,Chennai,full_time,active,,B
+E-0410,Lakshmi Shah,Sales,Mid,1,SAL-MID,Mid Sales,SAL-T2,E-0226,2021-10-17T00:00:00.000Z,2021-10-17T00:00:00.000Z,Bengaluru,full_time,active,,A
+E-0411,Tarun Patel,Marketing,Associate,0,MAR-ASSOCIATE,Associate Marketing,MAR-T2,E-0363,2024-09-07T00:00:00.000Z,2024-09-07T00:00:00.000Z,Remote,contractor,active,,A
+E-0412,Bhavna Agarwal,Product,Mid,1,PRO-MID,Mid Product,PRO-T2,E-0164,2024-12-06T00:00:00.000Z,2024-12-06T00:00:00.000Z,Pune,full_time,active,,B
+E-0413,Namita Rao,Design,Mid,1,DES-MID,Mid Design,DES-T3,E-0333,2022-06-01T00:00:00.000Z,2022-06-01T00:00:00.000Z,Mumbai,full_time,active,,A
+E-0414,Tarun Sengupta,Finance,Associate,0,FIN-ASSOCIATE,Associate Finance,FIN-T3,E-0374,2021-11-11T00:00:00.000Z,2021-11-11T00:00:00.000Z,Mumbai,full_time,active,,B
+E-0415,Kavya Bhosale,HR,Lead,3,HR-LEAD,Lead HR,HR-T1,,2024-11-14T00:00:00.000Z,2024-11-14T00:00:00.000Z,Hyderabad,full_time,active,,B
+E-0416,Harsh Pandey,Support,Mid,1,SUP-MID,Mid Support,SUP-T2,E-0032,2024-02-09T00:00:00.000Z,2024-02-09T00:00:00.000Z,Bengaluru,full_time,active,,B
+E-0417,Tanvi Menon,Engineering,Lead,3,ENG-LEAD,Lead Engineering,ENG-T2,,2020-12-14T00:00:00.000Z,2020-12-14T00:00:00.000Z,Pune,full_time,active,,B
+E-0418,Meera Thakur,Sales,Associate,0,SAL-ASSOCIATE,Associate Sales,SAL-T2,E-0058,2024-03-13T00:00:00.000Z,2024-03-13T00:00:00.000Z,Delhi NCR,full_time,active,,B
+E-0419,Kavya Chopra,Marketing,Associate,0,MAR-ASSOCIATE,Associate Marketing,MAR-T2,E-0475,2022-06-25T00:00:00.000Z,2022-06-25T00:00:00.000Z,Mumbai,full_time,active,,B
+E-0420,Gaurav Menon,Product,Associate,0,PRO-ASSOCIATE,Associate Product,PRO-T2,E-0052,2021-06-23T00:00:00.000Z,2021-06-23T00:00:00.000Z,Pune,full_time,active,,A
+E-0421,Kavya Chavan,Design,Senior,2,DES-SENIOR,Senior Design,DES-T2,E-0045,2024-12-12T00:00:00.000Z,2024-12-12T00:00:00.000Z,Chennai,full_time,active,,A
+E-0422,Sanjay Banerjee,Finance,Senior,2,FIN-SENIOR,Senior Finance,FIN-T2,E-0294,2021-07-04T00:00:00.000Z,2021-07-18T00:00:00.000Z,Remote,full_time,active,,B
+E-0423,Om Joshi,HR,Mid,1,HR-MID,Mid HR,HR-T3,E-0111,2025-11-26T00:00:00.000Z,2025-11-26T00:00:00.000Z,Pune,full_time,active,,B
+E-0424,Kavya Ghosh,Support,Mid,1,SUP-MID,Mid Support,SUP-T2,E-0432,2026-01-01T00:00:00.000Z,2026-08-03T00:00:00.000Z,Pune,full_time,active,,A
+E-0425,Varun Ghosh,Engineering,Lead,3,ENG-LEAD,Lead Engineering,ENG-T1,,2021-07-20T00:00:00.000Z,2021-07-20T00:00:00.000Z,Bengaluru,full_time,active,,B
+E-0426,Pallavi Sharma,Sales,Associate,0,SAL-ASSOCIATE,Associate Sales,SAL-T3,E-0098,2022-02-15T00:00:00.000Z,2022-02-15T00:00:00.000Z,Pune,full_time,active,,B
+E-0427,Harsh Rathi,Marketing,Associate,0,MAR-ASSOCIATE,Associate Marketing,MAR-T3,E-0115,2022-01-29T00:00:00.000Z,2022-01-29T00:00:00.000Z,Bengaluru,full_time,active,,B
+E-0428,Isha Chawla,Product,Mid,1,PRO-MID,Mid Product,PRO-T2,E-0212,2021-05-31T00:00:00.000Z,2021-05-31T00:00:00.000Z,Pune,full_time,active,,A
+E-0429,Simran Kumar,Design,Senior,2,DES-SENIOR,Senior Design,DES-T3,E-0301,2023-07-11T00:00:00.000Z,2023-07-11T00:00:00.000Z,Pune,full_time,active,,B
+E-0430,Pooja Kapoor,Finance,Mid,1,FIN-MID,Mid Finance,FIN-T2,E-0246,2022-08-12T00:00:00.000Z,2023-12-10T00:00:00.000Z,Remote,full_time,active,,A
+E-0431,Priyanka Chopra,HR,Senior,2,HR-SENIOR,Senior HR,HR-T3,E-0119,2026-03-04T00:00:00.000Z,2026-03-04T00:00:00.000Z,Remote,full_time,active,,A
+E-0432,Sneha Malhotra,Support,Lead,3,SUP-LEAD,Lead Support,SUP-T2,,2021-06-10T00:00:00.000Z,2022-06-05T00:00:00.000Z,Pune,contractor,active,,B
+E-0433,Shreya Yadav,Engineering,Senior,2,ENG-SENIOR,Senior Engineering,ENG-T2,E-0417,2024-02-15T00:00:00.000Z,2024-02-15T00:00:00.000Z,Bengaluru,full_time,active,,B
+E-0434,Aman Gupta,Sales,Lead,3,SAL-LEAD,Lead Sales,SAL-T3,,2020-10-05T00:00:00.000Z,2020-10-05T00:00:00.000Z,Mumbai,full_time,active,,B
+E-0435,Anjali Chopra,Marketing,Associate,0,MAR-ASSOCIATE,Associate Marketing,MAR-T2,E-0075,2023-11-05T00:00:00.000Z,2023-11-05T00:00:00.000Z,Remote,contractor,active,,B
+E-0436,Suresh Bhosale,Product,Associate,0,PRO-ASSOCIATE,Associate Product,PRO-T1,E-0292,2022-02-06T00:00:00.000Z,2022-02-06T00:00:00.000Z,Remote,full_time,active,,B
+E-0437,Manish Deshmukh,Design,Associate,0,DES-ASSOCIATE,Associate Design,DES-T1,E-0045,2021-05-03T00:00:00.000Z,2021-05-03T00:00:00.000Z,Mumbai,full_time,active,,A
+E-0438,Riya Dixit,Finance,Associate,0,FIN-ASSOCIATE,Associate Finance,FIN-T1,E-0374,2023-09-16T00:00:00.000Z,2023-09-16T00:00:00.000Z,Hyderabad,full_time,active,,A
+E-0439,Karan Nair,HR,Associate,0,HR-ASSOCIATE,Associate HR,HR-T1,E-0471,2021-12-16T00:00:00.000Z,2021-12-16T00:00:00.000Z,Mumbai,full_time,active,,B
+E-0440,Nandini Rathi,Support,Associate,0,SUP-ASSOCIATE,Associate Support,SUP-T2,E-0128,2021-10-29T00:00:00.000Z,2021-10-29T00:00:00.000Z,Hyderabad,full_time,active,,A
+E-0441,Rohan Rathi,Engineering,Mid,1,ENG-MID,Mid Engineering,ENG-T1,E-0249,2024-08-25T00:00:00.000Z,2025-04-11T00:00:00.000Z,Delhi NCR,full_time,active,,A
+E-0442,Rohan Ghosh,Sales,Mid,1,SAL-MID,Mid Sales,SAL-T3,E-0098,2021-10-04T00:00:00.000Z,2021-10-04T00:00:00.000Z,Delhi NCR,full_time,active,,B
+E-0443,Rohan Gupta,Marketing,Senior,2,MAR-SENIOR,Senior Marketing,MAR-T2,E-0283,2022-06-25T00:00:00.000Z,2023-03-16T00:00:00.000Z,Delhi NCR,full_time,active,,B
+E-0444,Ashwin Bansal,Product,Mid,1,PRO-MID,Mid Product,PRO-T3,E-0068,2022-07-31T00:00:00.000Z,2022-07-31T00:00:00.000Z,Pune,full_time,active,,B
+E-0445,Sanjay Bansal,Design,Mid,1,DES-MID,Mid Design,DES-T3,E-0261,2021-10-19T00:00:00.000Z,2021-10-19T00:00:00.000Z,Delhi NCR,full_time,active,,A
+E-0446,Tarun Thakur,Finance,Mid,1,FIN-MID,Mid Finance,FIN-T2,E-0350,2023-12-27T00:00:00.000Z,2025-04-30T00:00:00.000Z,Hyderabad,full_time,active,,A
+E-0447,Namita Chavan,HR,Mid,1,HR-MID,Mid HR,HR-T3,E-0071,2022-09-03T00:00:00.000Z,2022-09-03T00:00:00.000Z,Pune,full_time,active,,A
+E-0448,Ananya Reddy,Support,Associate,0,SUP-ASSOCIATE,Associate Support,SUP-T3,E-0128,2025-04-13T00:00:00.000Z,2026-02-03T00:00:00.000Z,Bengaluru,full_time,active,,A
+E-0449,Rajesh Rao,Engineering,Lead,3,ENG-LEAD,Lead Engineering,ENG-T3,,2024-10-27T00:00:00.000Z,2024-10-27T00:00:00.000Z,Remote,full_time,active,,A
+E-0450,Radhika Patel,Sales,Lead,3,SAL-LEAD,Lead Sales,SAL-T2,,2020-11-19T00:00:00.000Z,2020-11-19T00:00:00.000Z,Chennai,full_time,active,,A
+E-0451,Yash Gupta,Marketing,Mid,1,MAR-MID,Mid Marketing,MAR-T1,E-0387,2024-06-24T00:00:00.000Z,2024-06-24T00:00:00.000Z,Bengaluru,full_time,active,,A
+E-0452,Rajesh Joshi,Product,Associate,0,PRO-ASSOCIATE,Associate Product,PRO-T2,E-0468,2023-03-02T00:00:00.000Z,2024-02-04T00:00:00.000Z,Chennai,full_time,active,,B
+E-0453,Ananya Iyer,Design,Associate,0,DES-ASSOCIATE,Associate Design,DES-T1,E-0341,2022-09-18T00:00:00.000Z,2022-09-18T00:00:00.000Z,Pune,full_time,active,,B
+E-0454,Shreya Yadav,Finance,Senior,2,FIN-SENIOR,Senior Finance,FIN-T1,E-0246,2025-12-19T00:00:00.000Z,2026-08-21T00:00:00.000Z,Pune,full_time,active,,B
+E-0455,Sanjay Bhosale,HR,Associate,0,HR-ASSOCIATE,Associate HR,HR-T3,E-0415,2022-06-16T00:00:00.000Z,2022-06-16T00:00:00.000Z,Delhi NCR,full_time,active,,B
+E-0456,Sanjay Thakur,Support,Mid,1,SUP-MID,Mid Support,SUP-T3,E-0352,2021-10-31T00:00:00.000Z,2021-10-31T00:00:00.000Z,Mumbai,full_time,active,,A
+E-0457,Riya Rao,Engineering,Associate,0,ENG-ASSOCIATE,Associate Engineering,ENG-T2,E-0313,2024-12-22T00:00:00.000Z,2024-12-22T00:00:00.000Z,Pune,full_time,active,,B
+E-0458,Meera Verma,Sales,Mid,1,SAL-MID,Mid Sales,SAL-T1,E-0098,2022-06-15T00:00:00.000Z,2023-06-13T00:00:00.000Z,Remote,full_time,active,,A
+E-0459,Aman Thakur,Marketing,Associate,0,MAR-ASSOCIATE,Associate Marketing,MAR-T1,E-0251,2020-12-16T00:00:00.000Z,2022-03-26T00:00:00.000Z,Remote,full_time,active,,A
+E-0460,Aditya Mukherjee,Product,Associate,0,PRO-ASSOCIATE,Associate Product,PRO-T3,E-0292,2020-12-19T00:00:00.000Z,2020-12-19T00:00:00.000Z,Bengaluru,full_time,active,,B
+E-0461,Ananya Verma,Design,Associate,0,DES-ASSOCIATE,Associate Design,DES-T2,E-0285,2021-04-05T00:00:00.000Z,2021-04-05T00:00:00.000Z,Delhi NCR,contractor,active,,A
+E-0462,Meera Rathi,Finance,Mid,1,FIN-MID,Mid Finance,FIN-T1,E-0110,2025-04-21T00:00:00.000Z,2025-04-21T00:00:00.000Z,Delhi NCR,full_time,active,,B
+E-0463,Nikhil Chavan,HR,Associate,0,HR-ASSOCIATE,Associate HR,HR-T3,E-0191,2025-02-25T00:00:00.000Z,2025-02-25T00:00:00.000Z,Delhi NCR,full_time,active,,B
+E-0464,Aditya Deshmukh,Support,Mid,1,SUP-MID,Mid Support,SUP-T2,E-0392,2022-07-14T00:00:00.000Z,2022-07-14T00:00:00.000Z,Pune,full_time,active,,B
+E-0465,Tanvi Ghosh,Engineering,Mid,1,ENG-MID,Mid Engineering,ENG-T3,E-0385,2021-09-29T00:00:00.000Z,2021-09-29T00:00:00.000Z,Delhi NCR,full_time,active,,A
+E-0466,Om Patel,Sales,Mid,1,SAL-MID,Mid Sales,SAL-T3,E-0354,2025-05-07T00:00:00.000Z,2025-05-07T00:00:00.000Z,Bengaluru,full_time,active,,A
+E-0467,Tarun Bansal,Marketing,Associate,0,MAR-ASSOCIATE,Associate Marketing,MAR-T2,E-0011,2023-03-06T00:00:00.000Z,2024-05-14T00:00:00.000Z,Mumbai,contractor,active,,A
+E-0468,Tarun Mishra,Product,Senior,2,PRO-SENIOR,Senior Product,PRO-T3,E-0036,2025-05-02T00:00:00.000Z,2025-05-02T00:00:00.000Z,Chennai,full_time,active,,B
+E-0469,Tarun Pillai,Design,Associate,0,DES-ASSOCIATE,Associate Design,DES-T2,E-0301,2022-02-19T00:00:00.000Z,2022-02-19T00:00:00.000Z,Hyderabad,contractor,active,,B
+E-0470,Bhavna Naidu,Finance,Associate,0,FIN-ASSOCIATE,Associate Finance,FIN-T1,E-0262,2025-05-05T00:00:00.000Z,2025-05-05T00:00:00.000Z,Chennai,full_time,active,,B
+E-0471,Aditya Sengupta,HR,Senior,2,HR-SENIOR,Senior HR,HR-T2,E-0383,2021-01-04T00:00:00.000Z,2021-01-04T00:00:00.000Z,Hyderabad,full_time,active,,A
+E-0472,Meera Chatterjee,Support,Associate,0,SUP-ASSOCIATE,Associate Support,SUP-T2,E-0312,2023-01-29T00:00:00.000Z,2023-01-29T00:00:00.000Z,Chennai,full_time,active,,A
+E-0473,Namita Chopra,Engineering,Associate,0,ENG-ASSOCIATE,Associate Engineering,ENG-T1,E-0361,2022-11-23T00:00:00.000Z,2022-11-23T00:00:00.000Z,Chennai,full_time,active,,B
+E-0474,Deepika Chopra,Sales,Mid,1,SAL-MID,Mid Sales,SAL-T3,E-0098,2022-01-11T00:00:00.000Z,2022-01-11T00:00:00.000Z,Remote,full_time,active,,B
+E-0475,Rahul Sharma,Marketing,Lead,3,MAR-LEAD,Lead Marketing,MAR-T3,,2025-04-07T00:00:00.000Z,2025-04-07T00:00:00.000Z,Remote,contractor,active,,A
+E-0476,Sanjay Deshmukh,Product,Mid,1,PRO-MID,Mid Product,PRO-T2,E-0316,2026-01-01T00:00:00.000Z,2026-01-01T00:00:00.000Z,Bengaluru,full_time,active,,B
+E-0477,Riya Sengupta,Design,Mid,1,DES-MID,Mid Design,DES-T2,E-0181,2020-10-17T00:00:00.000Z,2020-10-17T00:00:00.000Z,Chennai,contractor,active,,A
+E-0478,Priya Shah,Finance,Mid,1,FIN-MID,Mid Finance,FIN-T1,E-0454,2024-09-03T00:00:00.000Z,2024-09-03T00:00:00.000Z,Delhi NCR,full_time,active,,B
+E-0479,Harsh Sharma,HR,Mid,1,HR-MID,Mid HR,HR-T3,E-0471,2021-11-01T00:00:00.000Z,2021-11-01T00:00:00.000Z,Remote,contractor,active,,A
+E-0480,Anjali Kumar,Support,Associate,0,SUP-ASSOCIATE,Associate Support,SUP-T1,E-0064,2025-01-08T00:00:00.000Z,2025-01-08T00:00:00.000Z,Delhi NCR,full_time,active,,A
+E-0481,Riya Chawla,Engineering,Mid,1,ENG-MID,Mid Engineering,ENG-T1,E-0425,2025-08-20T00:00:00.000Z,2025-08-20T00:00:00.000Z,Delhi NCR,contractor,active,,A
+E-0482,Kunal Chawla,Sales,Senior,2,SAL-SENIOR,Senior Sales,SAL-T3,E-0066,2022-11-03T00:00:00.000Z,2022-11-03T00:00:00.000Z,Delhi NCR,full_time,active,,B
+E-0483,Om Kumar,Marketing,Senior,2,MAR-SENIOR,Senior Marketing,MAR-T3,E-0475,2025-10-21T00:00:00.000Z,2025-10-21T00:00:00.000Z,Chennai,full_time,active,,B
+E-0484,Pooja Saxena,Product,Associate,0,PRO-ASSOCIATE,Associate Product,PRO-T2,E-0052,2021-12-13T00:00:00.000Z,2021-12-13T00:00:00.000Z,Hyderabad,contractor,active,,B
+E-0485,Ritika Bansal,Design,Mid,1,DES-MID,Mid Design,DES-T2,E-0101,2021-05-17T00:00:00.000Z,2021-05-17T00:00:00.000Z,Mumbai,full_time,active,,A
+E-0486,Namita Sengupta,Finance,Associate,0,FIN-ASSOCIATE,Associate Finance,FIN-T1,E-0038,2022-02-19T00:00:00.000Z,2022-02-19T00:00:00.000Z,Hyderabad,full_time,active,,A
+E-0487,Sneha Pandey,HR,Senior,2,HR-SENIOR,Senior HR,HR-T1,E-0119,2022-02-03T00:00:00.000Z,2022-02-03T00:00:00.000Z,Remote,full_time,active,,B
+E-0488,Rahul Dixit,Support,Associate,0,SUP-ASSOCIATE,Associate Support,SUP-T1,E-0384,2025-05-02T00:00:00.000Z,2025-08-11T00:00:00.000Z,Pune,full_time,active,,B
+E-0489,Nikhil Dixit,Engineering,Associate,0,ENG-ASSOCIATE,Associate Engineering,ENG-T2,E-0129,2024-08-26T00:00:00.000Z,2024-08-26T00:00:00.000Z,Bengaluru,full_time,active,,A
+E-0490,Kunal Mehta,Sales,Associate,0,SAL-ASSOCIATE,Associate Sales,SAL-T3,E-0482,2023-01-31T00:00:00.000Z,2023-01-31T00:00:00.000Z,Remote,full_time,active,,B
+E-0491,Suresh Sharma,Marketing,Associate,0,MAR-ASSOCIATE,Associate Marketing,MAR-T2,E-0003,2021-02-11T00:00:00.000Z,2021-02-11T00:00:00.000Z,Remote,full_time,active,,A
+E-0492,Gaurav Thakur,Product,Mid,1,PRO-MID,Mid Product,PRO-T3,E-0212,2024-10-01T00:00:00.000Z,2024-10-01T00:00:00.000Z,Mumbai,full_time,active,,B
+E-0493,Lakshmi Malhotra,Design,Mid,1,DES-MID,Mid Design,DES-T1,E-0181,2024-06-12T00:00:00.000Z,2024-06-12T00:00:00.000Z,Chennai,contractor,active,,B
+E-0494,Simran Nair,Finance,Mid,1,FIN-MID,Mid Finance,FIN-T1,E-0086,2020-11-09T00:00:00.000Z,2021-03-24T00:00:00.000Z,Hyderabad,full_time,active,,A
+E-0495,Pallavi Dixit,HR,Mid,1,HR-MID,Mid HR,HR-T3,E-0431,2022-08-19T00:00:00.000Z,2022-08-19T00:00:00.000Z,Pune,full_time,active,,A
+E-0496,Kavya Pillai,Support,Lead,3,SUP-LEAD,Lead Support,SUP-T3,,2025-07-29T00:00:00.000Z,2025-07-29T00:00:00.000Z,Pune,contractor,active,,A
+E-0497,Neha Patel,Engineering,Associate,0,ENG-ASSOCIATE,Associate Engineering,ENG-T2,E-0233,2023-04-10T00:00:00.000Z,2023-04-10T00:00:00.000Z,Bengaluru,contractor,active,,A
+E-0498,Suresh Banerjee,Sales,Mid,1,SAL-MID,Mid Sales,SAL-T2,E-0098,2024-02-03T00:00:00.000Z,2024-03-31T00:00:00.000Z,Delhi NCR,full_time,active,,B
+E-0499,Radhika Dixit,Marketing,Associate,0,MAR-ASSOCIATE,Associate Marketing,MAR-T1,E-0251,2021-05-11T00:00:00.000Z,2021-05-11T00:00:00.000Z,Bengaluru,full_time,active,,B
+E-0500,Simran Bhosale,Product,Associate,0,PRO-ASSOCIATE,Associate Product,PRO-T2,E-0164,2021-07-21T00:00:00.000Z,2021-07-21T00:00:00.000Z,Delhi NCR,full_time,active,,A

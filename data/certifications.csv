@@ -1,0 +1,51 @@
+credential_id,employee_id,competency_tags,name,issued_at,issuer_tier
+CERT-0000211,E-0001,"[""problem_solving""]",problem solving Certification,2025-10-03T00:00:00.000Z,industry
+CERT-0000357,E-0002,"[""collaboration""]",collaboration Certification,2026-06-08T00:00:00.000Z,vendor
+CERT-0000952,E-0006,"[""financial_modeling""]",financial modeling Certification,2025-05-14T00:00:00.000Z,industry
+CERT-0001222,E-0008,"[""execution""]",execution Certification,2025-01-22T00:00:00.000Z,vendor
+CERT-0002068,E-0014,"[""financial_modeling""]",financial modeling Certification,2026-05-17T00:00:00.000Z,industry
+CERT-0005380,E-0036,"[""communication""]",communication Certification,2025-03-19T00:00:00.000Z,internal
+CERT-0007623,E-0051,"[""collaboration""]",collaboration Certification,2025-03-21T00:00:00.000Z,internal
+CERT-0012108,E-0081,"[""communication""]",communication Certification,2025-09-23T00:00:00.000Z,vendor
+CERT-0012881,E-0086,"[""execution""]",execution Certification,2025-10-02T00:00:00.000Z,vendor
+CERT-0013777,E-0092,"[""collaboration""]",collaboration Certification,2026-05-17T00:00:00.000Z,vendor
+CERT-0014891,E-0099,"[""problem_solving""]",problem solving Certification,2025-03-15T00:00:00.000Z,internal
+CERT-0015127,E-0101,"[""visual_craft""]",visual craft Certification,2026-09-03T00:00:00.000Z,vendor
+CERT-0017920,E-0120,"[""communication""]",communication Certification,2025-07-27T00:00:00.000Z,vendor
+CERT-0018252,E-0122,"[""negotiation""]",negotiation Certification,2025-12-24T00:00:00.000Z,vendor
+CERT-0018700,E-0125,"[""visual_craft""]",visual craft Certification,2026-02-11T00:00:00.000Z,industry
+CERT-0019506,E-0130,"[""execution""]",execution Certification,2025-07-06T00:00:00.000Z,internal
+CERT-0021216,E-0142,"[""problem_solving""]",problem solving Certification,2026-09-06T00:00:00.000Z,internal
+CERT-0022025,E-0147,"[""problem_solving""]",problem solving Certification,2025-07-15T00:00:00.000Z,internal
+CERT-0023090,E-0154,"[""negotiation""]",negotiation Certification,2025-01-13T00:00:00.000Z,internal
+CERT-0023453,E-0157,"[""ux_research""]",ux research Certification,2026-09-14T00:00:00.000Z,internal
+CERT-0026595,E-0179,"[""collaboration""]",collaboration Certification,2026-02-28T00:00:00.000Z,industry
+CERT-0027805,E-0187,"[""content_quality""]",content quality Certification,2025-06-23T00:00:00.000Z,industry
+CERT-0028580,E-0192,"[""communication""]",communication Certification,2025-10-14T00:00:00.000Z,internal
+CERT-0034321,E-0230,"[""communication""]",communication Certification,2025-05-26T00:00:00.000Z,industry
+CERT-0035335,E-0237,"[""collaboration""]",collaboration Certification,2025-04-16T00:00:00.000Z,vendor
+CERT-0035644,E-0239,"[""policy_navigation""]",policy navigation Certification,2026-01-25T00:00:00.000Z,industry
+CERT-0038452,E-0257,"[""problem_solving""]",problem solving Certification,2026-01-12T00:00:00.000Z,internal
+CERT-0040714,E-0273,"[""system_design""]",system design Certification,2025-05-03T00:00:00.000Z,industry
+CERT-0041164,E-0276,"[""stakeholder_alignment""]",stakeholder alignment Certification,2025-05-12T00:00:00.000Z,internal
+CERT-0043025,E-0288,"[""execution""]",execution Certification,2026-03-28T00:00:00.000Z,internal
+CERT-0049527,E-0331,"[""problem_solving""]",problem solving Certification,2025-10-06T00:00:00.000Z,industry
+CERT-0049994,E-0334,"[""problem_solving""]",problem solving Certification,2025-11-01T00:00:00.000Z,industry
+CERT-0050869,E-0340,"[""collaboration""]",collaboration Certification,2025-04-07T00:00:00.000Z,vendor
+CERT-0051552,E-0345,"[""communication""]",communication Certification,2025-06-02T00:00:00.000Z,vendor
+CERT-0051658,E-0346,"[""communication""]",communication Certification,2025-12-06T00:00:00.000Z,industry
+CERT-0055427,E-0372,"[""roadmap_prioritization""]",roadmap prioritization Certification,2025-09-14T00:00:00.000Z,vendor
+CERT-0056637,E-0380,"[""collaboration""]",collaboration Certification,2026-07-16T00:00:00.000Z,industry
+CERT-0056958,E-0382,"[""compliance_rigor""]",compliance rigor Certification,2026-05-21T00:00:00.000Z,vendor
+CERT-0057390,E-0385,"[""execution""]",execution Certification,2026-02-28T00:00:00.000Z,vendor
+CERT-0057552,E-0386,"[""execution""]",execution Certification,2025-06-20T00:00:00.000Z,industry
+CERT-0057876,E-0388,"[""roadmap_prioritization""]",roadmap prioritization Certification,2026-05-01T00:00:00.000Z,industry
+CERT-0058453,E-0392,"[""communication""]",communication Certification,2026-04-08T00:00:00.000Z,internal
+CERT-0058694,E-0394,"[""negotiation""]",negotiation Certification,2025-05-04T00:00:00.000Z,vendor
+CERT-0061881,E-0416,"[""problem_solving""]",problem solving Certification,2026-08-18T00:00:00.000Z,vendor
+CERT-0063271,E-0425,"[""system_design""]",system design Certification,2025-01-07T00:00:00.000Z,vendor
+CERT-0066316,E-0445,"[""problem_solving""]",problem solving Certification,2025-11-10T00:00:00.000Z,vendor
+CERT-0067300,E-0452,"[""execution""]",execution Certification,2026-04-13T00:00:00.000Z,internal
+CERT-0067614,E-0454,"[""financial_modeling""]",financial modeling Certification,2026-07-14T00:00:00.000Z,industry
+CERT-0069098,E-0464,"[""problem_solving""]",problem solving Certification,2025-04-18T00:00:00.000Z,vendor
+CERT-0070798,E-0475,"[""collaboration""]",collaboration Certification,2025-05-10T00:00:00.000Z,internal

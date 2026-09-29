@@ -1,0 +1,31 @@
+{
+  "name": "talentiq-server",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "main": "src/server.js",
+  "scripts": {
+    "dev": "node --watch src/server.js",
+    "start": "node src/server.js",
+    "init-db": "node scripts/initDb.js",
+    "generate-data": "node scripts/generateData.js",
+    "run-analytics": "node scripts/runAnalytics.js",
+    "evaluate": "node scripts/evaluate.js",
+    "build-rag-index": "node scripts/buildRagIndex.js",
+    "export-csv": "node scripts/exportCsv.js",
+    "update-action-uplift": "node scripts/updateActionUplift.js",
+    "backup": "node scripts/backupCollections.js --all"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "fast-csv": "^5.0.1",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.6.0",
+    "openai": "^4.61.0",
+    "@google/genai": "^0.14.0"
+  }
+}

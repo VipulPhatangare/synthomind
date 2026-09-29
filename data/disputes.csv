@@ -1,0 +1,7 @@
+dispute_id,evidence_event_id,employee_id,raised_at,reason,resolution,resolved_by,resolved_at
+DSP-0074611,EV-0047191,E-0317,2025-09-28T00:00:00.000Z,Employee felt this rating did not reflect the full context of the work.,open,,
+DSP-0074612,EV-0034485,E-0232,2025-02-19T00:00:00.000Z,Employee felt this rating did not reflect the full context of the work.,upheld_with_context_added,hr_admin,2025-03-01T00:00:00.000Z
+DSP-0074613,EV-0021651,E-0145,2026-03-02T00:00:00.000Z,Employee felt this rating did not reflect the full context of the work.,open,,
+DSP-0074614,EV-0068045,E-0458,2024-12-12T00:00:00.000Z,Employee felt this rating did not reflect the full context of the work.,upheld_with_context_added,hr_admin,2024-12-26T00:00:00.000Z
+DSP-0074615,EV-0010826,E-0073,2025-12-23T00:00:00.000Z,Employee felt this rating did not reflect the full context of the work.,open,,
+DSP-0074616,EV-0039824,E-0267,2026-07-18T00:00:00.000Z,Employee felt this rating did not reflect the full context of the work.,open,,

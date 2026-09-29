@@ -1,0 +1,32 @@
+event_id,employee_id,event_type,occurred_at,from_value,to_value,note
+ORG-0000001,E-0001,team_change,2025-07-01T00:00:00.000Z,ENG-T2,ENG-T2-NEW,Reassigned to a new team mid-year.
+ORG-0000002,E-0071,role_change,2025-10-01T00:00:00.000Z,Senior HR,Senior HR (People Lead track),Moved toward a people-leadership track.
+ORG-0000003,E-0141,manager_change,2025-10-01T00:00:00.000Z,E-0133,E-0213,New manager assigned.
+ORG-0000004,E-0016,exit,2026-01-01T00:00:00.000Z,active,departed,Employee left the company.
+ORG-0000005,E-0056,exit,2026-01-01T00:00:00.000Z,active,departed,Employee left the company.
+ORG-0000006,E-0096,exit,2026-04-01T00:00:00.000Z,active,departed,Employee left the company.
+ORG-0000007,E-0136,exit,2026-01-01T00:00:00.000Z,active,departed,Employee left the company.
+ORG-0000008,E-0176,exit,2025-10-01T00:00:00.000Z,active,departed,Employee left the company.
+ORG-0000009,E-0226,exit,2025-07-01T00:00:00.000Z,active,departed,Employee left the company.
+ORG-0000010,E-0266,exit,2025-07-01T00:00:00.000Z,active,departed,Employee left the company.
+ORG-0000011,E-0306,exit,2025-10-01T00:00:00.000Z,active,departed,Employee left the company.
+ORG-0000012,E-0346,exit,2025-10-01T00:00:00.000Z,active,departed,Employee left the company.
+ORG-0000013,E-0406,exit,2025-10-01T00:00:00.000Z,active,departed,Employee left the company.
+ORG-0000014,E-0182,team_change,2026-04-01T00:00:00.000Z,,,Background team change event.
+ORG-0000015,E-0252,leave,2026-07-01T00:00:00.000Z,,,Background leave event.
+ORG-0000016,E-0024,promotion,2025-10-01T00:00:00.000Z,,,Background promotion event.
+ORG-0000017,E-0120,promotion,2025-07-01T00:00:00.000Z,,,Background promotion event.
+ORG-0000018,E-0128,team_change,2025-01-01T00:00:00.000Z,,,Background team change event.
+ORG-0000019,E-0356,leave,2025-01-01T00:00:00.000Z,,,Background leave event.
+ORG-0000020,E-0382,team_change,2025-10-01T00:00:00.000Z,,,Background team change event.
+ORG-0000021,E-0202,leave,2025-04-01T00:00:00.000Z,,,Background leave event.
+ORG-0000022,E-0493,team_change,2025-04-01T00:00:00.000Z,,,Background team change event.
+ORG-0000023,E-0145,promotion,2026-07-01T00:00:00.000Z,,,Background promotion event.
+ORG-0000024,E-0315,promotion,2025-01-01T00:00:00.000Z,,,Background promotion event.
+ORG-0000025,E-0260,promotion,2026-04-01T00:00:00.000Z,,,Background promotion event.
+ORG-0000026,E-0293,leave,2026-04-01T00:00:00.000Z,,,Background leave event.
+ORG-0000027,E-0270,leave,2025-07-01T00:00:00.000Z,,,Background leave event.
+ORG-0000028,E-0434,promotion,2026-07-01T00:00:00.000Z,,,Background promotion event.
+ORG-0000029,E-0412,promotion,2026-07-01T00:00:00.000Z,,,Background promotion event.
+ORG-0000030,E-0401,leave,2026-04-01T00:00:00.000Z,,,Background leave event.
+ORG-0000031,E-0228,promotion,2025-04-01T00:00:00.000Z,,,Background promotion event.

@@ -1,0 +1,495 @@
+enrollment_id,employee_id,course_id,course_name,competency_tags,started_at,completed_at,completion_pct,final_score,passed,hours_spent,modality
+TR-0000196,E-0001,CRS-problem_solving,problem solving fundamentals,"[""problem_solving""]",2026-01-08T00:00:00.000Z,2026-02-27T00:00:00.000Z,100,67,true,4,self_paced
+TR-0000198,E-0001,CRS-system_design,system design fundamentals,"[""system_design""]",2025-11-06T00:00:00.000Z,2025-12-30T00:00:00.000Z,76,53,false,20,cohort
+TR-0000342,E-0002,CRS-negotiation,negotiation fundamentals,"[""negotiation"",""execution""]",2025-05-04T00:00:00.000Z,2025-06-27T00:00:00.000Z,100,92,true,16,self_paced
+TR-0000504,E-0003,CRS-problem_solving,problem solving fundamentals,"[""problem_solving"",""content_quality""]",2026-01-24T00:00:00.000Z,2026-03-19T00:00:00.000Z,100,68,true,11,self_paced
+TR-0000507,E-0003,CRS-execution,execution fundamentals,"[""execution"",""collaboration""]",2025-07-18T00:00:00.000Z,2025-08-13T00:00:00.000Z,100,61,true,14,workshop
+TR-0000666,E-0004,CRS-execution,execution fundamentals,"[""execution"",""roadmap_prioritization""]",2025-02-22T00:00:00.000Z,2025-03-17T00:00:00.000Z,100,86,true,6,workshop
+TR-0000669,E-0004,CRS-communication,communication fundamentals,"[""communication""]",2025-12-11T00:00:00.000Z,2026-02-04T00:00:00.000Z,86,73,true,25,cohort
+TR-0000941,E-0006,CRS-problem_solving,problem solving fundamentals,"[""problem_solving""]",2025-03-14T00:00:00.000Z,2025-04-05T00:00:00.000Z,100,80,true,22,cohort
+TR-0001075,E-0007,CRS-communication,communication fundamentals,"[""communication""]",2024-12-31T00:00:00.000Z,2025-02-23T00:00:00.000Z,100,69,true,19,workshop
+TR-0001349,E-0009,CRS-system_design,system design fundamentals,"[""system_design""]",2025-06-22T00:00:00.000Z,2025-07-29T00:00:00.000Z,100,83,true,15,workshop
+TR-0001491,E-0010,CRS-communication,communication fundamentals,"[""communication"",""collaboration""]",2025-09-10T00:00:00.000Z,2025-10-03T00:00:00.000Z,100,60,true,11,self_paced
+TR-0001494,E-0010,CRS-pipeline_mgmt,pipeline mgmt fundamentals,"[""pipeline_mgmt"",""problem_solving""]",2025-03-28T00:00:00.000Z,2025-04-20T00:00:00.000Z,34,74,true,6,workshop
+TR-0001799,E-0012,CRS-stakeholder_alignment,stakeholder alignment fundamentals,"[""stakeholder_alignment"",""communication""]",2025-08-06T00:00:00.000Z,2025-09-05T00:00:00.000Z,100,90,true,21,workshop
+TR-0002055,E-0014,CRS-communication,communication fundamentals,"[""communication"",""problem_solving""]",2024-10-06T00:00:00.000Z,2024-11-19T00:00:00.000Z,100,64,true,25,workshop
+TR-0002611,E-0018,CRS-execution,execution fundamentals,"[""execution"",""negotiation""]",2026-02-22T00:00:00.000Z,2026-04-06T00:00:00.000Z,100,71,true,13,self_paced
+TR-0002614,E-0018,CRS-communication,communication fundamentals,"[""communication""]",2025-05-23T00:00:00.000Z,2025-06-13T00:00:00.000Z,73,78,true,26,cohort
+TR-0002734,E-0019,CRS-problem_solving,problem solving fundamentals,"[""problem_solving"",""campaign_strategy""]",2026-05-23T00:00:00.000Z,2026-06-27T00:00:00.000Z,61,50,false,18,workshop
+TR-0002737,E-0019,CRS-communication,communication fundamentals,"[""communication"",""problem_solving""]",2025-08-01T00:00:00.000Z,2025-08-21T00:00:00.000Z,43,98,true,27,cohort
+TR-0002894,E-0020,CRS-collaboration,collaboration fundamentals,"[""collaboration"",""stakeholder_alignment""]",2026-06-29T00:00:00.000Z,2026-07-22T00:00:00.000Z,100,83,true,25,cohort
+TR-0003213,E-0022,CRS-execution,execution fundamentals,"[""execution"",""collaboration""]",2025-06-23T00:00:00.000Z,2025-07-26T00:00:00.000Z,100,64,true,12,workshop
+TR-0003216,E-0022,CRS-problem_solving,problem solving fundamentals,"[""problem_solving"",""compliance_rigor""]",2025-08-11T00:00:00.000Z,2025-10-09T00:00:00.000Z,47,82,true,14,workshop
+TR-0003378,E-0023,CRS-policy_navigation,policy navigation fundamentals,"[""policy_navigation"",""collaboration""]",2025-11-03T00:00:00.000Z,2025-12-06T00:00:00.000Z,100,62,true,14,workshop
+TR-0003551,E-0024,CRS-problem_solving,problem solving fundamentals,"[""problem_solving""]",2025-01-25T00:00:00.000Z,2025-03-06T00:00:00.000Z,100,81,true,12,cohort
+TR-0003715,E-0025,CRS-communication,communication fundamentals,"[""communication""]",2025-11-26T00:00:00.000Z,2026-01-23T00:00:00.000Z,100,76,true,20,workshop
+TR-0003860,E-0026,CRS-execution,execution fundamentals,"[""execution""]",2026-06-09T00:00:00.000Z,2026-07-06T00:00:00.000Z,100,80,true,21,workshop
+TR-0003862,E-0026,CRS-problem_solving,problem solving fundamentals,"[""problem_solving"",""execution""]",2025-09-23T00:00:00.000Z,2025-10-24T00:00:00.000Z,100,77,true,28,workshop
+TR-0004035,E-0027,CRS-communication,communication fundamentals,"[""communication""]",2025-12-04T00:00:00.000Z,2026-01-06T00:00:00.000Z,100,47,false,9,self_paced
+TR-0004037,E-0027,CRS-campaign_strategy,campaign strategy fundamentals,"[""campaign_strategy""]",2025-03-07T00:00:00.000Z,2025-04-21T00:00:00.000Z,100,62,true,7,self_paced
+TR-0004162,E-0028,CRS-execution,execution fundamentals,"[""execution"",""problem_solving""]",2025-03-23T00:00:00.000Z,2025-05-02T00:00:00.000Z,100,71,true,8,workshop
+TR-0004165,E-0028,CRS-stakeholder_alignment,stakeholder alignment fundamentals,"[""stakeholder_alignment""]",2026-06-14T00:00:00.000Z,2026-08-10T00:00:00.000Z,100,52,false,23,self_paced
+TR-0004643,E-0031,CRS-problem_solving,problem solving fundamentals,"[""problem_solving""]",2024-11-21T00:00:00.000Z,2024-12-23T00:00:00.000Z,100,58,false,19,workshop
+TR-0004645,E-0031,CRS-communication,communication fundamentals,"[""communication"",""talent_assessment""]",2026-02-14T00:00:00.000Z,2026-03-11T00:00:00.000Z,100,72,true,12,workshop
+TR-0004793,E-0032,CRS-communication,communication fundamentals,"[""communication"",""collaboration""]",2026-06-28T00:00:00.000Z,2026-08-04T00:00:00.000Z,100,83,true,20,workshop
+TR-0004927,E-0033,CRS-communication,communication fundamentals,"[""communication""]",2025-10-15T00:00:00.000Z,2025-11-13T00:00:00.000Z,100,75,true,7,self_paced
+TR-0004929,E-0033,CRS-communication,communication fundamentals,"[""communication"",""system_design""]",2026-04-19T00:00:00.000Z,2026-05-31T00:00:00.000Z,100,67,true,13,cohort
+TR-0005074,E-0034,CRS-communication,communication fundamentals,"[""communication"",""problem_solving""]",2024-12-16T00:00:00.000Z,2025-02-10T00:00:00.000Z,100,75,true,23,cohort
+TR-0005237,E-0035,CRS-collaboration,collaboration fundamentals,"[""collaboration""]",2025-08-16T00:00:00.000Z,2025-10-08T00:00:00.000Z,100,52,false,6,self_paced
+TR-0005369,E-0036,CRS-execution,execution fundamentals,"[""execution""]",2024-12-01T00:00:00.000Z,2024-12-27T00:00:00.000Z,100,46,false,10,workshop
+TR-0005541,E-0037,CRS-problem_solving,problem solving fundamentals,"[""problem_solving"",""communication""]",2025-06-20T00:00:00.000Z,2025-08-06T00:00:00.000Z,30,100,true,7,workshop
+TR-0005544,E-0037,CRS-execution,execution fundamentals,"[""execution"",""collaboration""]",2025-02-12T00:00:00.000Z,2025-03-12T00:00:00.000Z,100,62,true,10,cohort
+TR-0006006,E-0040,CRS-execution,execution fundamentals,"[""execution"",""communication""]",2025-09-15T00:00:00.000Z,2025-11-05T00:00:00.000Z,100,74,true,18,self_paced
+TR-0006009,E-0040,CRS-communication,communication fundamentals,"[""communication"",""execution""]",2026-03-09T00:00:00.000Z,2026-04-27T00:00:00.000Z,100,89,true,6,self_paced
+TR-0006177,E-0041,CRS-communication,communication fundamentals,"[""communication""]",2025-05-04T00:00:00.000Z,2025-06-27T00:00:00.000Z,100,44,false,10,workshop
+TR-0006179,E-0041,CRS-system_design,system design fundamentals,"[""system_design"",""communication""]",2026-01-02T00:00:00.000Z,2026-02-19T00:00:00.000Z,100,83,true,15,cohort
+TR-0006608,E-0044,CRS-roadmap_prioritization,roadmap prioritization fundamentals,"[""roadmap_prioritization""]",2026-03-01T00:00:00.000Z,2026-04-11T00:00:00.000Z,100,64,true,7,self_paced
+TR-0006610,E-0044,CRS-communication,communication fundamentals,"[""communication""]",2025-01-29T00:00:00.000Z,2025-03-20T00:00:00.000Z,100,91,true,7,workshop
+TR-0006754,E-0045,CRS-problem_solving,problem solving fundamentals,"[""problem_solving"",""collaboration""]",2025-05-30T00:00:00.000Z,2025-07-15T00:00:00.000Z,100,72,true,23,self_paced
+TR-0006757,E-0045,CRS-problem_solving,problem solving fundamentals,"[""problem_solving"",""execution""]",2024-12-15T00:00:00.000Z,2025-01-16T00:00:00.000Z,66,79,true,18,self_paced
+TR-0006935,E-0046,CRS-execution,execution fundamentals,"[""execution"",""problem_solving""]",2026-03-21T00:00:00.000Z,2026-04-10T00:00:00.000Z,100,60,true,11,cohort
+TR-0006938,E-0046,CRS-problem_solving,problem solving fundamentals,"[""problem_solving""]",2026-03-23T00:00:00.000Z,2026-05-15T00:00:00.000Z,100,73,true,18,cohort
+TR-0007195,E-0048,CRS-collaboration,collaboration fundamentals,"[""collaboration""]",2026-02-04T00:00:00.000Z,2026-03-08T00:00:00.000Z,100,76,true,15,workshop
+TR-0007197,E-0048,CRS-customer_resolution,customer resolution fundamentals,"[""customer_resolution"",""troubleshooting""]",2025-03-28T00:00:00.000Z,2025-05-20T00:00:00.000Z,100,87,true,8,workshop
+TR-0007349,E-0049,CRS-communication,communication fundamentals,"[""communication"",""problem_solving""]",2026-05-16T00:00:00.000Z,2026-07-10T00:00:00.000Z,100,59,false,20,cohort
+TR-0007352,E-0049,CRS-communication,communication fundamentals,"[""communication"",""collaboration""]",2025-12-28T00:00:00.000Z,2026-01-30T00:00:00.000Z,100,73,true,29,self_paced
+TR-0007765,E-0052,CRS-execution,execution fundamentals,"[""execution""]",2026-02-20T00:00:00.000Z,2026-04-02T00:00:00.000Z,37,74,true,20,workshop
+TR-0008072,E-0054,CRS-communication,communication fundamentals,"[""communication"",""compliance_rigor""]",2025-03-09T00:00:00.000Z,2025-04-11T00:00:00.000Z,100,72,true,14,self_paced
+TR-0008075,E-0054,CRS-compliance_rigor,compliance rigor fundamentals,"[""compliance_rigor""]",2026-01-01T00:00:00.000Z,2026-02-14T00:00:00.000Z,100,68,true,19,workshop
+TR-0008236,E-0055,CRS-communication,communication fundamentals,"[""communication"",""problem_solving""]",2025-03-12T00:00:00.000Z,2025-04-03T00:00:00.000Z,100,52,false,11,workshop
+TR-0009111,E-0061,CRS-execution,execution fundamentals,"[""execution"",""communication""]",2025-07-31T00:00:00.000Z,2025-08-25T00:00:00.000Z,100,56,false,14,cohort
+TR-0009399,E-0063,CRS-collaboration,collaboration fundamentals,"[""collaboration""]",2025-03-10T00:00:00.000Z,2025-04-13T00:00:00.000Z,100,64,true,28,self_paced
+TR-0009401,E-0063,CRS-communication,communication fundamentals,"[""communication"",""collaboration""]",2025-08-19T00:00:00.000Z,2025-09-30T00:00:00.000Z,100,59,false,8,workshop
+TR-0009542,E-0064,CRS-communication,communication fundamentals,"[""communication""]",2026-05-11T00:00:00.000Z,2026-06-27T00:00:00.000Z,100,88,true,25,self_paced
+TR-0009544,E-0064,CRS-customer_resolution,customer resolution fundamentals,"[""customer_resolution""]",2025-10-08T00:00:00.000Z,2025-11-07T00:00:00.000Z,100,72,true,12,cohort
+TR-0009685,E-0065,CRS-problem_solving,problem solving fundamentals,"[""problem_solving""]",2025-05-05T00:00:00.000Z,2025-06-06T00:00:00.000Z,100,89,true,23,workshop
+TR-0009687,E-0065,CRS-system_design,system design fundamentals,"[""system_design""]",2025-07-22T00:00:00.000Z,2025-09-19T00:00:00.000Z,100,92,true,25,cohort
+TR-0010112,E-0068,CRS-problem_solving,problem solving fundamentals,"[""problem_solving""]",2025-02-24T00:00:00.000Z,2025-03-27T00:00:00.000Z,100,64,true,21,cohort
+TR-0010416,E-0070,CRS-execution,execution fundamentals,"[""execution"",""collaboration""]",2025-09-19T00:00:00.000Z,2025-10-28T00:00:00.000Z,100,74,true,13,workshop
+TR-0010574,E-0071,CRS-problem_solving,problem solving fundamentals,"[""problem_solving""]",2026-04-29T00:00:00.000Z,2026-06-18T00:00:00.000Z,100,96,true,19,cohort
+TR-0010576,E-0071,CRS-collaboration,collaboration fundamentals,"[""collaboration"",""communication""]",2025-12-01T00:00:00.000Z,2026-01-09T00:00:00.000Z,100,79,true,27,cohort
+TR-0010733,E-0072,CRS-problem_solving,problem solving fundamentals,"[""problem_solving""]",2025-11-16T00:00:00.000Z,2025-12-17T00:00:00.000Z,100,65,true,19,self_paced
+TR-0010735,E-0072,CRS-customer_resolution,customer resolution fundamentals,"[""customer_resolution"",""communication""]",2025-05-27T00:00:00.000Z,2025-06-20T00:00:00.000Z,100,73,true,11,cohort
+TR-0010892,E-0073,CRS-code_quality,code quality fundamentals,"[""code_quality""]",2025-12-21T00:00:00.000Z,2026-01-30T00:00:00.000Z,100,69,true,4,self_paced
+TR-0010894,E-0073,CRS-collaboration,collaboration fundamentals,"[""collaboration"",""code_quality""]",2025-06-07T00:00:00.000Z,2025-07-04T00:00:00.000Z,49,56,false,11,cohort
+TR-0011046,E-0074,CRS-communication,communication fundamentals,"[""communication"",""negotiation""]",2025-07-03T00:00:00.000Z,2025-08-16T00:00:00.000Z,100,63,true,5,cohort
+TR-0011340,E-0076,CRS-roadmap_prioritization,roadmap prioritization fundamentals,"[""roadmap_prioritization"",""execution""]",2024-10-20T00:00:00.000Z,2024-12-14T00:00:00.000Z,100,48,false,27,workshop
+TR-0011497,E-0077,CRS-collaboration,collaboration fundamentals,"[""collaboration""]",2026-02-23T00:00:00.000Z,2026-03-27T00:00:00.000Z,100,63,true,24,cohort
+TR-0011499,E-0077,CRS-execution,execution fundamentals,"[""execution"",""problem_solving""]",2025-03-18T00:00:00.000Z,2025-04-13T00:00:00.000Z,100,71,true,19,cohort
+TR-0011934,E-0080,CRS-communication,communication fundamentals,"[""communication"",""execution""]",2025-07-30T00:00:00.000Z,2025-09-02T00:00:00.000Z,100,60,false,20,workshop
+TR-0012283,E-0082,CRS-collaboration,collaboration fundamentals,"[""collaboration""]",2026-04-14T00:00:00.000Z,2026-05-17T00:00:00.000Z,100,83,true,8,cohort
+TR-0012285,E-0082,CRS-problem_solving,problem solving fundamentals,"[""problem_solving"",""communication""]",2025-08-17T00:00:00.000Z,2025-10-10T00:00:00.000Z,100,82,true,7,cohort
+TR-0012717,E-0085,CRS-ux_research,ux research fundamentals,"[""ux_research""]",2025-02-08T00:00:00.000Z,2025-03-24T00:00:00.000Z,100,58,false,7,self_paced
+TR-0012863,E-0086,CRS-compliance_rigor,compliance rigor fundamentals,"[""compliance_rigor""]",2025-09-25T00:00:00.000Z,2025-10-24T00:00:00.000Z,100,79,true,19,self_paced
+TR-0012865,E-0086,CRS-problem_solving,problem solving fundamentals,"[""problem_solving"",""financial_modeling""]",2026-06-29T00:00:00.000Z,2026-08-23T00:00:00.000Z,100,91,true,20,cohort
+TR-0013009,E-0087,CRS-problem_solving,problem solving fundamentals,"[""problem_solving"",""communication""]",2025-06-29T00:00:00.000Z,2025-08-20T00:00:00.000Z,81,51,false,13,cohort
+TR-0013764,E-0092,CRS-execution,execution fundamentals,"[""execution"",""communication""]",2025-01-17T00:00:00.000Z,2025-03-13T00:00:00.000Z,100,63,true,10,self_paced
+TR-0013944,E-0093,CRS-execution,execution fundamentals,"[""execution"",""ux_research""]",2025-09-21T00:00:00.000Z,2025-11-08T00:00:00.000Z,100,84,true,12,cohort
+TR-0013947,E-0093,CRS-communication,communication fundamentals,"[""communication"",""visual_craft""]",2024-10-28T00:00:00.000Z,2024-12-06T00:00:00.000Z,100,45,false,17,cohort
+TR-0014118,E-0094,CRS-execution,execution fundamentals,"[""execution"",""collaboration""]",2025-05-26T00:00:00.000Z,2025-07-07T00:00:00.000Z,100,69,true,4,self_paced
+TR-0014259,E-0095,CRS-problem_solving,problem solving fundamentals,"[""problem_solving"",""communication""]",2025-10-26T00:00:00.000Z,2025-12-16T00:00:00.000Z,83,86,true,17,workshop
+TR-0014262,E-0095,CRS-talent_assessment,talent assessment fundamentals,"[""talent_assessment"",""problem_solving""]",2024-10-31T00:00:00.000Z,2024-12-01T00:00:00.000Z,100,84,true,20,self_paced
+TR-0014404,E-0096,CRS-problem_solving,problem solving fundamentals,"[""problem_solving"",""customer_resolution""]",2025-08-14T00:00:00.000Z,2025-10-02T00:00:00.000Z,100,62,true,27,workshop
+TR-0014407,E-0096,CRS-troubleshooting,troubleshooting fundamentals,"[""troubleshooting"",""customer_resolution""]",2025-12-04T00:00:00.000Z,2026-02-01T00:00:00.000Z,68,79,true,12,workshop
+TR-0014539,E-0097,CRS-system_design,system design fundamentals,"[""system_design"",""code_quality""]",2026-05-15T00:00:00.000Z,2026-06-05T00:00:00.000Z,100,76,true,20,self_paced
+TR-0014542,E-0097,CRS-execution,execution fundamentals,"[""execution""]",2024-12-11T00:00:00.000Z,2025-01-24T00:00:00.000Z,100,73,true,21,workshop
+TR-0015113,E-0101,CRS-collaboration,collaboration fundamentals,"[""collaboration"",""visual_craft""]",2025-09-29T00:00:00.000Z,2025-11-17T00:00:00.000Z,100,72,true,5,workshop
+TR-0015116,E-0101,CRS-communication,communication fundamentals,"[""communication"",""ux_research""]",2026-05-18T00:00:00.000Z,2026-06-12T00:00:00.000Z,100,82,true,27,workshop
+TR-0015277,E-0102,CRS-compliance_rigor,compliance rigor fundamentals,"[""compliance_rigor""]",2025-06-25T00:00:00.000Z,2025-08-13T00:00:00.000Z,100,71,true,13,cohort
+TR-0016022,E-0107,CRS-collaboration,collaboration fundamentals,"[""collaboration""]",2026-01-22T00:00:00.000Z,2026-03-11T00:00:00.000Z,100,76,true,16,self_paced
+TR-0016024,E-0107,CRS-collaboration,collaboration fundamentals,"[""collaboration"",""problem_solving""]",2025-04-28T00:00:00.000Z,2025-05-20T00:00:00.000Z,100,63,true,11,self_paced
+TR-0016335,E-0109,CRS-ux_research,ux research fundamentals,"[""ux_research"",""visual_craft""]",2025-10-21T00:00:00.000Z,2025-11-19T00:00:00.000Z,35,58,false,12,cohort
+TR-0016639,E-0111,CRS-collaboration,collaboration fundamentals,"[""collaboration""]",2026-05-03T00:00:00.000Z,2026-05-30T00:00:00.000Z,100,84,true,18,self_paced
+TR-0016641,E-0111,CRS-problem_solving,problem solving fundamentals,"[""problem_solving"",""communication""]",2024-10-13T00:00:00.000Z,2024-11-18T00:00:00.000Z,59,62,true,17,self_paced
+TR-0016787,E-0112,CRS-customer_resolution,customer resolution fundamentals,"[""customer_resolution""]",2026-03-10T00:00:00.000Z,2026-04-09T00:00:00.000Z,100,94,true,21,workshop
+TR-0017204,E-0115,CRS-communication,communication fundamentals,"[""communication"",""collaboration""]",2025-10-31T00:00:00.000Z,2025-12-05T00:00:00.000Z,100,88,true,10,workshop
+TR-0017207,E-0115,CRS-communication,communication fundamentals,"[""communication""]",2026-03-09T00:00:00.000Z,2026-04-29T00:00:00.000Z,100,64,true,17,workshop
+TR-0017340,E-0116,CRS-roadmap_prioritization,roadmap prioritization fundamentals,"[""roadmap_prioritization"",""communication""]",2026-03-18T00:00:00.000Z,2026-05-13T00:00:00.000Z,100,87,true,9,workshop
+TR-0017343,E-0116,CRS-collaboration,collaboration fundamentals,"[""collaboration""]",2025-07-20T00:00:00.000Z,2025-09-01T00:00:00.000Z,100,76,true,7,workshop
+TR-0017478,E-0117,CRS-visual_craft,visual craft fundamentals,"[""visual_craft"",""problem_solving""]",2025-06-13T00:00:00.000Z,2025-07-07T00:00:00.000Z,100,58,false,19,self_paced
+TR-0017643,E-0118,CRS-problem_solving,problem solving fundamentals,"[""problem_solving"",""communication""]",2026-02-02T00:00:00.000Z,2026-03-12T00:00:00.000Z,100,79,true,11,workshop
+TR-0018081,E-0121,CRS-code_quality,code quality fundamentals,"[""code_quality"",""collaboration""]",2024-11-05T00:00:00.000Z,2024-12-03T00:00:00.000Z,100,79,true,9,self_paced
+TR-0018397,E-0123,CRS-collaboration,collaboration fundamentals,"[""collaboration""]",2024-12-26T00:00:00.000Z,2025-01-25T00:00:00.000Z,100,63,true,23,cohort
+TR-0018837,E-0126,CRS-problem_solving,problem solving fundamentals,"[""problem_solving"",""collaboration""]",2026-05-16T00:00:00.000Z,2026-07-13T00:00:00.000Z,100,57,false,15,self_paced
+TR-0019154,E-0128,CRS-troubleshooting,troubleshooting fundamentals,"[""troubleshooting"",""execution""]",2025-06-30T00:00:00.000Z,2025-08-05T00:00:00.000Z,100,68,true,10,workshop
+TR-0019157,E-0128,CRS-communication,communication fundamentals,"[""communication"",""customer_resolution""]",2024-12-23T00:00:00.000Z,2025-01-26T00:00:00.000Z,100,86,true,7,cohort
+TR-0019344,E-0129,CRS-collaboration,collaboration fundamentals,"[""collaboration"",""problem_solving""]",2025-12-04T00:00:00.000Z,2025-12-27T00:00:00.000Z,100,80,true,5,workshop
+TR-0019347,E-0129,CRS-code_quality,code quality fundamentals,"[""code_quality"",""collaboration""]",2025-02-08T00:00:00.000Z,2025-04-01T00:00:00.000Z,100,74,true,5,workshop
+TR-0019497,E-0130,CRS-negotiation,negotiation fundamentals,"[""negotiation"",""pipeline_mgmt""]",2025-05-18T00:00:00.000Z,2025-06-11T00:00:00.000Z,100,76,true,28,cohort
+TR-0019500,E-0130,CRS-execution,execution fundamentals,"[""execution""]",2024-12-18T00:00:00.000Z,2025-01-14T00:00:00.000Z,100,65,true,18,workshop
+TR-0019933,E-0133,CRS-collaboration,collaboration fundamentals,"[""collaboration""]",2026-01-11T00:00:00.000Z,2026-02-02T00:00:00.000Z,100,62,true,22,cohort
+TR-0019935,E-0133,CRS-collaboration,collaboration fundamentals,"[""collaboration"",""execution""]",2026-04-14T00:00:00.000Z,2026-05-24T00:00:00.000Z,100,73,true,4,cohort
+TR-0020075,E-0134,CRS-communication,communication fundamentals,"[""communication"",""problem_solving""]",2025-11-11T00:00:00.000Z,2025-12-10T00:00:00.000Z,100,70,true,16,cohort
+TR-0020078,E-0134,CRS-problem_solving,problem solving fundamentals,"[""problem_solving"",""communication""]",2025-01-04T00:00:00.000Z,2025-01-26T00:00:00.000Z,100,79,true,16,workshop
+TR-0020463,E-0137,CRS-execution,execution fundamentals,"[""execution""]",2025-05-02T00:00:00.000Z,2025-06-13T00:00:00.000Z,100,81,true,21,self_paced
+TR-0020465,E-0137,CRS-system_design,system design fundamentals,"[""system_design"",""collaboration""]",2025-04-20T00:00:00.000Z,2025-06-01T00:00:00.000Z,100,64,true,12,workshop
+TR-0021876,E-0146,CRS-problem_solving,problem solving fundamentals,"[""problem_solving""]",2025-05-19T00:00:00.000Z,2025-06-20T00:00:00.000Z,100,90,true,15,self_paced
+TR-0021878,E-0146,CRS-execution,execution fundamentals,"[""execution"",""pipeline_mgmt""]",2024-10-25T00:00:00.000Z,2024-12-19T00:00:00.000Z,100,80,true,6,cohort
+TR-0022159,E-0148,CRS-communication,communication fundamentals,"[""communication"",""execution""]",2025-08-23T00:00:00.000Z,2025-09-21T00:00:00.000Z,100,87,true,17,workshop
+TR-0022481,E-0150,CRS-execution,execution fundamentals,"[""execution"",""compliance_rigor""]",2024-12-07T00:00:00.000Z,2025-01-27T00:00:00.000Z,44,98,true,10,self_paced
+TR-0022484,E-0150,CRS-problem_solving,problem solving fundamentals,"[""problem_solving"",""financial_modeling""]",2025-08-09T00:00:00.000Z,2025-09-09T00:00:00.000Z,100,64,true,6,cohort
+TR-0022772,E-0152,CRS-troubleshooting,troubleshooting fundamentals,"[""troubleshooting"",""communication""]",2025-11-04T00:00:00.000Z,2025-12-30T00:00:00.000Z,100,66,true,19,cohort
+TR-0022775,E-0152,CRS-customer_resolution,customer resolution fundamentals,"[""customer_resolution""]",2025-05-17T00:00:00.000Z,2025-06-21T00:00:00.000Z,100,77,true,8,workshop
+TR-0023075,E-0154,CRS-execution,execution fundamentals,"[""execution"",""negotiation""]",2026-06-07T00:00:00.000Z,2026-07-21T00:00:00.000Z,67,68,true,4,self_paced
+TR-0023192,E-0155,CRS-execution,execution fundamentals,"[""execution""]",2025-10-09T00:00:00.000Z,2025-11-03T00:00:00.000Z,100,69,true,23,cohort
+TR-0023194,E-0155,CRS-execution,execution fundamentals,"[""execution"",""content_quality""]",2025-01-29T00:00:00.000Z,2025-02-28T00:00:00.000Z,100,64,true,19,self_paced
+TR-0023339,E-0156,CRS-stakeholder_alignment,stakeholder alignment fundamentals,"[""stakeholder_alignment""]",2025-11-17T00:00:00.000Z,2025-12-08T00:00:00.000Z,100,66,true,5,workshop
+TR-0023443,E-0157,CRS-execution,execution fundamentals,"[""execution"",""ux_research""]",2026-06-12T00:00:00.000Z,2026-07-13T00:00:00.000Z,100,94,true,9,workshop
+TR-0023581,E-0158,CRS-communication,communication fundamentals,"[""communication""]",2026-03-18T00:00:00.000Z,2026-04-13T00:00:00.000Z,100,68,true,24,cohort
+TR-0023583,E-0158,CRS-compliance_rigor,compliance rigor fundamentals,"[""compliance_rigor""]",2025-10-18T00:00:00.000Z,2025-12-10T00:00:00.000Z,100,70,true,20,cohort
+TR-0023740,E-0159,CRS-communication,communication fundamentals,"[""communication""]",2026-04-23T00:00:00.000Z,2026-06-02T00:00:00.000Z,100,87,true,17,cohort
+TR-0024000,E-0161,CRS-communication,communication fundamentals,"[""communication""]",2025-08-16T00:00:00.000Z,2025-10-10T00:00:00.000Z,100,51,false,22,self_paced
+TR-0024002,E-0161,CRS-problem_solving,problem solving fundamentals,"[""problem_solving""]",2026-06-20T00:00:00.000Z,2026-07-17T00:00:00.000Z,48,57,false,5,workshop
+TR-0024122,E-0162,CRS-pipeline_mgmt,pipeline mgmt fundamentals,"[""pipeline_mgmt"",""problem_solving""]",2026-01-22T00:00:00.000Z,2026-03-13T00:00:00.000Z,100,78,true,22,self_paced
+TR-0024289,E-0163,CRS-execution,execution fundamentals,"[""execution"",""problem_solving""]",2025-06-23T00:00:00.000Z,2025-07-14T00:00:00.000Z,100,82,true,22,self_paced
+TR-0024572,E-0165,CRS-communication,communication fundamentals,"[""communication"",""ux_research""]",2026-01-17T00:00:00.000Z,2026-03-01T00:00:00.000Z,31,67,true,12,workshop
+TR-0024575,E-0165,CRS-ux_research,ux research fundamentals,"[""ux_research"",""execution""]",2025-09-05T00:00:00.000Z,2025-10-15T00:00:00.000Z,100,63,true,24,cohort
+TR-0024700,E-0166,CRS-communication,communication fundamentals,"[""communication""]",2026-04-14T00:00:00.000Z,2026-05-06T00:00:00.000Z,100,100,true,21,self_paced
+TR-0024702,E-0166,CRS-communication,communication fundamentals,"[""communication""]",2025-10-14T00:00:00.000Z,2025-12-02T00:00:00.000Z,100,74,true,21,cohort
+TR-0024845,E-0167,CRS-collaboration,collaboration fundamentals,"[""collaboration"",""communication""]",2025-07-25T00:00:00.000Z,2025-08-23T00:00:00.000Z,100,69,true,21,workshop
+TR-0024848,E-0167,CRS-communication,communication fundamentals,"[""communication""]",2026-06-01T00:00:00.000Z,2026-07-20T00:00:00.000Z,100,60,true,12,cohort
+TR-0025011,E-0168,CRS-communication,communication fundamentals,"[""communication""]",2025-10-18T00:00:00.000Z,2025-12-05T00:00:00.000Z,100,62,true,10,workshop
+TR-0025311,E-0170,CRS-communication,communication fundamentals,"[""communication""]",2026-01-05T00:00:00.000Z,2026-02-14T00:00:00.000Z,67,90,true,14,cohort
+TR-0025479,E-0171,CRS-communication,communication fundamentals,"[""communication"",""problem_solving""]",2026-03-05T00:00:00.000Z,2026-04-02T00:00:00.000Z,100,73,true,24,cohort
+TR-0025626,E-0172,CRS-execution,execution fundamentals,"[""execution"",""collaboration""]",2026-06-19T00:00:00.000Z,2026-08-10T00:00:00.000Z,39,45,false,10,cohort
+TR-0025629,E-0172,CRS-roadmap_prioritization,roadmap prioritization fundamentals,"[""roadmap_prioritization"",""collaboration""]",2025-01-28T00:00:00.000Z,2025-03-19T00:00:00.000Z,100,70,true,22,self_paced
+TR-0026098,E-0175,CRS-problem_solving,problem solving fundamentals,"[""problem_solving"",""collaboration""]",2026-01-23T00:00:00.000Z,2026-02-28T00:00:00.000Z,100,87,true,28,workshop
+TR-0026314,E-0177,CRS-collaboration,collaboration fundamentals,"[""collaboration"",""problem_solving""]",2026-04-22T00:00:00.000Z,2026-06-20T00:00:00.000Z,100,73,true,16,workshop
+TR-0026443,E-0178,CRS-execution,execution fundamentals,"[""execution"",""problem_solving""]",2026-06-02T00:00:00.000Z,2026-07-12T00:00:00.000Z,100,88,true,10,self_paced
+TR-0026880,E-0181,CRS-execution,execution fundamentals,"[""execution""]",2025-12-31T00:00:00.000Z,2026-02-22T00:00:00.000Z,100,57,false,22,workshop
+TR-0027034,E-0182,CRS-collaboration,collaboration fundamentals,"[""collaboration""]",2025-04-15T00:00:00.000Z,2025-05-25T00:00:00.000Z,100,63,true,14,workshop
+TR-0027150,E-0183,CRS-execution,execution fundamentals,"[""execution""]",2025-05-14T00:00:00.000Z,2025-06-17T00:00:00.000Z,100,67,true,24,workshop
+TR-0027152,E-0183,CRS-collaboration,collaboration fundamentals,"[""collaboration"",""policy_navigation""]",2026-01-20T00:00:00.000Z,2026-03-08T00:00:00.000Z,100,84,true,8,cohort
+TR-0027313,E-0184,CRS-communication,communication fundamentals,"[""communication""]",2024-10-24T00:00:00.000Z,2024-11-15T00:00:00.000Z,100,64,true,21,self_paced
+TR-0027487,E-0185,CRS-system_design,system design fundamentals,"[""system_design"",""code_quality""]",2025-06-04T00:00:00.000Z,2025-07-13T00:00:00.000Z,100,74,true,14,cohort
+TR-0027655,E-0186,CRS-problem_solving,problem solving fundamentals,"[""problem_solving"",""negotiation""]",2025-07-25T00:00:00.000Z,2025-08-30T00:00:00.000Z,100,68,true,14,workshop
+TR-0027798,E-0187,CRS-communication,communication fundamentals,"[""communication""]",2026-05-02T00:00:00.000Z,2026-06-29T00:00:00.000Z,100,61,true,10,workshop
+TR-0027954,E-0188,CRS-execution,execution fundamentals,"[""execution"",""communication""]",2024-11-17T00:00:00.000Z,2024-12-31T00:00:00.000Z,100,62,true,9,workshop
+TR-0027957,E-0188,CRS-problem_solving,problem solving fundamentals,"[""problem_solving""]",2025-07-19T00:00:00.000Z,2025-09-09T00:00:00.000Z,100,75,true,10,workshop
+TR-0028268,E-0190,CRS-problem_solving,problem solving fundamentals,"[""problem_solving"",""communication""]",2025-06-13T00:00:00.000Z,2025-07-22T00:00:00.000Z,72,68,true,10,self_paced
+TR-0028271,E-0190,CRS-collaboration,collaboration fundamentals,"[""collaboration""]",2025-09-06T00:00:00.000Z,2025-10-01T00:00:00.000Z,82,65,true,17,workshop
+TR-0028399,E-0191,CRS-policy_navigation,policy navigation fundamentals,"[""policy_navigation"",""talent_assessment""]",2024-10-05T00:00:00.000Z,2024-10-31T00:00:00.000Z,100,75,true,27,cohort
+TR-0028564,E-0192,CRS-problem_solving,problem solving fundamentals,"[""problem_solving"",""customer_resolution""]",2026-06-15T00:00:00.000Z,2026-08-09T00:00:00.000Z,100,75,true,21,self_paced
+TR-0028567,E-0192,CRS-problem_solving,problem solving fundamentals,"[""problem_solving""]",2025-01-10T00:00:00.000Z,2025-02-14T00:00:00.000Z,100,72,true,7,self_paced
+TR-0028849,E-0194,CRS-communication,communication fundamentals,"[""communication"",""negotiation""]",2026-02-27T00:00:00.000Z,2026-04-13T00:00:00.000Z,100,87,true,23,workshop
+TR-0029189,E-0196,CRS-collaboration,collaboration fundamentals,"[""collaboration""]",2025-10-13T00:00:00.000Z,2025-11-22T00:00:00.000Z,100,76,true,23,self_paced
+TR-0029491,E-0198,CRS-communication,communication fundamentals,"[""communication""]",2026-02-14T00:00:00.000Z,2026-03-29T00:00:00.000Z,100,70,true,11,self_paced
+TR-0029493,E-0198,CRS-problem_solving,problem solving fundamentals,"[""problem_solving""]",2025-12-22T00:00:00.000Z,2026-01-26T00:00:00.000Z,100,85,true,16,workshop
+TR-0029659,E-0199,CRS-communication,communication fundamentals,"[""communication""]",2025-09-02T00:00:00.000Z,2025-10-06T00:00:00.000Z,100,68,true,13,cohort
+TR-0029661,E-0199,CRS-communication,communication fundamentals,"[""communication"",""policy_navigation""]",2024-10-27T00:00:00.000Z,2024-12-08T00:00:00.000Z,100,46,false,26,workshop
+TR-0029822,E-0200,CRS-troubleshooting,troubleshooting fundamentals,"[""troubleshooting"",""problem_solving""]",2025-11-07T00:00:00.000Z,2025-12-09T00:00:00.000Z,100,62,true,6,cohort
+TR-0029825,E-0200,CRS-collaboration,collaboration fundamentals,"[""collaboration""]",2026-02-06T00:00:00.000Z,2026-02-28T00:00:00.000Z,100,79,true,16,workshop
+TR-0029960,E-0201,CRS-system_design,system design fundamentals,"[""system_design"",""execution""]",2026-03-21T00:00:00.000Z,2026-04-26T00:00:00.000Z,100,68,true,24,cohort
+TR-0029963,E-0201,CRS-communication,communication fundamentals,"[""communication"",""collaboration""]",2025-08-29T00:00:00.000Z,2025-10-04T00:00:00.000Z,100,72,true,18,workshop
+TR-0030113,E-0202,CRS-problem_solving,problem solving fundamentals,"[""problem_solving"",""execution""]",2026-05-09T00:00:00.000Z,2026-06-15T00:00:00.000Z,100,71,true,12,self_paced
+TR-0030116,E-0202,CRS-communication,communication fundamentals,"[""communication""]",2025-04-10T00:00:00.000Z,2025-05-31T00:00:00.000Z,100,67,true,18,cohort
+TR-0030233,E-0203,CRS-content_quality,content quality fundamentals,"[""content_quality"",""execution""]",2025-06-08T00:00:00.000Z,2025-07-28T00:00:00.000Z,100,64,true,15,workshop
+TR-0030236,E-0203,CRS-execution,execution fundamentals,"[""execution""]",2025-07-11T00:00:00.000Z,2025-08-11T00:00:00.000Z,81,60,true,8,self_paced
+TR-0030404,E-0204,CRS-execution,execution fundamentals,"[""execution""]",2024-12-04T00:00:00.000Z,2025-01-23T00:00:00.000Z,100,89,true,9,workshop
+TR-0030406,E-0204,CRS-collaboration,collaboration fundamentals,"[""collaboration"",""roadmap_prioritization""]",2026-04-05T00:00:00.000Z,2026-05-14T00:00:00.000Z,56,100,true,15,self_paced
+TR-0030552,E-0205,CRS-collaboration,collaboration fundamentals,"[""collaboration"",""visual_craft""]",2025-09-21T00:00:00.000Z,2025-11-12T00:00:00.000Z,54,78,true,19,self_paced
+TR-0030555,E-0205,CRS-problem_solving,problem solving fundamentals,"[""problem_solving"",""execution""]",2026-02-10T00:00:00.000Z,2026-03-11T00:00:00.000Z,100,71,true,27,self_paced
+TR-0031044,E-0208,CRS-collaboration,collaboration fundamentals,"[""collaboration"",""problem_solving""]",2025-12-19T00:00:00.000Z,2026-02-15T00:00:00.000Z,100,73,true,14,workshop
+TR-0031629,E-0212,CRS-problem_solving,problem solving fundamentals,"[""problem_solving""]",2026-05-19T00:00:00.000Z,2026-07-12T00:00:00.000Z,100,88,true,21,self_paced
+TR-0031750,E-0213,CRS-collaboration,collaboration fundamentals,"[""collaboration"",""execution""]",2025-07-21T00:00:00.000Z,2025-08-25T00:00:00.000Z,63,75,true,9,self_paced
+TR-0031874,E-0214,CRS-compliance_rigor,compliance rigor fundamentals,"[""compliance_rigor"",""problem_solving""]",2025-05-10T00:00:00.000Z,2025-07-03T00:00:00.000Z,58,81,true,18,self_paced
+TR-0031877,E-0214,CRS-compliance_rigor,compliance rigor fundamentals,"[""compliance_rigor""]",2025-06-15T00:00:00.000Z,2025-07-17T00:00:00.000Z,100,61,true,23,cohort
+TR-0032016,E-0215,CRS-policy_navigation,policy navigation fundamentals,"[""policy_navigation"",""execution""]",2025-12-05T00:00:00.000Z,2026-01-09T00:00:00.000Z,100,47,false,8,workshop
+TR-0032019,E-0215,CRS-communication,communication fundamentals,"[""communication""]",2025-05-28T00:00:00.000Z,2025-07-22T00:00:00.000Z,100,78,true,5,self_paced
+TR-0032184,E-0216,CRS-execution,execution fundamentals,"[""execution""]",2025-11-15T00:00:00.000Z,2025-12-22T00:00:00.000Z,100,74,true,11,self_paced
+TR-0032345,E-0217,CRS-problem_solving,problem solving fundamentals,"[""problem_solving"",""execution""]",2025-10-28T00:00:00.000Z,2025-12-07T00:00:00.000Z,100,61,true,15,self_paced
+TR-0032641,E-0219,CRS-communication,communication fundamentals,"[""communication"",""campaign_strategy""]",2025-07-12T00:00:00.000Z,2025-08-15T00:00:00.000Z,100,97,true,29,self_paced
+TR-0032644,E-0219,CRS-problem_solving,problem solving fundamentals,"[""problem_solving"",""campaign_strategy""]",2024-10-21T00:00:00.000Z,2024-12-13T00:00:00.000Z,65,55,false,9,self_paced
+TR-0032803,E-0220,CRS-communication,communication fundamentals,"[""communication"",""stakeholder_alignment""]",2025-07-19T00:00:00.000Z,2025-08-10T00:00:00.000Z,100,94,true,10,cohort
+TR-0032991,E-0221,CRS-ux_research,ux research fundamentals,"[""ux_research"",""problem_solving""]",2024-10-01T00:00:00.000Z,2024-11-10T00:00:00.000Z,100,69,true,24,workshop
+TR-0033125,E-0222,CRS-communication,communication fundamentals,"[""communication"",""compliance_rigor""]",2026-06-08T00:00:00.000Z,2026-07-06T00:00:00.000Z,52,61,true,24,cohort
+TR-0033283,E-0223,CRS-problem_solving,problem solving fundamentals,"[""problem_solving""]",2026-03-11T00:00:00.000Z,2026-04-17T00:00:00.000Z,100,72,true,7,self_paced
+TR-0033583,E-0225,CRS-code_quality,code quality fundamentals,"[""code_quality"",""communication""]",2024-11-10T00:00:00.000Z,2025-01-02T00:00:00.000Z,87,65,true,19,workshop
+TR-0033586,E-0225,CRS-execution,execution fundamentals,"[""execution""]",2025-12-25T00:00:00.000Z,2026-01-17T00:00:00.000Z,100,74,true,22,cohort
+TR-0033660,E-0226,CRS-communication,communication fundamentals,"[""communication""]",2026-06-19T00:00:00.000Z,2026-07-11T00:00:00.000Z,100,78,true,16,cohort
+TR-0033662,E-0226,CRS-execution,execution fundamentals,"[""execution""]",2026-04-03T00:00:00.000Z,2026-05-09T00:00:00.000Z,100,100,true,28,self_paced
+TR-0034134,E-0229,CRS-problem_solving,problem solving fundamentals,"[""problem_solving"",""visual_craft""]",2025-06-04T00:00:00.000Z,2025-07-28T00:00:00.000Z,100,65,true,26,workshop
+TR-0034137,E-0229,CRS-collaboration,collaboration fundamentals,"[""collaboration"",""visual_craft""]",2026-05-02T00:00:00.000Z,2026-05-24T00:00:00.000Z,100,85,true,19,cohort
+TR-0034306,E-0230,CRS-execution,execution fundamentals,"[""execution"",""financial_modeling""]",2025-05-26T00:00:00.000Z,2025-07-18T00:00:00.000Z,100,66,true,28,self_paced
+TR-0034309,E-0230,CRS-collaboration,collaboration fundamentals,"[""collaboration""]",2025-12-11T00:00:00.000Z,2026-01-04T00:00:00.000Z,100,68,true,28,self_paced
+TR-0034842,E-0234,CRS-collaboration,collaboration fundamentals,"[""collaboration"",""communication""]",2025-06-13T00:00:00.000Z,2025-08-04T00:00:00.000Z,100,71,true,17,self_paced
+TR-0035011,E-0235,CRS-collaboration,collaboration fundamentals,"[""collaboration"",""communication""]",2025-03-13T00:00:00.000Z,2025-04-16T00:00:00.000Z,100,66,true,20,self_paced
+TR-0035168,E-0236,CRS-execution,execution fundamentals,"[""execution""]",2026-01-18T00:00:00.000Z,2026-02-26T00:00:00.000Z,100,77,true,9,self_paced
+TR-0035326,E-0237,CRS-visual_craft,visual craft fundamentals,"[""visual_craft"",""ux_research""]",2025-06-13T00:00:00.000Z,2025-08-08T00:00:00.000Z,100,73,true,7,workshop
+TR-0035476,E-0238,CRS-collaboration,collaboration fundamentals,"[""collaboration""]",2026-06-28T00:00:00.000Z,2026-08-07T00:00:00.000Z,100,82,true,9,workshop
+TR-0035478,E-0238,CRS-compliance_rigor,compliance rigor fundamentals,"[""compliance_rigor"",""collaboration""]",2025-07-01T00:00:00.000Z,2025-08-01T00:00:00.000Z,100,71,true,9,self_paced
+TR-0035636,E-0239,CRS-communication,communication fundamentals,"[""communication"",""problem_solving""]",2024-11-30T00:00:00.000Z,2025-01-22T00:00:00.000Z,100,66,true,25,workshop
+TR-0036092,E-0242,CRS-collaboration,collaboration fundamentals,"[""collaboration"",""negotiation""]",2026-05-20T00:00:00.000Z,2026-06-27T00:00:00.000Z,100,62,true,27,cohort
+TR-0036095,E-0242,CRS-pipeline_mgmt,pipeline mgmt fundamentals,"[""pipeline_mgmt"",""execution""]",2026-03-14T00:00:00.000Z,2026-04-05T00:00:00.000Z,78,74,true,4,self_paced
+TR-0036254,E-0243,CRS-communication,communication fundamentals,"[""communication""]",2025-07-11T00:00:00.000Z,2025-09-04T00:00:00.000Z,100,69,true,18,self_paced
+TR-0036256,E-0243,CRS-campaign_strategy,campaign strategy fundamentals,"[""campaign_strategy"",""problem_solving""]",2025-11-24T00:00:00.000Z,2026-01-14T00:00:00.000Z,100,63,true,15,workshop
+TR-0036413,E-0244,CRS-execution,execution fundamentals,"[""execution"",""collaboration""]",2026-04-27T00:00:00.000Z,2026-05-22T00:00:00.000Z,100,61,true,7,cohort
+TR-0036866,E-0247,CRS-communication,communication fundamentals,"[""communication""]",2025-09-23T00:00:00.000Z,2025-11-13T00:00:00.000Z,100,67,true,11,self_paced
+TR-0036868,E-0247,CRS-communication,communication fundamentals,"[""communication"",""policy_navigation""]",2026-06-19T00:00:00.000Z,2026-07-13T00:00:00.000Z,84,62,true,26,self_paced
+TR-0037028,E-0248,CRS-customer_resolution,customer resolution fundamentals,"[""customer_resolution""]",2024-10-14T00:00:00.000Z,2024-11-23T00:00:00.000Z,100,70,true,23,workshop
+TR-0037030,E-0248,CRS-collaboration,collaboration fundamentals,"[""collaboration""]",2024-10-22T00:00:00.000Z,2024-12-03T00:00:00.000Z,100,69,true,15,cohort
+TR-0037354,E-0250,CRS-pipeline_mgmt,pipeline mgmt fundamentals,"[""pipeline_mgmt""]",2025-03-31T00:00:00.000Z,2025-04-25T00:00:00.000Z,100,71,true,21,cohort
+TR-0037512,E-0251,CRS-execution,execution fundamentals,"[""execution""]",2024-11-07T00:00:00.000Z,2024-11-29T00:00:00.000Z,100,67,true,25,workshop
+TR-0037514,E-0251,CRS-collaboration,collaboration fundamentals,"[""collaboration"",""problem_solving""]",2024-11-09T00:00:00.000Z,2024-12-05T00:00:00.000Z,100,80,true,9,cohort
+TR-0037835,E-0253,CRS-collaboration,collaboration fundamentals,"[""collaboration"",""execution""]",2024-10-28T00:00:00.000Z,2024-11-20T00:00:00.000Z,100,60,true,4,cohort
+TR-0037838,E-0253,CRS-visual_craft,visual craft fundamentals,"[""visual_craft""]",2025-05-07T00:00:00.000Z,2025-07-04T00:00:00.000Z,100,76,true,29,cohort
+TR-0037997,E-0254,CRS-problem_solving,problem solving fundamentals,"[""problem_solving""]",2026-01-27T00:00:00.000Z,2026-03-19T00:00:00.000Z,100,78,true,26,workshop
+TR-0037999,E-0254,CRS-collaboration,collaboration fundamentals,"[""collaboration"",""execution""]",2025-05-18T00:00:00.000Z,2025-07-16T00:00:00.000Z,63,69,true,20,cohort
+TR-0038137,E-0255,CRS-communication,communication fundamentals,"[""communication"",""policy_navigation""]",2025-07-15T00:00:00.000Z,2025-08-07T00:00:00.000Z,100,84,true,9,self_paced
+TR-0038260,E-0256,CRS-troubleshooting,troubleshooting fundamentals,"[""troubleshooting""]",2026-05-12T00:00:00.000Z,2026-07-03T00:00:00.000Z,100,80,true,27,cohort
+TR-0038262,E-0256,CRS-communication,communication fundamentals,"[""communication"",""execution""]",2024-12-31T00:00:00.000Z,2025-01-29T00:00:00.000Z,72,85,true,5,cohort
+TR-0038437,E-0257,CRS-problem_solving,problem solving fundamentals,"[""problem_solving"",""system_design""]",2025-01-01T00:00:00.000Z,2025-02-02T00:00:00.000Z,100,68,true,22,self_paced
+TR-0038440,E-0257,CRS-communication,communication fundamentals,"[""communication"",""collaboration""]",2024-11-21T00:00:00.000Z,2025-01-04T00:00:00.000Z,100,58,false,9,workshop
+TR-0038596,E-0258,CRS-communication,communication fundamentals,"[""communication"",""problem_solving""]",2026-03-02T00:00:00.000Z,2026-04-09T00:00:00.000Z,100,70,true,12,cohort
+TR-0038599,E-0258,CRS-negotiation,negotiation fundamentals,"[""negotiation""]",2026-06-10T00:00:00.000Z,2026-07-28T00:00:00.000Z,100,70,true,11,workshop
+TR-0038750,E-0259,CRS-content_quality,content quality fundamentals,"[""content_quality"",""problem_solving""]",2025-04-25T00:00:00.000Z,2025-05-16T00:00:00.000Z,100,60,false,14,self_paced
+TR-0039023,E-0261,CRS-execution,execution fundamentals,"[""execution"",""problem_solving""]",2024-11-21T00:00:00.000Z,2024-12-28T00:00:00.000Z,100,100,true,28,workshop
+TR-0039026,E-0261,CRS-problem_solving,problem solving fundamentals,"[""problem_solving"",""communication""]",2025-01-08T00:00:00.000Z,2025-03-07T00:00:00.000Z,100,100,true,28,workshop
+TR-0039322,E-0263,CRS-collaboration,collaboration fundamentals,"[""collaboration"",""policy_navigation""]",2025-12-15T00:00:00.000Z,2026-01-07T00:00:00.000Z,100,74,true,4,cohort
+TR-0039325,E-0263,CRS-execution,execution fundamentals,"[""execution"",""policy_navigation""]",2025-11-14T00:00:00.000Z,2025-12-15T00:00:00.000Z,100,66,true,25,self_paced
+TR-0039672,E-0266,CRS-collaboration,collaboration fundamentals,"[""collaboration""]",2024-11-19T00:00:00.000Z,2025-01-02T00:00:00.000Z,100,69,true,21,cohort
+TR-0039674,E-0266,CRS-pipeline_mgmt,pipeline mgmt fundamentals,"[""pipeline_mgmt"",""collaboration""]",2025-02-20T00:00:00.000Z,2025-04-01T00:00:00.000Z,100,71,true,21,workshop
+TR-0039832,E-0267,CRS-execution,execution fundamentals,"[""execution"",""collaboration""]",2025-05-26T00:00:00.000Z,2025-06-26T00:00:00.000Z,100,97,true,9,cohort
+TR-0039835,E-0267,CRS-problem_solving,problem solving fundamentals,"[""problem_solving""]",2024-12-22T00:00:00.000Z,2025-02-07T00:00:00.000Z,61,64,true,5,cohort
+TR-0039959,E-0268,CRS-communication,communication fundamentals,"[""communication""]",2026-06-27T00:00:00.000Z,2026-08-22T00:00:00.000Z,100,99,true,26,workshop
+TR-0039961,E-0268,CRS-execution,execution fundamentals,"[""execution"",""stakeholder_alignment""]",2026-05-11T00:00:00.000Z,2026-06-06T00:00:00.000Z,80,49,false,22,workshop
+TR-0040387,E-0271,CRS-collaboration,collaboration fundamentals,"[""collaboration"",""communication""]",2026-01-07T00:00:00.000Z,2026-02-19T00:00:00.000Z,100,68,true,17,self_paced
+TR-0040390,E-0271,CRS-collaboration,collaboration fundamentals,"[""collaboration"",""policy_navigation""]",2025-12-10T00:00:00.000Z,2026-02-06T00:00:00.000Z,100,77,true,6,workshop
+TR-0040569,E-0272,CRS-problem_solving,problem solving fundamentals,"[""problem_solving"",""communication""]",2025-04-22T00:00:00.000Z,2025-06-08T00:00:00.000Z,100,71,true,24,cohort
+TR-0040701,E-0273,CRS-collaboration,collaboration fundamentals,"[""collaboration"",""system_design""]",2026-05-28T00:00:00.000Z,2026-07-18T00:00:00.000Z,100,77,true,12,self_paced
+TR-0040991,E-0275,CRS-communication,communication fundamentals,"[""communication""]",2025-10-10T00:00:00.000Z,2025-11-26T00:00:00.000Z,100,84,true,25,workshop
+TR-0041152,E-0276,CRS-communication,communication fundamentals,"[""communication"",""roadmap_prioritization""]",2026-02-23T00:00:00.000Z,2026-03-24T00:00:00.000Z,100,70,true,21,self_paced
+TR-0041472,E-0278,CRS-compliance_rigor,compliance rigor fundamentals,"[""compliance_rigor"",""financial_modeling""]",2025-12-07T00:00:00.000Z,2025-12-27T00:00:00.000Z,70,58,false,4,workshop
+TR-0041787,E-0280,CRS-collaboration,collaboration fundamentals,"[""collaboration""]",2025-01-25T00:00:00.000Z,2025-03-20T00:00:00.000Z,81,71,true,26,self_paced
+TR-0041933,E-0281,CRS-problem_solving,problem solving fundamentals,"[""problem_solving"",""system_design""]",2026-04-15T00:00:00.000Z,2026-06-08T00:00:00.000Z,100,73,true,19,workshop
+TR-0042123,E-0282,CRS-collaboration,collaboration fundamentals,"[""collaboration"",""pipeline_mgmt""]",2025-08-28T00:00:00.000Z,2025-09-23T00:00:00.000Z,100,88,true,15,self_paced
+TR-0042126,E-0282,CRS-problem_solving,problem solving fundamentals,"[""problem_solving""]",2025-08-10T00:00:00.000Z,2025-09-08T00:00:00.000Z,100,86,true,21,workshop
+TR-0042255,E-0283,CRS-collaboration,collaboration fundamentals,"[""collaboration"",""content_quality""]",2024-11-29T00:00:00.000Z,2024-12-21T00:00:00.000Z,46,83,true,27,cohort
+TR-0042258,E-0283,CRS-execution,execution fundamentals,"[""execution""]",2025-02-05T00:00:00.000Z,2025-03-31T00:00:00.000Z,100,82,true,14,cohort
+TR-0042585,E-0285,CRS-collaboration,collaboration fundamentals,"[""collaboration""]",2025-01-16T00:00:00.000Z,2025-02-20T00:00:00.000Z,100,63,true,29,cohort
+TR-0042712,E-0286,CRS-compliance_rigor,compliance rigor fundamentals,"[""compliance_rigor""]",2025-09-15T00:00:00.000Z,2025-10-08T00:00:00.000Z,100,78,true,4,workshop
+TR-0042714,E-0286,CRS-communication,communication fundamentals,"[""communication""]",2026-06-27T00:00:00.000Z,2026-08-01T00:00:00.000Z,100,88,true,17,self_paced
+TR-0043013,E-0288,CRS-execution,execution fundamentals,"[""execution"",""customer_resolution""]",2025-08-26T00:00:00.000Z,2025-10-12T00:00:00.000Z,100,81,true,6,cohort
+TR-0043168,E-0289,CRS-execution,execution fundamentals,"[""execution"",""problem_solving""]",2025-09-13T00:00:00.000Z,2025-10-29T00:00:00.000Z,100,52,false,8,self_paced
+TR-0043171,E-0289,CRS-communication,communication fundamentals,"[""communication""]",2024-11-29T00:00:00.000Z,2025-01-08T00:00:00.000Z,100,67,true,24,self_paced
+TR-0043343,E-0290,CRS-collaboration,collaboration fundamentals,"[""collaboration"",""pipeline_mgmt""]",2025-12-28T00:00:00.000Z,2026-01-31T00:00:00.000Z,100,73,true,21,self_paced
+TR-0043346,E-0290,CRS-execution,execution fundamentals,"[""execution""]",2025-03-06T00:00:00.000Z,2025-05-02T00:00:00.000Z,100,62,true,28,cohort
+TR-0043497,E-0291,CRS-problem_solving,problem solving fundamentals,"[""problem_solving"",""execution""]",2025-12-12T00:00:00.000Z,2026-01-16T00:00:00.000Z,39,59,false,15,self_paced
+TR-0043500,E-0291,CRS-campaign_strategy,campaign strategy fundamentals,"[""campaign_strategy"",""collaboration""]",2026-01-30T00:00:00.000Z,2026-02-28T00:00:00.000Z,37,67,true,29,cohort
+TR-0043941,E-0294,CRS-collaboration,collaboration fundamentals,"[""collaboration""]",2025-01-27T00:00:00.000Z,2025-02-17T00:00:00.000Z,100,82,true,18,self_paced
+TR-0043943,E-0294,CRS-collaboration,collaboration fundamentals,"[""collaboration"",""financial_modeling""]",2026-04-07T00:00:00.000Z,2026-05-13T00:00:00.000Z,100,71,true,8,workshop
+TR-0044105,E-0295,CRS-execution,execution fundamentals,"[""execution""]",2026-02-08T00:00:00.000Z,2026-04-07T00:00:00.000Z,100,68,true,13,workshop
+TR-0044423,E-0297,CRS-collaboration,collaboration fundamentals,"[""collaboration""]",2026-04-29T00:00:00.000Z,2026-05-26T00:00:00.000Z,100,72,true,27,self_paced
+TR-0044612,E-0298,CRS-collaboration,collaboration fundamentals,"[""collaboration"",""pipeline_mgmt""]",2025-12-13T00:00:00.000Z,2026-01-31T00:00:00.000Z,100,64,true,28,workshop
+TR-0044615,E-0298,CRS-negotiation,negotiation fundamentals,"[""negotiation"",""collaboration""]",2025-06-07T00:00:00.000Z,2025-07-23T00:00:00.000Z,100,64,true,27,cohort
+TR-0044916,E-0300,CRS-roadmap_prioritization,roadmap prioritization fundamentals,"[""roadmap_prioritization"",""execution""]",2025-06-04T00:00:00.000Z,2025-06-25T00:00:00.000Z,73,52,false,4,workshop
+TR-0045059,E-0301,CRS-collaboration,collaboration fundamentals,"[""collaboration"",""visual_craft""]",2025-09-12T00:00:00.000Z,2025-10-23T00:00:00.000Z,100,81,true,22,cohort
+TR-0045358,E-0303,CRS-communication,communication fundamentals,"[""communication""]",2026-05-06T00:00:00.000Z,2026-06-16T00:00:00.000Z,100,91,true,29,workshop
+TR-0045609,E-0305,CRS-communication,communication fundamentals,"[""communication"",""code_quality""]",2026-06-02T00:00:00.000Z,2026-07-20T00:00:00.000Z,100,82,true,10,workshop
+TR-0045974,E-0308,CRS-roadmap_prioritization,roadmap prioritization fundamentals,"[""roadmap_prioritization"",""stakeholder_alignment""]",2026-06-12T00:00:00.000Z,2026-07-17T00:00:00.000Z,100,77,true,10,self_paced
+TR-0046273,E-0310,CRS-collaboration,collaboration fundamentals,"[""collaboration"",""communication""]",2025-11-02T00:00:00.000Z,2025-12-11T00:00:00.000Z,100,70,true,14,workshop
+TR-0046276,E-0310,CRS-financial_modeling,financial modeling fundamentals,"[""financial_modeling"",""execution""]",2026-04-11T00:00:00.000Z,2026-06-06T00:00:00.000Z,100,67,true,4,self_paced
+TR-0046412,E-0311,CRS-talent_assessment,talent assessment fundamentals,"[""talent_assessment""]",2025-10-30T00:00:00.000Z,2025-11-22T00:00:00.000Z,55,75,true,10,cohort
+TR-0046414,E-0311,CRS-problem_solving,problem solving fundamentals,"[""problem_solving"",""collaboration""]",2026-03-14T00:00:00.000Z,2026-04-27T00:00:00.000Z,100,77,true,13,self_paced
+TR-0046520,E-0312,CRS-troubleshooting,troubleshooting fundamentals,"[""troubleshooting""]",2026-02-10T00:00:00.000Z,2026-04-08T00:00:00.000Z,38,67,true,25,cohort
+TR-0046806,E-0314,CRS-negotiation,negotiation fundamentals,"[""negotiation""]",2026-03-09T00:00:00.000Z,2026-05-03T00:00:00.000Z,100,70,true,11,cohort
+TR-0046808,E-0314,CRS-execution,execution fundamentals,"[""execution""]",2025-10-15T00:00:00.000Z,2025-12-11T00:00:00.000Z,100,81,true,23,workshop
+TR-0047598,E-0319,CRS-problem_solving,problem solving fundamentals,"[""problem_solving"",""communication""]",2026-01-29T00:00:00.000Z,2026-02-22T00:00:00.000Z,100,61,true,24,self_paced
+TR-0047601,E-0319,CRS-problem_solving,problem solving fundamentals,"[""problem_solving""]",2025-03-23T00:00:00.000Z,2025-05-21T00:00:00.000Z,57,68,true,17,cohort
+TR-0047740,E-0320,CRS-collaboration,collaboration fundamentals,"[""collaboration"",""customer_resolution""]",2024-12-27T00:00:00.000Z,2025-01-22T00:00:00.000Z,100,53,false,10,self_paced
+TR-0047743,E-0320,CRS-problem_solving,problem solving fundamentals,"[""problem_solving""]",2026-02-05T00:00:00.000Z,2026-03-07T00:00:00.000Z,100,68,true,24,cohort
+TR-0047905,E-0321,CRS-execution,execution fundamentals,"[""execution""]",2025-02-03T00:00:00.000Z,2025-03-29T00:00:00.000Z,100,100,true,20,self_paced
+TR-0047907,E-0321,CRS-code_quality,code quality fundamentals,"[""code_quality""]",2024-11-19T00:00:00.000Z,2024-12-27T00:00:00.000Z,100,79,true,24,workshop
+TR-0048068,E-0322,CRS-negotiation,negotiation fundamentals,"[""negotiation""]",2025-02-23T00:00:00.000Z,2025-04-02T00:00:00.000Z,62,72,true,9,cohort
+TR-0048070,E-0322,CRS-execution,execution fundamentals,"[""execution""]",2024-11-29T00:00:00.000Z,2025-01-21T00:00:00.000Z,100,81,true,10,workshop
+TR-0048245,E-0323,CRS-communication,communication fundamentals,"[""communication"",""campaign_strategy""]",2025-02-28T00:00:00.000Z,2025-04-01T00:00:00.000Z,100,64,true,8,cohort
+TR-0048391,E-0324,CRS-communication,communication fundamentals,"[""communication""]",2026-06-12T00:00:00.000Z,2026-07-24T00:00:00.000Z,100,90,true,11,cohort
+TR-0048393,E-0324,CRS-execution,execution fundamentals,"[""execution""]",2026-06-11T00:00:00.000Z,2026-08-04T00:00:00.000Z,100,79,true,13,cohort
+TR-0048556,E-0325,CRS-problem_solving,problem solving fundamentals,"[""problem_solving"",""ux_research""]",2025-05-22T00:00:00.000Z,2025-06-25T00:00:00.000Z,100,86,true,21,workshop
+TR-0048559,E-0325,CRS-problem_solving,problem solving fundamentals,"[""problem_solving""]",2025-02-02T00:00:00.000Z,2025-03-17T00:00:00.000Z,100,80,true,29,workshop
+TR-0048740,E-0326,CRS-execution,execution fundamentals,"[""execution""]",2025-06-17T00:00:00.000Z,2025-08-04T00:00:00.000Z,100,79,true,14,workshop
+TR-0048891,E-0327,CRS-execution,execution fundamentals,"[""execution""]",2026-01-30T00:00:00.000Z,2026-03-20T00:00:00.000Z,100,76,true,10,cohort
+TR-0048893,E-0327,CRS-policy_navigation,policy navigation fundamentals,"[""policy_navigation""]",2025-08-07T00:00:00.000Z,2025-10-03T00:00:00.000Z,100,84,true,17,workshop
+TR-0049046,E-0328,CRS-collaboration,collaboration fundamentals,"[""collaboration""]",2026-03-18T00:00:00.000Z,2026-05-02T00:00:00.000Z,43,65,true,8,workshop
+TR-0049048,E-0328,CRS-execution,execution fundamentals,"[""execution""]",2025-05-03T00:00:00.000Z,2025-06-08T00:00:00.000Z,100,69,true,24,cohort
+TR-0049356,E-0330,CRS-collaboration,collaboration fundamentals,"[""collaboration"",""pipeline_mgmt""]",2025-12-14T00:00:00.000Z,2026-01-29T00:00:00.000Z,100,54,false,20,self_paced
+TR-0049359,E-0330,CRS-collaboration,collaboration fundamentals,"[""collaboration""]",2026-03-11T00:00:00.000Z,2026-04-10T00:00:00.000Z,100,70,true,28,workshop
+TR-0049636,E-0332,CRS-roadmap_prioritization,roadmap prioritization fundamentals,"[""roadmap_prioritization"",""problem_solving""]",2025-08-05T00:00:00.000Z,2025-09-08T00:00:00.000Z,49,80,true,5,cohort
+TR-0049639,E-0332,CRS-execution,execution fundamentals,"[""execution"",""collaboration""]",2026-02-08T00:00:00.000Z,2026-03-05T00:00:00.000Z,100,88,true,15,cohort
+TR-0049812,E-0333,CRS-collaboration,collaboration fundamentals,"[""collaboration""]",2025-03-09T00:00:00.000Z,2025-04-22T00:00:00.000Z,100,55,false,22,workshop
+TR-0049976,E-0334,CRS-communication,communication fundamentals,"[""communication"",""financial_modeling""]",2024-11-24T00:00:00.000Z,2025-01-11T00:00:00.000Z,100,51,false,15,self_paced
+TR-0049979,E-0334,CRS-communication,communication fundamentals,"[""communication"",""financial_modeling""]",2024-10-30T00:00:00.000Z,2024-11-27T00:00:00.000Z,100,77,true,8,workshop
+TR-0050123,E-0335,CRS-communication,communication fundamentals,"[""communication""]",2026-01-31T00:00:00.000Z,2026-03-10T00:00:00.000Z,100,62,true,6,workshop
+TR-0050267,E-0336,CRS-execution,execution fundamentals,"[""execution""]",2026-02-24T00:00:00.000Z,2026-03-18T00:00:00.000Z,33,67,true,20,workshop
+TR-0050269,E-0336,CRS-problem_solving,problem solving fundamentals,"[""problem_solving"",""troubleshooting""]",2025-09-02T00:00:00.000Z,2025-10-19T00:00:00.000Z,79,74,true,11,cohort
+TR-0050412,E-0337,CRS-system_design,system design fundamentals,"[""system_design"",""code_quality""]",2025-04-16T00:00:00.000Z,2025-06-03T00:00:00.000Z,100,75,true,24,cohort
+TR-0050991,E-0341,CRS-collaboration,collaboration fundamentals,"[""collaboration""]",2025-04-11T00:00:00.000Z,2025-05-17T00:00:00.000Z,100,86,true,14,workshop
+TR-0050993,E-0341,CRS-execution,execution fundamentals,"[""execution"",""communication""]",2025-06-03T00:00:00.000Z,2025-07-12T00:00:00.000Z,100,78,true,26,workshop
+TR-0051163,E-0342,CRS-execution,execution fundamentals,"[""execution""]",2025-01-16T00:00:00.000Z,2025-03-14T00:00:00.000Z,100,91,true,18,cohort
+TR-0051398,E-0344,CRS-execution,execution fundamentals,"[""execution""]",2025-03-27T00:00:00.000Z,2025-04-24T00:00:00.000Z,100,88,true,27,self_paced
+TR-0051400,E-0344,CRS-execution,execution fundamentals,"[""execution""]",2026-06-30T00:00:00.000Z,2026-08-04T00:00:00.000Z,45,81,true,19,cohort
+TR-0051540,E-0345,CRS-execution,execution fundamentals,"[""execution"",""system_design""]",2024-12-13T00:00:00.000Z,2025-01-12T00:00:00.000Z,100,74,true,5,cohort
+TR-0051543,E-0345,CRS-communication,communication fundamentals,"[""communication""]",2025-05-23T00:00:00.000Z,2025-07-14T00:00:00.000Z,100,66,true,8,self_paced
+TR-0051641,E-0346,CRS-problem_solving,problem solving fundamentals,"[""problem_solving"",""pipeline_mgmt""]",2025-04-16T00:00:00.000Z,2025-06-06T00:00:00.000Z,100,61,true,4,workshop
+TR-0051761,E-0347,CRS-problem_solving,problem solving fundamentals,"[""problem_solving""]",2026-02-10T00:00:00.000Z,2026-03-23T00:00:00.000Z,100,51,false,23,workshop
+TR-0051763,E-0347,CRS-content_quality,content quality fundamentals,"[""content_quality""]",2025-04-19T00:00:00.000Z,2025-05-22T00:00:00.000Z,100,57,false,27,self_paced
+TR-0052072,E-0349,CRS-collaboration,collaboration fundamentals,"[""collaboration""]",2025-05-19T00:00:00.000Z,2025-06-14T00:00:00.000Z,45,61,true,11,workshop
+TR-0052183,E-0350,CRS-problem_solving,problem solving fundamentals,"[""problem_solving"",""compliance_rigor""]",2024-10-27T00:00:00.000Z,2024-12-17T00:00:00.000Z,81,58,false,4,self_paced
+TR-0052465,E-0352,CRS-troubleshooting,troubleshooting fundamentals,"[""troubleshooting"",""problem_solving""]",2026-02-25T00:00:00.000Z,2026-04-19T00:00:00.000Z,100,80,true,22,cohort
+TR-0052468,E-0352,CRS-communication,communication fundamentals,"[""communication""]",2025-07-17T00:00:00.000Z,2025-09-13T00:00:00.000Z,81,81,true,19,workshop
+TR-0053137,E-0357,CRS-communication,communication fundamentals,"[""communication""]",2024-11-05T00:00:00.000Z,2024-11-27T00:00:00.000Z,100,78,true,6,workshop
+TR-0053139,E-0357,CRS-collaboration,collaboration fundamentals,"[""collaboration""]",2025-03-19T00:00:00.000Z,2025-04-24T00:00:00.000Z,71,63,true,22,workshop
+TR-0053289,E-0358,CRS-problem_solving,problem solving fundamentals,"[""problem_solving""]",2026-03-17T00:00:00.000Z,2026-05-12T00:00:00.000Z,100,71,true,4,self_paced
+TR-0053424,E-0359,CRS-policy_navigation,policy navigation fundamentals,"[""policy_navigation"",""communication""]",2026-03-31T00:00:00.000Z,2026-05-19T00:00:00.000Z,62,48,false,4,workshop
+TR-0053732,E-0361,CRS-code_quality,code quality fundamentals,"[""code_quality"",""execution""]",2024-12-30T00:00:00.000Z,2025-02-22T00:00:00.000Z,100,48,false,8,workshop
+TR-0054039,E-0363,CRS-collaboration,collaboration fundamentals,"[""collaboration"",""execution""]",2025-04-19T00:00:00.000Z,2025-06-03T00:00:00.000Z,100,79,true,10,cohort
+TR-0054174,E-0364,CRS-problem_solving,problem solving fundamentals,"[""problem_solving""]",2026-05-03T00:00:00.000Z,2026-05-23T00:00:00.000Z,100,63,true,6,cohort
+TR-0054507,E-0366,CRS-problem_solving,problem solving fundamentals,"[""problem_solving""]",2026-02-14T00:00:00.000Z,2026-03-29T00:00:00.000Z,100,82,true,10,cohort
+TR-0054654,E-0367,CRS-execution,execution fundamentals,"[""execution""]",2026-02-01T00:00:00.000Z,2026-02-27T00:00:00.000Z,100,65,true,4,workshop
+TR-0054808,E-0368,CRS-collaboration,collaboration fundamentals,"[""collaboration""]",2026-05-27T00:00:00.000Z,2026-07-05T00:00:00.000Z,100,61,true,19,cohort
+TR-0054951,E-0369,CRS-communication,communication fundamentals,"[""communication""]",2025-02-25T00:00:00.000Z,2025-03-29T00:00:00.000Z,100,68,true,16,self_paced
+TR-0054953,E-0369,CRS-problem_solving,problem solving fundamentals,"[""problem_solving"",""collaboration""]",2025-02-01T00:00:00.000Z,2025-03-02T00:00:00.000Z,100,58,false,11,cohort
+TR-0055111,E-0370,CRS-communication,communication fundamentals,"[""communication""]",2025-01-28T00:00:00.000Z,2025-02-27T00:00:00.000Z,100,70,true,25,workshop
+TR-0055113,E-0370,CRS-collaboration,collaboration fundamentals,"[""collaboration"",""problem_solving""]",2025-11-27T00:00:00.000Z,2025-12-22T00:00:00.000Z,100,76,true,4,workshop
+TR-0055279,E-0371,CRS-collaboration,collaboration fundamentals,"[""collaboration""]",2026-01-19T00:00:00.000Z,2026-03-02T00:00:00.000Z,100,75,true,22,self_paced
+TR-0055281,E-0371,CRS-execution,execution fundamentals,"[""execution"",""content_quality""]",2025-11-26T00:00:00.000Z,2026-01-19T00:00:00.000Z,100,76,true,18,self_paced
+TR-0055414,E-0372,CRS-communication,communication fundamentals,"[""communication"",""stakeholder_alignment""]",2025-08-20T00:00:00.000Z,2025-10-04T00:00:00.000Z,100,75,true,11,self_paced
+TR-0055417,E-0372,CRS-problem_solving,problem solving fundamentals,"[""problem_solving"",""communication""]",2025-09-06T00:00:00.000Z,2025-10-31T00:00:00.000Z,100,85,true,18,self_paced
+TR-0055708,E-0374,CRS-execution,execution fundamentals,"[""execution""]",2025-09-08T00:00:00.000Z,2025-10-03T00:00:00.000Z,84,70,true,23,self_paced
+TR-0055836,E-0375,CRS-talent_assessment,talent assessment fundamentals,"[""talent_assessment"",""communication""]",2026-06-07T00:00:00.000Z,2026-07-12T00:00:00.000Z,100,64,true,21,cohort
+TR-0056153,E-0377,CRS-code_quality,code quality fundamentals,"[""code_quality"",""collaboration""]",2024-11-03T00:00:00.000Z,2024-12-22T00:00:00.000Z,100,91,true,12,self_paced
+TR-0056315,E-0378,CRS-collaboration,collaboration fundamentals,"[""collaboration""]",2024-11-19T00:00:00.000Z,2024-12-19T00:00:00.000Z,100,87,true,20,cohort
+TR-0056317,E-0378,CRS-collaboration,collaboration fundamentals,"[""collaboration""]",2026-04-21T00:00:00.000Z,2026-06-06T00:00:00.000Z,100,66,true,28,workshop
+TR-0056466,E-0379,CRS-problem_solving,problem solving fundamentals,"[""problem_solving"",""execution""]",2026-02-05T00:00:00.000Z,2026-03-21T00:00:00.000Z,100,73,true,27,self_paced
+TR-0056469,E-0379,CRS-problem_solving,problem solving fundamentals,"[""problem_solving""]",2024-11-28T00:00:00.000Z,2025-01-13T00:00:00.000Z,100,49,false,23,self_paced
+TR-0056795,E-0381,CRS-collaboration,collaboration fundamentals,"[""collaboration""]",2025-08-31T00:00:00.000Z,2025-10-28T00:00:00.000Z,100,59,false,8,cohort
+TR-0056949,E-0382,CRS-financial_modeling,financial modeling fundamentals,"[""financial_modeling"",""communication""]",2025-09-11T00:00:00.000Z,2025-10-04T00:00:00.000Z,100,56,false,28,cohort
+TR-0057082,E-0383,CRS-policy_navigation,policy navigation fundamentals,"[""policy_navigation""]",2026-06-30T00:00:00.000Z,2026-07-27T00:00:00.000Z,100,87,true,13,cohort
+TR-0057084,E-0383,CRS-talent_assessment,talent assessment fundamentals,"[""talent_assessment""]",2024-10-19T00:00:00.000Z,2024-12-03T00:00:00.000Z,100,66,true,23,self_paced
+TR-0057379,E-0385,CRS-system_design,system design fundamentals,"[""system_design""]",2025-08-26T00:00:00.000Z,2025-10-14T00:00:00.000Z,100,61,true,6,workshop
+TR-0057539,E-0386,CRS-negotiation,negotiation fundamentals,"[""negotiation"",""problem_solving""]",2026-01-04T00:00:00.000Z,2026-02-04T00:00:00.000Z,100,86,true,7,self_paced
+TR-0057542,E-0386,CRS-negotiation,negotiation fundamentals,"[""negotiation"",""pipeline_mgmt""]",2025-11-26T00:00:00.000Z,2026-01-16T00:00:00.000Z,100,79,true,8,self_paced
+TR-0057863,E-0388,CRS-stakeholder_alignment,stakeholder alignment fundamentals,"[""stakeholder_alignment"",""roadmap_prioritization""]",2025-11-28T00:00:00.000Z,2026-01-22T00:00:00.000Z,66,82,true,8,cohort
+TR-0057983,E-0389,CRS-ux_research,ux research fundamentals,"[""ux_research"",""execution""]",2025-08-11T00:00:00.000Z,2025-09-19T00:00:00.000Z,100,80,true,17,workshop
+TR-0057986,E-0389,CRS-collaboration,collaboration fundamentals,"[""collaboration""]",2026-02-27T00:00:00.000Z,2026-03-21T00:00:00.000Z,37,75,true,14,workshop
+TR-0058143,E-0390,CRS-communication,communication fundamentals,"[""communication"",""financial_modeling""]",2024-10-14T00:00:00.000Z,2024-11-07T00:00:00.000Z,54,65,true,21,cohort
+TR-0058295,E-0391,CRS-problem_solving,problem solving fundamentals,"[""problem_solving"",""talent_assessment""]",2025-02-22T00:00:00.000Z,2025-03-30T00:00:00.000Z,100,67,true,8,cohort
+TR-0058584,E-0393,CRS-system_design,system design fundamentals,"[""system_design""]",2024-10-20T00:00:00.000Z,2024-12-15T00:00:00.000Z,100,58,false,26,self_paced
+TR-0058586,E-0393,CRS-collaboration,collaboration fundamentals,"[""collaboration"",""execution""]",2026-06-13T00:00:00.000Z,2026-07-20T00:00:00.000Z,88,62,true,26,self_paced
+TR-0058686,E-0394,CRS-negotiation,negotiation fundamentals,"[""negotiation"",""communication""]",2026-01-06T00:00:00.000Z,2026-02-17T00:00:00.000Z,100,71,true,10,self_paced
+TR-0058824,E-0395,CRS-problem_solving,problem solving fundamentals,"[""problem_solving"",""content_quality""]",2025-12-31T00:00:00.000Z,2026-02-14T00:00:00.000Z,100,66,true,26,self_paced
+TR-0059124,E-0397,CRS-ux_research,ux research fundamentals,"[""ux_research"",""collaboration""]",2025-07-21T00:00:00.000Z,2025-09-03T00:00:00.000Z,100,61,true,20,self_paced
+TR-0059283,E-0398,CRS-financial_modeling,financial modeling fundamentals,"[""financial_modeling"",""communication""]",2025-11-30T00:00:00.000Z,2026-01-21T00:00:00.000Z,100,54,false,22,cohort
+TR-0059286,E-0398,CRS-financial_modeling,financial modeling fundamentals,"[""financial_modeling""]",2025-01-05T00:00:00.000Z,2025-02-21T00:00:00.000Z,100,83,true,20,self_paced
+TR-0059758,E-0401,CRS-communication,communication fundamentals,"[""communication""]",2025-04-29T00:00:00.000Z,2025-06-23T00:00:00.000Z,100,59,false,27,cohort
+TR-0060039,E-0403,CRS-content_quality,content quality fundamentals,"[""content_quality"",""communication""]",2025-08-07T00:00:00.000Z,2025-09-22T00:00:00.000Z,72,95,true,11,workshop
+TR-0060335,E-0405,CRS-execution,execution fundamentals,"[""execution"",""ux_research""]",2025-04-19T00:00:00.000Z,2025-06-13T00:00:00.000Z,100,62,true,4,workshop
+TR-0060402,E-0406,CRS-financial_modeling,financial modeling fundamentals,"[""financial_modeling"",""execution""]",2026-02-03T00:00:00.000Z,2026-03-05T00:00:00.000Z,100,79,true,18,workshop
+TR-0060711,E-0408,CRS-execution,execution fundamentals,"[""execution"",""troubleshooting""]",2025-04-23T00:00:00.000Z,2025-05-17T00:00:00.000Z,100,66,true,6,cohort
+TR-0060835,E-0409,CRS-collaboration,collaboration fundamentals,"[""collaboration""]",2025-06-07T00:00:00.000Z,2025-06-28T00:00:00.000Z,100,78,true,9,cohort
+TR-0060837,E-0409,CRS-problem_solving,problem solving fundamentals,"[""problem_solving"",""collaboration""]",2025-07-11T00:00:00.000Z,2025-08-27T00:00:00.000Z,100,82,true,19,workshop
+TR-0060999,E-0410,CRS-problem_solving,problem solving fundamentals,"[""problem_solving"",""communication""]",2026-03-11T00:00:00.000Z,2026-05-02T00:00:00.000Z,100,75,true,14,self_paced
+TR-0061133,E-0411,CRS-problem_solving,problem solving fundamentals,"[""problem_solving"",""collaboration""]",2025-12-11T00:00:00.000Z,2026-01-05T00:00:00.000Z,100,57,false,24,workshop
+TR-0061136,E-0411,CRS-content_quality,content quality fundamentals,"[""content_quality"",""collaboration""]",2026-01-16T00:00:00.000Z,2026-02-20T00:00:00.000Z,100,77,true,4,workshop
+TR-0061280,E-0412,CRS-execution,execution fundamentals,"[""execution""]",2026-03-22T00:00:00.000Z,2026-04-27T00:00:00.000Z,100,60,false,8,self_paced
+TR-0061282,E-0412,CRS-problem_solving,problem solving fundamentals,"[""problem_solving""]",2025-08-26T00:00:00.000Z,2025-10-09T00:00:00.000Z,100,73,true,21,cohort
+TR-0061429,E-0413,CRS-communication,communication fundamentals,"[""communication""]",2026-04-25T00:00:00.000Z,2026-06-03T00:00:00.000Z,66,79,true,24,self_paced
+TR-0061596,E-0414,CRS-compliance_rigor,compliance rigor fundamentals,"[""compliance_rigor"",""problem_solving""]",2024-12-28T00:00:00.000Z,2025-01-19T00:00:00.000Z,100,54,false,6,self_paced
+TR-0061599,E-0414,CRS-collaboration,collaboration fundamentals,"[""collaboration"",""problem_solving""]",2025-11-14T00:00:00.000Z,2025-12-30T00:00:00.000Z,100,74,true,6,workshop
+TR-0061709,E-0415,CRS-execution,execution fundamentals,"[""execution""]",2025-09-06T00:00:00.000Z,2025-10-05T00:00:00.000Z,100,59,false,24,self_paced
+TR-0061994,E-0417,CRS-execution,execution fundamentals,"[""execution""]",2025-07-31T00:00:00.000Z,2025-09-06T00:00:00.000Z,100,90,true,15,self_paced
+TR-0061996,E-0417,CRS-code_quality,code quality fundamentals,"[""code_quality"",""system_design""]",2025-11-02T00:00:00.000Z,2025-11-28T00:00:00.000Z,100,59,false,27,cohort
+TR-0062142,E-0418,CRS-communication,communication fundamentals,"[""communication""]",2024-11-09T00:00:00.000Z,2024-11-29T00:00:00.000Z,100,44,false,7,self_paced
+TR-0062144,E-0418,CRS-execution,execution fundamentals,"[""execution"",""problem_solving""]",2026-02-23T00:00:00.000Z,2026-03-21T00:00:00.000Z,100,60,true,24,self_paced
+TR-0062290,E-0419,CRS-campaign_strategy,campaign strategy fundamentals,"[""campaign_strategy""]",2025-07-29T00:00:00.000Z,2025-09-25T00:00:00.000Z,100,47,false,26,workshop
+TR-0062471,E-0420,CRS-stakeholder_alignment,stakeholder alignment fundamentals,"[""stakeholder_alignment""]",2024-11-23T00:00:00.000Z,2025-01-21T00:00:00.000Z,100,65,true,10,self_paced
+TR-0062473,E-0420,CRS-communication,communication fundamentals,"[""communication"",""collaboration""]",2024-11-02T00:00:00.000Z,2024-12-10T00:00:00.000Z,100,49,false,25,workshop
+TR-0062766,E-0422,CRS-compliance_rigor,compliance rigor fundamentals,"[""compliance_rigor""]",2025-10-07T00:00:00.000Z,2025-10-30T00:00:00.000Z,100,79,true,4,cohort
+TR-0062768,E-0422,CRS-problem_solving,problem solving fundamentals,"[""problem_solving""]",2025-10-06T00:00:00.000Z,2025-11-30T00:00:00.000Z,100,61,true,13,workshop
+TR-0062935,E-0423,CRS-talent_assessment,talent assessment fundamentals,"[""talent_assessment"",""collaboration""]",2025-03-18T00:00:00.000Z,2025-05-06T00:00:00.000Z,100,63,true,8,self_paced
+TR-0062938,E-0423,CRS-policy_navigation,policy navigation fundamentals,"[""policy_navigation"",""execution""]",2026-03-29T00:00:00.000Z,2026-05-08T00:00:00.000Z,69,49,false,29,cohort
+TR-0063107,E-0424,CRS-collaboration,collaboration fundamentals,"[""collaboration""]",2025-09-04T00:00:00.000Z,2025-10-06T00:00:00.000Z,66,56,false,8,cohort
+TR-0063109,E-0424,CRS-customer_resolution,customer resolution fundamentals,"[""customer_resolution"",""problem_solving""]",2025-01-18T00:00:00.000Z,2025-02-17T00:00:00.000Z,100,92,true,14,cohort
+TR-0063256,E-0425,CRS-system_design,system design fundamentals,"[""system_design""]",2025-07-23T00:00:00.000Z,2025-08-18T00:00:00.000Z,100,62,true,13,cohort
+TR-0063258,E-0425,CRS-collaboration,collaboration fundamentals,"[""collaboration"",""execution""]",2025-08-30T00:00:00.000Z,2025-09-19T00:00:00.000Z,100,58,false,9,cohort
+TR-0063414,E-0426,CRS-communication,communication fundamentals,"[""communication""]",2025-04-09T00:00:00.000Z,2025-05-08T00:00:00.000Z,100,85,true,23,self_paced
+TR-0063554,E-0427,CRS-communication,communication fundamentals,"[""communication"",""campaign_strategy""]",2026-02-15T00:00:00.000Z,2026-04-13T00:00:00.000Z,100,71,true,25,workshop
+TR-0063557,E-0427,CRS-execution,execution fundamentals,"[""execution"",""content_quality""]",2026-02-04T00:00:00.000Z,2026-02-27T00:00:00.000Z,100,81,true,12,workshop
+TR-0063720,E-0428,CRS-problem_solving,problem solving fundamentals,"[""problem_solving""]",2025-08-05T00:00:00.000Z,2025-09-02T00:00:00.000Z,100,75,true,5,cohort
+TR-0063878,E-0429,CRS-ux_research,ux research fundamentals,"[""ux_research""]",2025-01-03T00:00:00.000Z,2025-02-17T00:00:00.000Z,100,100,true,29,cohort
+TR-0063880,E-0429,CRS-visual_craft,visual craft fundamentals,"[""visual_craft""]",2026-04-29T00:00:00.000Z,2026-06-05T00:00:00.000Z,100,90,true,10,workshop
+TR-0064051,E-0430,CRS-communication,communication fundamentals,"[""communication""]",2026-01-04T00:00:00.000Z,2026-01-25T00:00:00.000Z,100,59,false,13,workshop
+TR-0064053,E-0430,CRS-financial_modeling,financial modeling fundamentals,"[""financial_modeling""]",2024-10-02T00:00:00.000Z,2024-10-27T00:00:00.000Z,100,70,true,29,workshop
+TR-0064230,E-0431,CRS-problem_solving,problem solving fundamentals,"[""problem_solving""]",2024-10-17T00:00:00.000Z,2024-11-18T00:00:00.000Z,100,63,true,11,self_paced
+TR-0064316,E-0432,CRS-troubleshooting,troubleshooting fundamentals,"[""troubleshooting"",""execution""]",2025-11-02T00:00:00.000Z,2025-12-13T00:00:00.000Z,100,91,true,13,self_paced
+TR-0064319,E-0432,CRS-troubleshooting,troubleshooting fundamentals,"[""troubleshooting"",""collaboration""]",2025-12-04T00:00:00.000Z,2026-01-23T00:00:00.000Z,100,100,true,29,cohort
+TR-0064469,E-0433,CRS-system_design,system design fundamentals,"[""system_design"",""communication""]",2025-11-06T00:00:00.000Z,2025-12-12T00:00:00.000Z,100,72,true,5,workshop
+TR-0064472,E-0433,CRS-code_quality,code quality fundamentals,"[""code_quality"",""communication""]",2025-11-24T00:00:00.000Z,2026-01-08T00:00:00.000Z,65,75,true,6,workshop
+TR-0064758,E-0435,CRS-campaign_strategy,campaign strategy fundamentals,"[""campaign_strategy"",""collaboration""]",2024-12-16T00:00:00.000Z,2025-02-10T00:00:00.000Z,100,78,true,9,self_paced
+TR-0064761,E-0435,CRS-campaign_strategy,campaign strategy fundamentals,"[""campaign_strategy"",""collaboration""]",2025-01-01T00:00:00.000Z,2025-02-03T00:00:00.000Z,100,69,true,29,workshop
+TR-0064923,E-0436,CRS-problem_solving,problem solving fundamentals,"[""problem_solving""]",2025-01-18T00:00:00.000Z,2025-02-09T00:00:00.000Z,69,81,true,18,cohort
+TR-0065072,E-0437,CRS-ux_research,ux research fundamentals,"[""ux_research"",""collaboration""]",2026-01-24T00:00:00.000Z,2026-03-04T00:00:00.000Z,100,88,true,15,cohort
+TR-0065235,E-0438,CRS-communication,communication fundamentals,"[""communication"",""execution""]",2025-01-24T00:00:00.000Z,2025-02-27T00:00:00.000Z,87,83,true,23,cohort
+TR-0065359,E-0439,CRS-policy_navigation,policy navigation fundamentals,"[""policy_navigation""]",2026-03-01T00:00:00.000Z,2026-04-28T00:00:00.000Z,100,82,true,21,self_paced
+TR-0065675,E-0441,CRS-system_design,system design fundamentals,"[""system_design""]",2025-05-14T00:00:00.000Z,2025-06-18T00:00:00.000Z,100,58,false,23,cohort
+TR-0065677,E-0441,CRS-communication,communication fundamentals,"[""communication"",""execution""]",2024-12-08T00:00:00.000Z,2025-01-10T00:00:00.000Z,89,62,true,14,self_paced
+TR-0065971,E-0443,CRS-communication,communication fundamentals,"[""communication"",""campaign_strategy""]",2025-12-02T00:00:00.000Z,2026-01-25T00:00:00.000Z,100,72,true,13,workshop
+TR-0066135,E-0444,CRS-execution,execution fundamentals,"[""execution"",""communication""]",2025-02-10T00:00:00.000Z,2025-04-02T00:00:00.000Z,100,74,true,18,cohort
+TR-0066138,E-0444,CRS-communication,communication fundamentals,"[""communication""]",2025-04-09T00:00:00.000Z,2025-05-09T00:00:00.000Z,100,76,true,19,cohort
+TR-0066300,E-0445,CRS-execution,execution fundamentals,"[""execution"",""ux_research""]",2026-06-06T00:00:00.000Z,2026-07-17T00:00:00.000Z,100,83,true,17,workshop
+TR-0066303,E-0445,CRS-communication,communication fundamentals,"[""communication""]",2025-09-17T00:00:00.000Z,2025-11-12T00:00:00.000Z,33,76,true,5,self_paced
+TR-0066441,E-0446,CRS-compliance_rigor,compliance rigor fundamentals,"[""compliance_rigor""]",2025-11-16T00:00:00.000Z,2025-12-29T00:00:00.000Z,100,95,true,19,cohort
+TR-0066869,E-0449,CRS-execution,execution fundamentals,"[""execution""]",2024-11-07T00:00:00.000Z,2024-12-14T00:00:00.000Z,100,58,false,7,workshop
+TR-0066977,E-0450,CRS-execution,execution fundamentals,"[""execution"",""communication""]",2025-03-04T00:00:00.000Z,2025-04-08T00:00:00.000Z,100,73,true,8,workshop
+TR-0066980,E-0450,CRS-execution,execution fundamentals,"[""execution""]",2024-10-16T00:00:00.000Z,2024-12-08T00:00:00.000Z,100,64,true,19,self_paced
+TR-0067123,E-0451,CRS-execution,execution fundamentals,"[""execution"",""content_quality""]",2025-11-01T00:00:00.000Z,2025-12-09T00:00:00.000Z,100,89,true,15,self_paced
+TR-0067455,E-0453,CRS-ux_research,ux research fundamentals,"[""ux_research""]",2025-07-09T00:00:00.000Z,2025-08-02T00:00:00.000Z,100,71,true,28,cohort
+TR-0067457,E-0453,CRS-ux_research,ux research fundamentals,"[""ux_research"",""execution""]",2026-03-24T00:00:00.000Z,2026-05-03T00:00:00.000Z,100,78,true,12,workshop
+TR-0068029,E-0457,CRS-system_design,system design fundamentals,"[""system_design""]",2025-04-02T00:00:00.000Z,2025-05-08T00:00:00.000Z,100,54,false,18,cohort
+TR-0068163,E-0458,CRS-collaboration,collaboration fundamentals,"[""collaboration"",""execution""]",2024-12-16T00:00:00.000Z,2025-02-04T00:00:00.000Z,100,59,false,22,self_paced
+TR-0068486,E-0460,CRS-roadmap_prioritization,roadmap prioritization fundamentals,"[""roadmap_prioritization""]",2026-01-07T00:00:00.000Z,2026-01-30T00:00:00.000Z,100,61,true,25,cohort
+TR-0068488,E-0460,CRS-problem_solving,problem solving fundamentals,"[""problem_solving"",""roadmap_prioritization""]",2025-10-22T00:00:00.000Z,2025-12-07T00:00:00.000Z,100,59,false,28,workshop
+TR-0068605,E-0461,CRS-execution,execution fundamentals,"[""execution""]",2025-10-29T00:00:00.000Z,2025-11-20T00:00:00.000Z,100,62,true,14,cohort
+TR-0068759,E-0462,CRS-communication,communication fundamentals,"[""communication""]",2026-02-04T00:00:00.000Z,2026-04-02T00:00:00.000Z,100,87,true,16,self_paced
+TR-0068761,E-0462,CRS-financial_modeling,financial modeling fundamentals,"[""financial_modeling""]",2025-09-30T00:00:00.000Z,2025-11-14T00:00:00.000Z,63,59,false,21,workshop
+TR-0068916,E-0463,CRS-execution,execution fundamentals,"[""execution"",""problem_solving""]",2025-09-20T00:00:00.000Z,2025-11-09T00:00:00.000Z,100,64,true,11,workshop
+TR-0069079,E-0464,CRS-problem_solving,problem solving fundamentals,"[""problem_solving"",""execution""]",2025-07-30T00:00:00.000Z,2025-09-12T00:00:00.000Z,100,68,true,4,workshop
+TR-0069082,E-0464,CRS-communication,communication fundamentals,"[""communication"",""customer_resolution""]",2025-11-10T00:00:00.000Z,2025-12-29T00:00:00.000Z,100,74,true,14,self_paced
+TR-0069251,E-0465,CRS-collaboration,collaboration fundamentals,"[""collaboration""]",2026-05-20T00:00:00.000Z,2026-06-26T00:00:00.000Z,100,64,true,15,workshop
+TR-0069405,E-0466,CRS-problem_solving,problem solving fundamentals,"[""problem_solving"",""collaboration""]",2026-06-22T00:00:00.000Z,2026-07-23T00:00:00.000Z,100,80,true,20,workshop
+TR-0069408,E-0466,CRS-collaboration,collaboration fundamentals,"[""collaboration""]",2025-01-09T00:00:00.000Z,2025-02-21T00:00:00.000Z,100,67,true,29,workshop
+TR-0069703,E-0468,CRS-collaboration,collaboration fundamentals,"[""collaboration""]",2025-05-25T00:00:00.000Z,2025-06-17T00:00:00.000Z,50,67,true,17,workshop
+TR-0069705,E-0468,CRS-roadmap_prioritization,roadmap prioritization fundamentals,"[""roadmap_prioritization"",""stakeholder_alignment""]",2025-05-11T00:00:00.000Z,2025-06-29T00:00:00.000Z,100,78,true,27,self_paced
+TR-0069998,E-0470,CRS-collaboration,collaboration fundamentals,"[""collaboration""]",2026-05-05T00:00:00.000Z,2026-06-22T00:00:00.000Z,100,63,true,13,cohort
+TR-0070000,E-0470,CRS-problem_solving,problem solving fundamentals,"[""problem_solving""]",2026-03-14T00:00:00.000Z,2026-05-10T00:00:00.000Z,79,84,true,21,self_paced
+TR-0070170,E-0471,CRS-talent_assessment,talent assessment fundamentals,"[""talent_assessment""]",2025-09-15T00:00:00.000Z,2025-11-07T00:00:00.000Z,100,73,true,14,cohort
+TR-0070172,E-0471,CRS-collaboration,collaboration fundamentals,"[""collaboration"",""execution""]",2025-02-23T00:00:00.000Z,2025-03-27T00:00:00.000Z,100,81,true,22,workshop
+TR-0070340,E-0472,CRS-communication,communication fundamentals,"[""communication""]",2026-04-14T00:00:00.000Z,2026-05-31T00:00:00.000Z,100,69,true,19,workshop
+TR-0070492,E-0473,CRS-system_design,system design fundamentals,"[""system_design""]",2025-03-24T00:00:00.000Z,2025-04-20T00:00:00.000Z,100,66,true,10,workshop
+TR-0070674,E-0474,CRS-pipeline_mgmt,pipeline mgmt fundamentals,"[""pipeline_mgmt""]",2025-02-21T00:00:00.000Z,2025-04-21T00:00:00.000Z,100,70,true,28,cohort
+TR-0070782,E-0475,CRS-communication,communication fundamentals,"[""communication"",""problem_solving""]",2026-06-25T00:00:00.000Z,2026-08-10T00:00:00.000Z,100,100,true,25,cohort
+TR-0070785,E-0475,CRS-execution,execution fundamentals,"[""execution"",""campaign_strategy""]",2024-10-06T00:00:00.000Z,2024-11-26T00:00:00.000Z,100,41,false,18,workshop
+TR-0070952,E-0476,CRS-stakeholder_alignment,stakeholder alignment fundamentals,"[""stakeholder_alignment""]",2025-08-16T00:00:00.000Z,2025-09-16T00:00:00.000Z,100,75,true,14,cohort
+TR-0071083,E-0477,CRS-problem_solving,problem solving fundamentals,"[""problem_solving"",""ux_research""]",2024-11-28T00:00:00.000Z,2024-12-28T00:00:00.000Z,42,79,true,18,self_paced
+TR-0071400,E-0479,CRS-communication,communication fundamentals,"[""communication"",""talent_assessment""]",2026-04-04T00:00:00.000Z,2026-05-17T00:00:00.000Z,100,49,false,24,self_paced
+TR-0071403,E-0479,CRS-problem_solving,problem solving fundamentals,"[""problem_solving""]",2025-01-07T00:00:00.000Z,2025-02-23T00:00:00.000Z,100,63,true,28,workshop
+TR-0071707,E-0481,CRS-code_quality,code quality fundamentals,"[""code_quality"",""collaboration""]",2025-11-30T00:00:00.000Z,2026-01-24T00:00:00.000Z,100,63,true,9,cohort
+TR-0071710,E-0481,CRS-system_design,system design fundamentals,"[""system_design"",""problem_solving""]",2025-06-22T00:00:00.000Z,2025-08-07T00:00:00.000Z,100,50,false,23,self_paced
+TR-0071865,E-0482,CRS-collaboration,collaboration fundamentals,"[""collaboration""]",2026-03-25T00:00:00.000Z,2026-05-20T00:00:00.000Z,100,76,true,12,cohort
+TR-0071867,E-0482,CRS-execution,execution fundamentals,"[""execution""]",2025-12-23T00:00:00.000Z,2026-01-23T00:00:00.000Z,100,66,true,9,workshop
+TR-0072138,E-0484,CRS-roadmap_prioritization,roadmap prioritization fundamentals,"[""roadmap_prioritization"",""collaboration""]",2026-05-25T00:00:00.000Z,2026-07-12T00:00:00.000Z,100,83,true,13,cohort
+TR-0072141,E-0484,CRS-execution,execution fundamentals,"[""execution""]",2025-05-05T00:00:00.000Z,2025-06-08T00:00:00.000Z,100,72,true,9,self_paced
+TR-0072303,E-0485,CRS-execution,execution fundamentals,"[""execution"",""visual_craft""]",2025-04-09T00:00:00.000Z,2025-05-17T00:00:00.000Z,83,69,true,4,workshop
+TR-0072306,E-0485,CRS-communication,communication fundamentals,"[""communication"",""visual_craft""]",2026-04-10T00:00:00.000Z,2026-05-30T00:00:00.000Z,100,76,true,10,cohort
+TR-0072903,E-0489,CRS-communication,communication fundamentals,"[""communication"",""collaboration""]",2025-04-26T00:00:00.000Z,2025-06-23T00:00:00.000Z,100,64,true,26,cohort
+TR-0072906,E-0489,CRS-collaboration,collaboration fundamentals,"[""collaboration""]",2025-07-15T00:00:00.000Z,2025-08-04T00:00:00.000Z,100,61,true,11,workshop
+TR-0073048,E-0490,CRS-communication,communication fundamentals,"[""communication"",""execution""]",2025-12-14T00:00:00.000Z,2026-01-17T00:00:00.000Z,70,58,false,14,workshop
+TR-0073208,E-0491,CRS-communication,communication fundamentals,"[""communication"",""problem_solving""]",2025-03-13T00:00:00.000Z,2025-05-07T00:00:00.000Z,100,68,true,8,self_paced
+TR-0073516,E-0493,CRS-visual_craft,visual craft fundamentals,"[""visual_craft"",""execution""]",2024-12-31T00:00:00.000Z,2025-02-24T00:00:00.000Z,100,63,true,17,cohort
+TR-0073833,E-0495,CRS-communication,communication fundamentals,"[""communication"",""talent_assessment""]",2025-01-20T00:00:00.000Z,2025-03-15T00:00:00.000Z,100,64,true,4,workshop
+TR-0073980,E-0496,CRS-problem_solving,problem solving fundamentals,"[""problem_solving"",""execution""]",2024-11-09T00:00:00.000Z,2024-12-15T00:00:00.000Z,100,68,true,14,self_paced
+TR-0073983,E-0496,CRS-customer_resolution,customer resolution fundamentals,"[""customer_resolution"",""communication""]",2026-02-19T00:00:00.000Z,2026-03-30T00:00:00.000Z,100,77,true,6,self_paced
+TR-0074460,E-0499,CRS-communication,communication fundamentals,"[""communication""]",2026-05-10T00:00:00.000Z,2026-06-28T00:00:00.000Z,67,69,true,28,cohort
+TR-0074462,E-0499,CRS-communication,communication fundamentals,"[""communication""]",2026-02-02T00:00:00.000Z,2026-03-10T00:00:00.000Z,100,70,true,5,cohort
+TR-0074593,E-0500,CRS-problem_solving,problem solving fundamentals,"[""problem_solving"",""roadmap_prioritization""]",2026-03-10T00:00:00.000Z,2026-04-28T00:00:00.000Z,100,57,false,17,workshop
+TR-0074596,E-0500,CRS-execution,execution fundamentals,"[""execution"",""roadmap_prioritization""]",2025-02-11T00:00:00.000Z,2025-03-06T00:00:00.000Z,100,63,true,12,cohort

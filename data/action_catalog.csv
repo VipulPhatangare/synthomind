@@ -1,0 +1,61 @@
+action_id,action_type,name,competency_tags,target_level_range,duration_hours,modality,prerequisite_level,cost,availability,historical_uplift_median,historical_time_to_effect_days,historical_n
+ACT-0001,stretch_assignment,stretch assignment: communication #1,"[""communication""]","[2,4]",19,on_the_job,2,87,open,0.52,81,40
+ACT-0002,community,community: communication #2,"[""communication""]","[2,4]",19,self_paced,2,372,open,0.38,71,34
+ACT-0003,coaching,coaching: communication #3,"[""communication""]","[2,4]",25,self_paced,1,418,open,0.23,124,9
+ACT-0004,mentor,mentor: execution #1,"[""execution""]","[2,4]",4,self_paced,2,265,open,0.22,68,51
+ACT-0005,project,project: execution #2,"[""execution""]","[2,4]",32,cohort,1,18,open,0.23,120,39
+ACT-0006,mentor,mentor: execution #3,"[""execution""]","[2,4]",26,self_paced,1,369,open,0.72,113,18
+ACT-0007,mentor,mentor: collaboration #1,"[""collaboration""]","[2,4]",13,self_paced,2,340,open,0.62,170,12
+ACT-0008,community,community: collaboration #2,"[""collaboration""]","[2,4]",18,on_the_job,1,55,open,0.21,93,33
+ACT-0009,stretch_assignment,stretch assignment: collaboration #3,"[""collaboration""]","[2,4]",36,self_paced,2,467,open,0.37,140,17
+ACT-0010,stretch_assignment,stretch assignment: problem solving #1,"[""problem_solving""]","[2,4]",33,self_paced,2,281,open,0.75,103,38
+ACT-0011,project,project: problem solving #2,"[""problem_solving""]","[2,4]",24,cohort,2,147,open,0.47,158,44
+ACT-0012,community,community: problem solving #3,"[""problem_solving""]","[2,4]",35,cohort,2,147,open,0.26,139,24
+ACT-0013,coaching,coaching: system design #1,"[""system_design""]","[2,4]",36,self_paced,1,410,open,0.28,176,17
+ACT-0014,coaching,coaching: system design #2,"[""system_design""]","[2,4]",28,self_paced,1,81,open,0.59,90,18
+ACT-0015,stretch_assignment,stretch assignment: system design #3,"[""system_design""]","[2,4]",35,cohort,2,196,open,0.28,161,27
+ACT-0016,course,course: code quality #1,"[""code_quality""]","[2,4]",30,1:1,2,454,open,0.33,126,33
+ACT-0017,mentor,mentor: code quality #2,"[""code_quality""]","[2,4]",3,1:1,2,145,open,0.37,90,9
+ACT-0018,mentor,mentor: code quality #3,"[""code_quality""]","[2,4]",39,1:1,2,81,open,0.3,120,23
+ACT-0019,project,project: negotiation #1,"[""negotiation""]","[2,4]",18,cohort,2,199,open,0.4,165,25
+ACT-0020,project,project: negotiation #2,"[""negotiation""]","[2,4]",25,1:1,2,117,open,0.4,85,24
+ACT-0021,coaching,coaching: negotiation #3,"[""negotiation""]","[2,4]",10,self_paced,2,157,open,0.27,87,10
+ACT-0022,stretch_assignment,stretch assignment: pipeline mgmt #1,"[""pipeline_mgmt""]","[2,4]",9,cohort,1,356,open,0.75,154,30
+ACT-0023,course,course: pipeline mgmt #2,"[""pipeline_mgmt""]","[2,4]",34,1:1,2,447,open,0.47,64,40
+ACT-0024,coaching,coaching: pipeline mgmt #3,"[""pipeline_mgmt""]","[2,4]",9,cohort,2,492,open,0.5,161,51
+ACT-0025,coaching,coaching: campaign strategy #1,"[""campaign_strategy""]","[2,4]",4,self_paced,1,253,open,0.61,147,59
+ACT-0026,coaching,coaching: campaign strategy #2,"[""campaign_strategy""]","[2,4]",26,on_the_job,2,299,open,0.41,105,53
+ACT-0027,coaching,coaching: campaign strategy #3,"[""campaign_strategy""]","[2,4]",15,on_the_job,2,164,open,0.71,65,27
+ACT-0028,course,course: content quality #1,"[""content_quality""]","[2,4]",5,1:1,2,477,open,0.73,107,44
+ACT-0029,course,course: content quality #2,"[""content_quality""]","[2,4]",12,self_paced,1,145,open,0.46,121,45
+ACT-0030,coaching,coaching: content quality #3,"[""content_quality""]","[2,4]",31,self_paced,2,258,open,0.47,108,31
+ACT-0031,project,project: roadmap prioritization #1,"[""roadmap_prioritization""]","[2,4]",14,cohort,1,252,open,0.36,116,36
+ACT-0032,stretch_assignment,stretch assignment: roadmap prioritization #2,"[""roadmap_prioritization""]","[2,4]",18,self_paced,1,74,open,0.77,54,53
+ACT-0033,project,project: roadmap prioritization #3,"[""roadmap_prioritization""]","[2,4]",21,self_paced,2,28,open,0.42,76,44
+ACT-0034,stretch_assignment,stretch assignment: stakeholder alignment #1,"[""stakeholder_alignment""]","[2,4]",5,on_the_job,2,330,open,0.68,119,49
+ACT-0035,stretch_assignment,stretch assignment: stakeholder alignment #2,"[""stakeholder_alignment""]","[2,4]",8,self_paced,1,29,open,0.36,135,42
+ACT-0036,stretch_assignment,stretch assignment: stakeholder alignment #3,"[""stakeholder_alignment""]","[2,4]",39,self_paced,1,168,open,0.37,157,35
+ACT-0037,mentor,mentor: visual craft #1,"[""visual_craft""]","[2,4]",37,on_the_job,1,259,open,0.72,171,43
+ACT-0038,stretch_assignment,stretch assignment: visual craft #2,"[""visual_craft""]","[2,4]",32,cohort,1,375,open,0.53,137,36
+ACT-0039,stretch_assignment,stretch assignment: visual craft #3,"[""visual_craft""]","[2,4]",38,on_the_job,2,154,open,0.58,135,52
+ACT-0040,project,project: ux research #1,"[""ux_research""]","[2,4]",35,cohort,2,206,open,0.4,116,51
+ACT-0041,stretch_assignment,stretch assignment: ux research #2,"[""ux_research""]","[2,4]",34,1:1,1,143,open,0.78,110,22
+ACT-0042,stretch_assignment,stretch assignment: ux research #3,"[""ux_research""]","[2,4]",31,1:1,2,92,open,0.71,166,36
+ACT-0043,project,project: financial modeling #1,"[""financial_modeling""]","[2,4]",4,cohort,2,337,open,0.45,104,40
+ACT-0044,coaching,coaching: financial modeling #2,"[""financial_modeling""]","[2,4]",21,self_paced,1,48,open,0.27,95,51
+ACT-0045,community,community: financial modeling #3,"[""financial_modeling""]","[2,4]",27,self_paced,1,135,open,0.62,81,52
+ACT-0046,stretch_assignment,stretch assignment: compliance rigor #1,"[""compliance_rigor""]","[2,4]",36,on_the_job,1,49,open,0.58,77,32
+ACT-0047,mentor,mentor: compliance rigor #2,"[""compliance_rigor""]","[2,4]",11,1:1,2,244,open,0.56,59,48
+ACT-0048,coaching,coaching: compliance rigor #3,"[""compliance_rigor""]","[2,4]",36,self_paced,1,16,open,0.4,77,19
+ACT-0049,community,community: talent assessment #1,"[""talent_assessment""]","[2,4]",24,on_the_job,1,324,open,0.22,144,49
+ACT-0050,project,project: talent assessment #2,"[""talent_assessment""]","[2,4]",9,on_the_job,2,69,open,0.25,149,30
+ACT-0051,community,community: talent assessment #3,"[""talent_assessment""]","[2,4]",32,cohort,2,87,open,0.29,119,43
+ACT-0052,mentor,mentor: policy navigation #1,"[""policy_navigation""]","[2,4]",31,self_paced,1,329,open,0.56,119,18
+ACT-0053,community,community: policy navigation #2,"[""policy_navigation""]","[2,4]",21,1:1,1,478,open,0.55,83,10
+ACT-0054,mentor,mentor: policy navigation #3,"[""policy_navigation""]","[2,4]",29,on_the_job,1,431,open,0.47,69,41
+ACT-0055,stretch_assignment,stretch assignment: customer resolution #1,"[""customer_resolution""]","[2,4]",9,on_the_job,1,68,open,0.8,73,32
+ACT-0056,stretch_assignment,stretch assignment: customer resolution #2,"[""customer_resolution""]","[2,4]",25,cohort,2,79,open,0.79,156,26
+ACT-0057,mentor,mentor: customer resolution #3,"[""customer_resolution""]","[2,4]",21,on_the_job,1,242,open,0.35,112,9
+ACT-0058,community,community: troubleshooting #1,"[""troubleshooting""]","[2,4]",15,cohort,1,251,open,0.22,134,11
+ACT-0059,community,community: troubleshooting #2,"[""troubleshooting""]","[2,4]",31,1:1,2,26,open,0.55,119,33
+ACT-0060,stretch_assignment,stretch assignment: troubleshooting #3,"[""troubleshooting""]","[2,4]",20,cohort,2,8,open,0.62,45,43

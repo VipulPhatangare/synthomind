@@ -1,0 +1,68 @@
+[
+  {
+    "key": "divergent_profile",
+    "capability": "Divergence detection",
+    "headline": "One skill up, another down",
+    "blurb": "Communication is climbing while execution slips — during the same quarters, around a team change. The system flags the trade-off and points at the org event without claiming it caused anything.",
+    "employee_id": "E-0001",
+    "competency_id": "execution",
+    "archetype": "mixed_profile",
+    "employee_name": "Siddharth Saxena",
+    "competency_name": "Execution & Delivery"
+  },
+  {
+    "key": "late_bloomer",
+    "capability": "Regime detection",
+    "headline": "Flat for a year, then climbing",
+    "blurb": "Averaged over the full history this looks like noise. The system finds the point the trend changed and reports the CURRENT regime instead of a diluted whole-series average.",
+    "employee_id": "E-0001",
+    "competency_id": "system_design",
+    "archetype": "late_bloomer",
+    "employee_name": "Siddharth Saxena",
+    "competency_name": "System Design"
+  },
+  {
+    "key": "time_travel",
+    "capability": "Time travel",
+    "headline": "What we said 18 months ago",
+    "blurb": "Replay the same pipeline against only the evidence that existed at an earlier date. Same model, same code — the verdict itself has genuinely moved as evidence accrued, which is the whole point of \"continuous\" over \"snapshot\".",
+    "employee_id": "E-0001",
+    "competency_id": "communication",
+    "archetype": "steady_improver",
+    "employee_name": "Siddharth Saxena",
+    "competency_name": "Communication"
+  },
+  {
+    "key": "biased_rater",
+    "capability": "Rater calibration",
+    "headline": "The manager changed, not the person",
+    "blurb": "True skill was flat the whole time, but the rating series looks like a jump — because a lenient rater was swapped for a stricter one partway through. Per-rater calibration is what keeps that from reading as a real change.",
+    "employee_id": "E-0141",
+    "competency_id": "execution",
+    "archetype": "biased_rater_true",
+    "employee_name": "Sanjay Iyer",
+    "competency_name": "Execution & Delivery"
+  },
+  {
+    "key": "unobserved",
+    "capability": "Sufficiency gate + counterfactual",
+    "headline": "We don't know — and here's why",
+    "blurb": "Evidence stopped partway through the year. Rather than guess, the system abstains and states exactly what evidence would resolve it — a sized, concrete ask instead of a dead end.",
+    "employee_id": "E-0281",
+    "competency_id": "problem_solving",
+    "archetype": "unobserved_true",
+    "employee_name": "Vikram Chopra",
+    "competency_name": "Problem Solving"
+  },
+  {
+    "key": "sparse_evidence",
+    "capability": "Evidence Sufficiency Score",
+    "headline": "Two data points, honestly labeled",
+    "blurb": "Only two observations exist for this competency, ever. The sufficiency gate catches it and abstains rather than producing a confident-looking number off almost nothing.",
+    "employee_id": "E-0351",
+    "competency_id": "collaboration",
+    "archetype": "sparse_true",
+    "employee_name": "Suresh Singh",
+    "competency_name": "Collaboration"
+  }
+]
