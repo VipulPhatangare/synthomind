@@ -1,6 +1,7 @@
 # TalentIQ — Continuous Talent Intelligence Platform
 
 **Live demo:** [talentiq.vipulphatangare.space](https://talentiq.vipulphatangare.space/)
+**Login:** `vipulphatangare3@gmail.com` / `0831`
 
 A longitudinal skill/competency tracker that answers, per employee per
 competency: **is this person improving, stagnating, or declining — and how
