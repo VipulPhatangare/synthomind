@@ -13,11 +13,11 @@ export const env = {
   OPENAI_API_KEY: process.env.OPENAI_API_KEY || "",
   GEMINI_API_KEY: process.env.GEMINI_API_KEY || "",
 
-  JWT_SECRET: process.env.JWT_SECRET || "dev-secret-change-me",
+  JWT_SECRET: required("JWT_SECRET"),
   JWT_EXPIRE_DAYS: Number(process.env.JWT_EXPIRE_DAYS || 7),
 
-  ADMIN_EMAIL: process.env.ADMIN_EMAIL || "vipulphatangare3@gmail.com",
-  ADMIN_PASSWORD: process.env.ADMIN_PASSWORD || "0831",
+  ADMIN_EMAIL: required("ADMIN_EMAIL"),
+  ADMIN_PASSWORD: required("ADMIN_PASSWORD"),
 
   PORT: Number(process.env.PORT || 4000),
   CLIENT_ORIGIN: process.env.CLIENT_ORIGIN || "http://localhost:5173",
